@@ -1,7 +1,7 @@
 (lp1
 (lp2
-I0
-aI0
+I6
+aI1
 aI0
 aI0
 aa(lp3
@@ -10,7 +10,7 @@ aI0
 aI0
 aI0
 aa(lp4
-I0
+I14
 aI0
 aI0
 aI0
@@ -20,12 +20,12 @@ aI0
 aI0
 aI0
 aa(lp6
-I0
-aI0
+I12
+aI1
 aI0
 aI0
 aa(lp7
-I0
+I2
 aI0
 aI0
 aI0
@@ -35,7 +35,7 @@ aI0
 aI0
 aI0
 aa(lp9
-I0
+I8
 aI0
 aI0
 aI0

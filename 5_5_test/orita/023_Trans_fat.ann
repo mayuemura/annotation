@@ -1,0 +1,9 @@
+T1	Alias 50 79	trans-unsaturated fatty acids
+T2	Alias 81 98	trans fatty acids
+T3	Material_Ingredients 104 158	a type of unsaturated fats that are uncommon in nature
+T4	Material_Ingredients 206 220	vegetable fats
+T5	MeansOfUse 225 241	use in margarine
+T6	MeansOfUse 243 253	snack food
+T7	MeansOfUse 255 275	packaged baked goods
+T8	MeansOfUse 280 296	frying fast food
+T9	Time 297 318	starting in the 1950s
