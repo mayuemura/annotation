@@ -1,0 +1,38 @@
+refimprove|date=September 2014
+Drugbox
+| verifiedrevid = 447548741
+
+<!--Combo data-->
+| type = combo
+| component1 = Benzoyl peroxide
+| component2 = Clindamycin phosphate
+| class1 = Antiseptic
+| class2 = Antibiotic
+
+<!--Clinical data-->
+| tradename =  
+| MedlinePlus = a603021
+| licence_EU =  
+| licence_US = Duac
+| pregnancy_category =  C
+| legal_AU = <!-- S2, S3, S4, S5, S6, S7, S8, S9 or Unscheduled-->
+| legal_UK = <!-- GSL, P, POM, CD, or Class A, B, C -->
+| legal_US =  
+| legal_status = Rx
+| dependency_liability =  
+| routes_of_administration = Topical
+
+<!--Identifiers-->
+| CAS_number_Ref = cascite|correct|??
+| CAS_number =  
+| ATC_prefix = D10
+| ATC_suffix = AE51
+| ATC_supplemental =  
+| DrugBank_Ref = drugbankcite|correct|drugbank
+| DrugBank =  
+| ChemSpiderID_Ref = chemspidercite|correct|chemspider
+
+<!--Chemical data-->
+
+The pharmaceutical drug|drug combination benzoyl peroxide/clindamycin is a topical gel used for the treatment of Acne vulgaris|acne. It is sold under the trade names Duac (by Stiefel Labs) and BenzaClin (by Sanofi Aventis). Both contain 1% clindamycin phosphate and 5% benzoyl peroxide and are prescription drugs.
+

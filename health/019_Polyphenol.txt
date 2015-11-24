@@ -1,0 +1,11 @@
+About|larger phenolic substances|smaller molecules|natural phenol
+Polyphenols (noun, pronunciation of the singular /pɑli'finəl/ or /pɑli'fɛnəl/, also known as polyhydroxyphenols) are a structural class of mainly Natural product|natural, but also Synthetic compound|synthetic or Semisynthesis|semisynthetic, organic chemicals characterized by the presence of large multiples of phenol structural units. The number and characteristics of these phenol structures underlie the unique physical, chemical, and biological (metabolic, toxic, therapeutic, etc.) properties of particular members of the class. Examples include tannic acid (image at right), and ellagitannin (image below). The historically important chemical class of tannins is a subset of the polyphenols.
+
+The name derives from the ancient Greek word πολύς (polus, meaning "many, much") and the word phenol which refers to a chemical structure formed by attaching to an aromatic benzenoid (phenyl) ring, an hydroxyl (-OH) group akin to that found in alcohols (hence the "-ol" suffix). The term polyphenol appears to have been in use since 1894. The WBSSH describes the polyphenol class as:
+* generally moderately water-soluble compounds
+* with molecular weight of 500–4000 Da
+* with >12 phenolic hydroxyl groups
+* with 5–7 aromatic rings per 1000 Da
+where the limits to these ranges are somewhat flexible. on the other hand, with its 14 gallic acid moieties (most in ellagic acid-type components), and more than 40 phenolic hydroxyl groups, meets the criteria of both definitions of a polyphenol. Other examples of compounds that fall under both the WBSSH and Quideau definitions include the black tea antioxidant theaflavin-3-gallate shown below, and the hydrolyzable tannin, tannic acid, shown above.
+
+
