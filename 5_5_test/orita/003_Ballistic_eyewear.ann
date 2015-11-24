@@ -1,0 +1,7 @@
+T1	Material_Ingredients 21 49	a form of glasses or goggles
+T2	Effect 55 99	protect from small projectiles and fragments
+T3	User 149 176	anyone who wishes to buy it
+T4	User 183 200	the U.S. military
+T5	Time 320 375	1880 and extends through to World War I and the present
+T6	DegreeOfEffect 435 473	the effectiveness of ballistic eyewear
+R1	EFFECT_MODIFIER Arg1:T2 Arg2:T6	
