@@ -1,0 +1,10 @@
+T1	Material_Ingredients 14 51	an emulsion of water and certain fats
+T2	Material_Ingredients 71 78	beeswax
+T3	Material_Ingredients 83 103	various scent agents
+T4	Effect 117 128	smooth skin
+T5	Effect 133 146	remove makeup
+T6	Effect 346 399	the cooling feeling that the cream leaves on the skin
+T7	MeansOfUse 477 546	is mainly used for skin treatment (such as a facial mask or lip balm)
+T8	Effect 559 571	moisturizing
+T9	Effect 607 620	remove makeup
+T10	MeansOfUse 628 641	shaving cream

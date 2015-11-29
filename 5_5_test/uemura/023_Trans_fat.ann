@@ -1,0 +1,32 @@
+T1	Alias 50 80	trans-unsaturated fatty acids,
+T2	Alias 81 98	trans fatty acids
+T3	PartOf 104 130	a type of unsaturated fats
+T4	PartOf 206 220	vegetable fats
+T5	MeansOfUse 225 296	use in margarine, snack food, packaged baked goods and frying fast food
+T6	Effect 410 440	risk of coronary heart disease
+T7	Effect 464 478	cause of death
+R1	CAUSALITY Arg1:T6 Arg2:T7	
+T10	CertaintyOfEffect 1756 1776	Two Canadian studies
+T11	Version 1797 1828	natural trans fat vaccenic acid
+T12	Effect 1882 1977	beneficial compared to hydrogenated vegetable shortening, or a mixture of pork lard and soy fat
+R3	EFFECT_MODIFIER Arg1:T12 Arg2:T10	
+R4	CONDITION Arg1:T11 Arg2:T12	
+T13	CertaintyOfEffect 1979 2022	A study by the US Department of Agriculture
+T14	Version 2094 2115	industrial trans fats
+T15	Effect 2116 2167	only raise LDL without any beneficial effect on HDL
+R5	CONDITION Arg1:T14 Arg2:T15	
+R6	EFFECT_MODIFIER Arg1:T15 Arg2:T13	
+T16	CertaintyOfEffect 2169 2226	In light of recognized evidence and scientific agreement,
+T17	Effect 2286 2304	harmful for health
+R7	EFFECT_MODIFIER Arg1:T17 Arg2:T16	
+T19	CertaintyOfEffect 2446 2480	Food and Drug Administration (FDA)
+T20	NullEffect 2580 2605	not "generally recognized
+T21	Effect 2609 2614	safe"
+R8	EFFECT_MODIFIER Arg1:T21 Arg2:T20	
+R9	EFFECT_MODIFIER Arg1:T21 Arg2:T19	
+T23	CertaintyOfEffect 2729 2764	the FDA finalized its determination
+T24	NullEffect 2781 2809	are not generally recognized
+T25	Effect 2813 2817	safe
+R11	EFFECT_MODIFIER Arg1:T25 Arg2:T24	
+R12	EFFECT_MODIFIER Arg1:T25 Arg2:T23	
+T9	ComposedOf 494 517	long hydrocarbon chains

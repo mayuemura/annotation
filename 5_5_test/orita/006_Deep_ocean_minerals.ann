@@ -1,7 +1,7 @@
 T1	Material_Ingredients 30 158	mineral nutrients (chemical elements) extracted from deep ocean water (DOW) found at ocean depths of between 250 and 1500 meters
 T2	Material_Ingredients 174 199	over 70 mineral nutrients
 T3	Material_Ingredients 204 299	trace elements including magnesium (Mg), calcium (Ca) and potassium (K) in their bio ionic form
-T4	Material_Ingredients 582 606	a source of electrolytes
+T4	Effect 582 606	a source of electrolytes
 T5	Effect 612 708	can help metabolize carbohydrate, proteins and fat plus maintain bone, teeth and muscle function
 T6	CertaintyOfEffect 710 738	health benefits are possible
 R1	EFFECT_MODIFIER Arg1:T5 Arg2:T6	
@@ -11,3 +11,10 @@ T9	Effect 1053 1161	Provide the structure to our organs, tissues and bones – c
 T10	Effect 1185 1370	facilitates body fluid activity in tissues to maintain fluid balance, acid-base balance, membrane permeability, tissue irritability (including nerve transmission and muscle contraction)
 T11	Material_Ingredients 1373 1423	sodium, potassium, chloride, calcium and magnesium
 T12	Effect 1485 1533	catalyses up to 600 enzyme and hormone reactions
+T13	Alias 21 24	DOM
+T14	Alias 966 997	The minerals and trace elements
+T15	CertaintyOfEffect 1473 1484	potentially
+R2	EFFECT_MODIFIER Arg1:T12 Arg2:T15	
+T16	Material_Ingredients 1456 1465	Magnesium
+R3	CONDITION Arg1:T16 Arg2:T12	
+R4	CAUSALITY Arg1:T4 Arg2:T5	

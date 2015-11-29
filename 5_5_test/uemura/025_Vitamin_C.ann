@@ -1,0 +1,23 @@
+T1	Alias 13 43	<small>L</small>-ascorbic acid
+T2	Alias 48 64	simply ascorbate
+T3	Alias 66 92	the anion of ascorbic acid
+T4	PartOf 98 119	an essential nutrient
+T5	Effect 523 602	a cofactor (biochemistry)|cofactor in at least eight enzyme|enzymatic reactions
+T6	Time 657 676	when dysfunctional,
+T7	Effect 677 717	cause the most severe symptoms of scurvy
+T8	Version 733 774	the enantiomer <small>D</small>-ascorbate
+T9	Effect 801 831	identical antioxidant activity
+T10	DegreeOfEffect 867 875	far less
+T11	Effect 876 892	vitamin activity
+R1	EFFECT_MODIFIER Arg1:T11 Arg2:T10	
+T12	Effect 1002 1025	antioxidant properties,
+T13	Effect 1035 1052	enzymic reactions
+T14	Alias 1079 1088	Ascorbate
+T15	Effect 1268 1308	essential metabolism|metabolic reactions
+T16	MeansOfUse 1719 1745	Deficiency in this vitamin
+T17	Effect 1746 1781	causes the disease scurvy in humans
+R2	CONDITION Arg1:T17 Arg2:T16	
+T18	MeansOfUse 1821 1836	a food additive
+T19	Effect 1841 1858	prevent oxidation
+R3	CONDITION Arg1:T19 Arg2:T18	
+R4	CONDITION Arg1:T7 Arg2:T6	

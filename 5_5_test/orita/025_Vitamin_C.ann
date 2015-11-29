@@ -1,0 +1,9 @@
+T1	Alias 30 43	ascorbic acid
+T2	Alias 55 64	ascorbate
+T3	Material_Ingredients 98 163	an essential nutrient for humans and certain other animal species
+T4	Material_Ingredients 523 533	a cofactor
+T5	Version 657 675	when dysfunctional
+T6	Effect 677 717	cause the most severe symptoms of scurvy
+T7	Purpose 1241 1334	is required for a range of essential metabolism|metabolic reactions in all animals and plants
+T8	Effect 1746 1781	causes the disease scurvy in humans
+T9	MeansOfUse 1813 1858	used as a food additive, to prevent oxidation

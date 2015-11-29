@@ -1,0 +1,12 @@
+T1	Effect 47 66	facial care product
+T2	Effect 83 187	remove make-up, dead skin|skin cells, oil, dirt, and other types of pollutants from the skin of the face
+T3	Effect 203 226	unclog Sweat pore|pores
+T4	Effect 231 281	prevent skin conditions such as Acne vulgaris|acne
+R1	CAUSALITY Arg1:T2 Arg2:T3	
+R2	CAUSALITY Arg1:T3 Arg2:T4	
+T5	MeansOfUse 309 392	part of a skin care regimen together with a toner (skin care)|toner and moisturizer
+T6	Effect 415 426	remove dirt
+T7	MeansOfUse 447 512	a better alternative to bar soap or another form of skin cleanser
+T8	Effect 1250 1277	prevent drying out the skin
+T9	ComposedOf 1306 1318	moisturizers
+R3	CONDITION Arg1:T9 Arg2:T8	

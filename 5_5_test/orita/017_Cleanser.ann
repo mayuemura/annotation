@@ -1,0 +1,9 @@
+T1	Effect 40 66	a Face|facial care product
+T2	Effect 72 187	is used to remove make-up, dead skin|skin cells, oil, dirt, and other types of pollutants from the skin of the face
+T3	Effect 203 281	unclog Sweat pore|pores and prevent skin conditions such as Acne vulgaris|acne
+T4	MeansOfUse 298 392	be used as part of a skin care regimen together with a toner (skin care)|toner and moisturizer
+T5	Effect 415 426	remove dirt
+T7	MeansOfUse 444 512	be a better alternative to bar soap or another form of skin cleanser
+T6	Material_Ingredients 1306 1318	moisturizers
+T8	Effect 1250 1277	prevent drying out the skin
+R1	CONDITION Arg1:T6 Arg2:T8	

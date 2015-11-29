@@ -7,3 +7,12 @@ T6	MeansOfUse 243 253	snack food
 T7	MeansOfUse 255 275	packaged baked goods
 T8	MeansOfUse 280 296	frying fast food
 T9	Time 297 318	starting in the 1950s
+T10	Effect 410 478	risk of coronary heart disease, the worldwide leading cause of death
+T11	Material_Ingredients 494 517	long hydrocarbon chains
+T12	Version 1793 1862	the natural trans fat vaccenic acid, found in beef and dairy products
+T13	Effect 1882 1977	beneficial compared to hydrogenated vegetable shortening, or a mixture of pork lard and soy fat
+T14	Effect 2049 2084	raises both HDL and LDL cholesterol
+T15	Version 2094 2115	industrial trans fats
+T16	Effect 2116 2167	only raise LDL without any beneficial effect on HDL
+T17	Effect 2286 2304	harmful for health
+T18	Effect 2580 2614	not "generally recognized as safe"
