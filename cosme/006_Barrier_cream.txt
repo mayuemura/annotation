@@ -1,9 +1,0 @@
-<!-- Mechanism of action and Hand care -->
-A barrier cream is a Topical medication|topical formulation used in industrial applications and as a cosmetic to place a physical barrier between the skin and contaminants that may irritate the skin (contact dermatitis or occupational dermatitis). There are many other terms for creams designed to protect skin from harmful substances, including skin protective creams, pre-work creams, antisolvent gels, protective ointments, and shielding lotions. Three classes of barrier creams are used: water repellent creams, water soluble creams, and creams designed for special applications. Barrier creams may contain substances such as zinc oxide, talc or kaolin to layer over the skin. For hand care they are designed to protect against the harm from detergents and other irritants.
-
-<!-- Effectiveness -->
-The efficacy of barrier creams is controversial. They have not been demonstrated to be useful in preventing hand eczema. A 2010 Cochrane review concluded that there was insufficient evidence to determine whether barrier cream could prevent occupational contact dermatitis. They are a poor substitute for protective clothing for workers. Gloves provide a greater protection than barrier creams. However they are reasonably effective for the protection of face against some airborne substances.
-
-<!-- Safety -->
-Some evidence suggests that improper use of barrier cream could cause a harmful rather than a beneficial effect. Skin that has been moisturized by barrier cream may be more susceptible to irritation by sodium lauryl sulfate, which can permeate hydrated skin more easily because of its hydrophilia. Barrier creams that contain petroleum jelly or certain oils may cause rubber or latex gloves to deteriorate.
-
