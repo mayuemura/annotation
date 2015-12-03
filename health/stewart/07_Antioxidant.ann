@@ -1,0 +1,3 @@
+T1	Effect 34 81;402 476	inhibits the Redox|oxidation of other molecules removing free radical intermediates, and inhibit other oxidation reactions
+T2	ComposedOf 18 28	a molecule
+R1	CONDITION Arg1:T2 Arg2:T1	

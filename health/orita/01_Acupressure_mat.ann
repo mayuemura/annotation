@@ -1,0 +1,9 @@
+T1	Alias 3 14	acupressure
+T2	Effect 30 37	applied
+T3	Effect 38 49	acupuncture
+T4	MeansOfUse 50 56	device
+T5	User 57 65	commonly
+T6	NullEffect 66 70	made
+T7	DegreeOfEffect 76 80	foam
+T8	Time 81 89	mattress
+T9	ComposedOf 90 97	covered

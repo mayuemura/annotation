@@ -1,0 +1,17 @@
+T1	Effect 27 44	pillow or cushion
+T2	ComposedOf 57 63	cotton
+T3	ComposedOf 65 82	Down feather|down
+T4	ComposedOf 86 91	fibre
+T6	MeansOfUse 146 172	for decorative application
+T5	MeansOfUse 119 142	for back or arm support
+T7	ComposedOf 174 187	A foam insert
+T8	MeansOfUse 206 228	for additional support
+T9	Alias 265 272	cushion
+T10	Alias 276 282	pillow
+T11	Alias 289 293	prop
+T13	Effect 387 413	head or lower back support
+T14	Effect 424 435	arm support
+T12	Location 345 369	at the head of one's bed
+T15	Location 436 470	on furniture with high rigid sides
+R1	CONDITION Arg1:T12 Arg2:T13	
+R2	CONDITION Arg1:T15 Arg2:T14	

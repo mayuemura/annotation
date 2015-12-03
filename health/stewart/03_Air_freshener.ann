@@ -1,0 +1,12 @@
+T1	Location 42 50	in homes
+T2	Location 79 91	in restrooms
+T3	Version 239 245	sprays
+T4	Version 247 254	candles
+T5	Version 256 260	oils
+T6	Version 262 266	gels
+T7	Version 268 273	beads
+T8	Version 279 287	plug-ins
+T9	ComposedOf 333 342	chemicals
+T10	Effect 348 383	provoke allergy and asthma symptoms
+T11	CertaintyOfEffect 384 428	raising argument about how safe it is to use
+R1	CONDITION Arg1:T9 Arg2:T10	

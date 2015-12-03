@@ -1,0 +1,7 @@
+T1	ComposedOf 30 38	bristles
+T2	MeansOfUse 49 102	the application of cosmetics|make up or face painting
+T3	ComposedOf 139 146	natural
+T4	ComposedOf 150 169	synthetic materials
+T5	ComposedOf 211 218	plastic
+T6	ComposedOf 222 226	wood
+T7	Effect 234 243;289 315	cosmetics blend better into the skin

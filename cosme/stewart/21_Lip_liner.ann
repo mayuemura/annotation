@@ -1,0 +1,11 @@
+T1	Alias 25 35	lip pencil
+T2	Effect 89 137	fill uneven areas on the outer edges of the lips
+T3	Time 138 161	after applying lipstick
+T4	Effect 173 194	giving a smooth shape
+R1	CAUSALITY Arg1:T2 Arg2:T4	
+T5	Effect 216 232	outline the lips
+T6	Effect 234 304	keeping lipstick inside the lip area and preventing it from "bleeding"
+R2	CAUSALITY Arg1:T5 Arg2:T6	
+T7	Effect 316 377	creating a bigger contrast and making the lips stand out more
+T8	Version 413 429	retractable tube
+T9	Version 433 439	pencil
