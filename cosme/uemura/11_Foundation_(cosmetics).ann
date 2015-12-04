@@ -1,0 +1,9 @@
+T1	Effect 16 36	skin coloured makeup
+T2	MeansOfUse 37 56	applied to the face
+T3	Effect 60 109	create an even, uniform colour to the complexion,
+T4	Effect 113 124	cover flaws
+T5	Effect 144 188	change the natural human skin color|skintone
+R1	CAUSALITY Arg1:T3 Arg2:T4	
+R2	CAUSALITY Arg1:T3 Arg2:T5	
+T6	Version 190 220	Foundation applied to the body
+T7	Alias 250 264	body painting.

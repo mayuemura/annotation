@@ -1,0 +1,16 @@
+T2	Location 82 91	restrooms
+T1	Location 45 50	homes
+T3	Effect 107 121	emit fragrance
+R1	CONDITION Arg1:T2 Arg2:T3	
+R2	CONDITION Arg1:T1 Arg2:T3	
+T4	Version 239 245	sprays
+T5	Version 247 254	candles
+T6	Version 256 260	oils
+T7	Version 262 266	gels
+T8	Version 268 273	beads
+T9	Version 279 287	plug-ins
+T10	ComposedOf 333 342	chemicals
+T11	Effect 348 383	provoke allergy and asthma symptoms
+R3	CONDITION Arg1:T10 Arg2:T11	
+T12	CertaintyOfEffect 384 428	raising argument about how safe it is to use
+R4	EFFECT_MODIFIER Arg1:T12 Arg2:T11	

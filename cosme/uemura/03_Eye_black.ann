@@ -1,0 +1,9 @@
+T1	ComposedOf 15 21	grease
+T2	MeansOfUse 22 54	applied under the human eye|eyes
+T3	Effect 58 93	reduce light pollution#Glare|glare.
+R1	CONDITION Arg1:T2 Arg2:T3	
+T4	User 114 172	American football|football, baseball, and lacrosse players
+T5	Location 174 242	where sunlight or stadium lights can impair seeing an airborne ball.
+R3	CONDITION Arg1:T5 Arg2:T3	
+T6	MeansOfUse 259 287	functional theatrical makeup
+T7	MeansOfUse 298 311	Body painting

@@ -1,0 +1,6 @@
+T1	Alias 37 46	eye putti
+T2	Location 105 114	East Asia
+T3	Effect 127 173	change the "monolid" (eyelid without a crease)
+R1	CONDITION Arg1:T2 Arg2:T3	
+T4	ComposedOf 193 215	water-soluble adhesive
+T5	MeansOfUse 216 243	that can be easily removed.

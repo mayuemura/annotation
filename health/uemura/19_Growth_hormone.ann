@@ -1,0 +1,9 @@
+T1	Alias 35 47	somatotropin
+T2	Alias 55 75	human growth hormone
+T3	Alias 77 80	hGH
+T4	Alias 84 87	HGH
+T5	ComposedOf 114 129	peptide hormone
+T6	Effect 135 237	stimulates growth, cell (biology)|cell reproduction, and cell regeneration in humans and other animals
+T7	PartOf 326 333	mitogen
+T8	ComposedOf 404 418	191-amino acid
+T9	ComposedOf 420 444	single-chain polypeptide

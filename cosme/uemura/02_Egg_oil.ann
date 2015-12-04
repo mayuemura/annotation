@@ -1,0 +1,52 @@
+T1	Alias 85 97	egg yolk oil
+T2	Alias 101 109	ovum oil
+T3	PartOf 127 151	the yolk of chicken eggs
+T4	ComposedOf 173 210	triglycerides with traces of lecithin
+T5	ComposedOf 212 223	cholesterol
+T6	ComposedOf 225 237	xanthophylls
+T7	ComposedOf 272 287	immunoglobulins
+T8	ComposedOf 246 252	lutein
+T9	ComposedOf 257 267	zeaxanthin
+T10	ComposedOf 295 315	free of egg proteins
+T11	User 348 379	people who are allergic to eggs
+T12	Effect 338 344	safely
+R1	CONDITION Arg1:T11 Arg2:T12	
+R2	CONDITION Arg1:T10 Arg2:T12	
+T13	MeansOfUse 385 405	topical applications
+T14	MeansOfUse 414 432	hair and skin care
+T15	MeansOfUse 511 520	hair care
+T16	MeansOfUse 569 574	burns
+T17	MeansOfUse 576 582	eczema
+T18	MeansOfUse 584 594	dermatitis
+T19	MeansOfUse 596 608	mouth ulcers
+T20	MeansOfUse 610 621	skin ulcers
+T21	MeansOfUse 623 638	chapped nipples
+T22	MeansOfUse 640 653	tinea capitis
+T23	MeansOfUse 655 663	ringworm
+T24	MeansOfUse 665 683	nasal vestibulitis
+T25	MeansOfUse 685 694	frostbite
+T26	MeansOfUse 699 710	hemorrhoids
+T27	Effect 543 551	medicine
+R3	CONDITION Arg1:T16 Arg2:T27	
+R4	CONDITION Arg1:T17 Arg2:T27	
+R6	CONDITION Arg1:T18 Arg2:T27	
+R5	CONDITION Arg1:T19 Arg2:T27	
+R7	CONDITION Arg1:T20 Arg2:T27	
+R8	CONDITION Arg1:T21 Arg2:T27	
+R9	CONDITION Arg1:T22 Arg2:T27	
+R10	CONDITION Arg1:T23 Arg2:T27	
+R11	CONDITION Arg1:T24 Arg2:T27	
+R12	CONDITION Arg1:T25 Arg2:T27	
+R13	CONDITION Arg1:T26 Arg2:T27	
+T28	Time 523 534	Traditional
+R14	CONDITION Arg1:T28 Arg2:T27	
+T29	Location 535 542	Chinese
+R15	CONDITION Arg1:T29 Arg2:T27	
+T30	Effect 498 506	medicine
+R16	CONDITION Arg1:T15 Arg2:T30	
+T31	Location 491 496	Greek
+R17	CONDITION Arg1:T31 Arg2:T30	
+T32	Time 459 469	historical
+R18	CONDITION Arg1:T32 Arg2:T30	
+R19	CONDITION Arg1:T13 Arg2:T12	
+R20	CONDITION Arg1:T14 Arg2:T12	

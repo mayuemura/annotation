@@ -1,0 +1,14 @@
+T1	ComposedOf 16 40	a cord of thin filaments
+T2	Effect 49 138	remove food and dental plaque from between teeth in areas a toothbrush is unable to reach
+T3	Effect 217 231	plaque removal
+T4	Effect 236 254	disease prevention
+T5	DegreeOfEffect 194 213	a favourable effect
+T6	CertaintyOfEffect 260 299	the American Dental Association reports
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T3	
+R2	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
+T7	DegreeOfEffect 305 314	up to 80%
+T8	Effect 318 342	plaque can be eliminated
+R3	EFFECT_MODIFIER Arg1:T6 Arg2:T8	
+R4	EFFECT_MODIFIER Arg1:T7 Arg2:T8	
+T9	NullEffect 370 448	several reviews have failed to find any clear benefit over toothbrushing alone
+R5	EFFECT_MODIFIER Arg1:T9 Arg2:T8	

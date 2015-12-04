@@ -1,0 +1,10 @@
+T1	Alias 7 20	isotopic food
+T2	ComposedOf 31 119	nutritients in which some atoms are replaced with their heavier non-radioactive isotopes
+T3	MeansOfUse 542 596	Consumption of foods relatively rich in heavy isotopes
+T4	Effect 699 717	enhanced longevity
+R1	CONDITION Arg1:T3 Arg2:T4	
+T5	CertaintyOfEffect 671 692	so far hypothetically
+R2	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
+T6	Effect 793 831	building material for the human cells.
+T7	MeansOfUse 719 755	Consumed with food,some biomolecules
+R3	CONDITION Arg1:T7 Arg2:T6	

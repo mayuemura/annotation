@@ -1,0 +1,13 @@
+T1	Alias 0 19	A facial prosthetic
+T2	Alias 23 40	facial prosthesis
+T3	Effect 73 138	change or adapt the outward appearance of a person's face or head
+T4	MeansOfUse 140 194	When used in the theatre, film or television industry,
+T5	Effect 220 278	alters a person's normal face into something extraordinary
+R1	CONDITION Arg1:T4 Arg2:T5	
+T6	ComposedOf 355 360	latex
+T7	ComposedOf 362 372	foam latex
+T8	ComposedOf 374 382	silicone
+T9	ComposedOf 388 397	cold foam
+T10	Effect 428 465	altering the curve of a cheek or nose
+T11	Effect 470 522	making someone appear older or younger than they are
+T12	Effect 554 590	transform an actor into any creature

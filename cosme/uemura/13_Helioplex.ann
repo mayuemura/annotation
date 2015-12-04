@@ -1,0 +1,10 @@
+T1	Effect 30 86	broad-spectrum ultraviolet (UVA and UVB) skin protection
+T2	ComposedOf 98 108	avobenzone
+T3	ComposedOf 113 123	oxybenzone
+T4	ComposedOf 144 174	Avobenzone-containing products
+T5	Effect 180 235	decreasing efficiency after a few hours of sun exposure
+R1	CONDITION Arg1:T4 Arg2:T5	
+T6	ComposedOf 257 267	oxybenzone
+T7	Effect 268 301	reduces the amount of degradation
+R2	CONDITION Arg1:T6 Arg2:T7	
+T8	Alias 396 424	Active Photobarrier Complex.

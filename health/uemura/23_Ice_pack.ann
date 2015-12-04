@@ -1,0 +1,12 @@
+T1	Alias 15 23	gel pack
+T2	ComposedOf 38 49	plastic sac
+T3	MeansOfUse 50 97	filled with water, or refrigerant gel or liquid
+T4	MeansOfUse 107 143	the contents are frozen in a freezer
+T5	Effect 215 251	absorb a considerable amount of heat
+T6	Effect 367 401	keep food cool in portable coolers
+T7	MeansOfUse 409 443	a compress (medical)|cold compress
+T8	Effect 447 483	alleviate the pain of minor injuries
+R1	CONDITION Arg1:T7 Arg2:T8	
+T9	Effect 524 559	keep products cool during transport
+T10	Location 488 520	in insulated shipping containers
+R2	CONDITION Arg1:T10 Arg2:T9	

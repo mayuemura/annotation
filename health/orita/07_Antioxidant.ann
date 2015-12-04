@@ -1,0 +1,7 @@
+T1	ComposedOf 18 28	a molecule
+T2	Effect 34 81	inhibits the Redox|oxidation of other molecules
+T3	Effect 367 398	terminate these chain reactions
+T4	Effect 402 437	removing free radical intermediates
+T5	Effect 443 476	inhibit other oxidation reactions
+R1	CAUSALITY Arg1:T4 Arg2:T3	
+R2	CAUSALITY Arg1:T5 Arg2:T3	

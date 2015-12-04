@@ -1,0 +1,25 @@
+T1	ComposedOf 65 82	grinding stibnite
+T2	Effect 239 272	contour and/or darken the eyelids
+T3	Effect 292 305	the eyelashes
+T4	User 329 334	women
+T5	User 348 356	some men
+T6	User 361 369	children
+T7	Location 136 146	South Asia
+T8	Location 148 163	the Middle East
+T9	Location 165 177	North Africa
+T10	Location 179 197	the Horn of Africa
+T11	Location 203 223	parts of West Africa
+R1	CONDITION Arg1:T11 Arg2:T2	
+R2	CONDITION Arg1:T10 Arg2:T2	
+R3	CONDITION Arg1:T9 Arg2:T2	
+R4	CONDITION Arg1:T8 Arg2:T2	
+R5	CONDITION Arg1:T7 Arg2:T2	
+R6	CONDITION Arg1:T11 Arg2:T3	
+R7	CONDITION Arg1:T10 Arg2:T3	
+R8	CONDITION Arg1:T9 Arg2:T3	
+R9	CONDITION Arg1:T8 Arg2:T3	
+R10	CONDITION Arg1:T7 Arg2:T3	
+T12	Location 398 403	India
+T13	MeansOfUse 407 417	a cosmetic
+T14	Time 422 433	a long time
+T15	User 449 456	mothers
