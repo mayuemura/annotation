@@ -1,4 +1,31 @@
-T1	ComposedOf 28 41	alcohol-based
-T2	MeansOfUse 62 86	well-adapted to the skin
-T3	Effect 156 171	dries skin less
-T4	Effect 173 228	leaving more moisture in the Epidermis (skin)|epidermis
+T1	Alias 2 17	hand antiseptic
+T2	Alias 18 35	hand disinfectant
+T3	Alias 37 51	hand sanitiser
+T4	Effect 75 136	supplement or alternative to hand washing with soap and water
+T5	Version 181 185	gel,
+T6	Version 186 190	foam
+T7	Version 196 212	liquid solutions
+T8	ComposedOf 262 293	isopropyl alcohol (isopropanol)
+T9	ComposedOf 295 302	ethanol
+T10	ComposedOf 304 314	n-propanol
+T11	ComposedOf 319 334	povidone-iodine
+T12	Alias 360 372	alcohol rubs
+T13	ComposedOf 393 409	thickening agent
+T14	ComposedOf 418 434	polyacrylic acid
+T15	ComposedOf 453 463	humectants
+T16	ComposedOf 472 480	glycerin
+T17	Version 439 451	alcohol gels
+T18	Version 485 496	liquid rubs
+T19	ComposedOf 498 514	propylene glycol
+T20	ComposedOf 520 544	essential oils of plants
+T21	Version 546 575	Alcohol-based hand sanitizers
+T22	Effect 598 620	killing microorganisms
+T23	DegreeOfEffect 580 594	more effective
+R1	EFFECT_MODIFIER Arg1:T23 Arg2:T22	
+T24	DegreeOfEffect 636 642	do not
+T25	Effect 643 656	dry out hands
+T26	DegreeOfEffect 657 664	as much
+R2	EFFECT_MODIFIER Arg1:T26 Arg2:T25	
+R4	CONDITION Arg1:T21 Arg2:T22	
+R5	CONDITION Arg1:T21 Arg2:T25	
+R3	EFFECT_MODIFIER Arg1:T24 Arg2:T25	

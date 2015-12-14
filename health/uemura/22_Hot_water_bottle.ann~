@@ -3,4 +3,5 @@ T2	MeansOfUse 46 67	filled with hot water
 T3	MeansOfUse 72 92	sealed with astopper
 T4	Effect 102 116	provide warmth
 T5	MeansOfUse 128 141	whilst in bed
-T6	MeansOfUse 156 210	the application of heat to a specific part of the body
+T6	MeansOfUse 156 209	the application of heat to a specific part of the body
+T7	MeansOfUse 156 210	the application of heat to a specific part of the body
