@@ -1,13 +1,13 @@
 T1	Alias 21 61	blemish balm, blemish base, beblesh balm
 T2	Alias 87 98	beauty balm
-T4	MeansOfUse 381 391	worn alone
-T3	Effect 397 415	tinted moisturizer
+T3	MeansOfUse 381 391	worn alone
+T4	Effect 397 415	tinted moisturizer
 T5	MeansOfUse 417 427	over serum
 T6	Effect 432 443	moisturizer
 T7	MeansOfUse 449 467	regular foundation
 T8	MeansOfUse 473 485	under powder
-T10	Location 227 242	Western markets
-T9	Location 137 150	Asian markets
+T9	Location 227 242	Western markets
+T10	Location 137 150	Asian markets
 T11	Alias 108 121	cosmetic item
 T12	Location 70 85	Western markets
 T13	Alias 272 306	all-in-one facial cosmetic product
