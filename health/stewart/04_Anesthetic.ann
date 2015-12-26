@@ -1,4 +1,4 @@
 T1	Alias 15 26	anaesthetic
 T2	Alias 30 40	anæsthetic
-T3	Effect 104 134;76 93	a reversible loss of sensation causes anesthesia
-T5	MeansOfUse 255 299;376 409	generally administered to facilitate surgery rarely used outside of anesthesia
+T5	Effect 281 299	facilitate surgery
+T3	Effect 76 134	causes anesthesia, which is a reversible loss of sensation

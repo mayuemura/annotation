@@ -1,3 +1,5 @@
-T1	Alias 37 60	eye putti|アイプチ|ai puchi
-T2	Effect 124 173	to change the "monolid" (eyelid without a crease)
-T3	Location 102 114	in East Asia
+T3	Location 105 114	East Asia
+T2	Effect 127 173	change the "monolid" (eyelid without a crease)
+T1	Alias 37 46	eye putti
+T6	Alias 47 51	アイプチ
+T7	Alias 52 60	ai puchi

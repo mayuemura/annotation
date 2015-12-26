@@ -4,3 +4,5 @@ T3	DegreeOfEffect 175 235	have decreasing efficiency after a few hours of sun ex
 T4	DegreeOfEffect 268 313	reduces the amount of degradation that occurs
 T5	Alias 396 423	Active Photobarrier Complex
 T6	Effect 30 86	broad-spectrum ultraviolet (UVA and UVB) skin protection
+T7	ComposedOf 257 267	oxybenzone
+T8	ComposedOf 144 154	Avobenzone

@@ -1,4 +1,5 @@
 T1	Effect 55 110	opposes the activity of histamine receptors in the body
 T2	Version 247 289	H1 antagonist|H<sub>1</sub>-antihistamines
 T3	Version 294 336	H2 antagonist|H<sub>2</sub>-antihistamines
-T4	MeansOfUse 416 539	to treat allergic rhinitis|allergic reactions in the nose (e.g., itching, runny nose, and sneezing) as well as for insomnia
+T5	Version 358 406	target the HRH1|histamine H<sub>1</sub>-receptor
+T4	Effect 419 539	treat allergic rhinitis|allergic reactions in the nose (e.g., itching, runny nose, and sneezing) as well as for insomnia

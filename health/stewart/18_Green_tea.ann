@@ -1,3 +1,8 @@
 T1	ComposedOf 23 118	Camellia sinensis leaves that have undergone minimal Tea processing|oxidation during processing
 T2	Effect 159 174	health benefits
-T3	CertaintyOfEffect 120 150;188 399	Numerous claims have been made based on its chemical composition, in vitro studies, animal studies, and human epidemiological studies. Preliminary research on many of these claims is promising, but many also require further study to evaluate.
+T3	CertaintyOfEffect 120 150	Numerous claims have been made
+T4	CertaintyOfEffect 292 349	Preliminary research on many of these claims is promising
+T5	CertaintyOfEffect 355 386	many also require further study
+R1	EFFECT_MODIFIER Arg1:T3 Arg2:T2	
+R2	EFFECT_MODIFIER Arg1:T4 Arg2:T2	
+R3	EFFECT_MODIFIER Arg1:T5 Arg2:T2	

@@ -1,10 +1,7 @@
 T1	ComposedOf 21 68	assortment of small, flat, reflective particles
 T2	Effect 124 165	causing the surface to sparkle or shimmer
-T3	DegreeOfEffect 179 217	like confetti or sequins, only smaller
-T4	Time 226 243	prehistoric times
-T5	MeansOfUse 271 289	used as decoration
-T6	ComposedOf 346 355	malachite
-T7	ComposedOf 357 363	galena
-T8	ComposedOf 365 369	mica
-T9	Time 371 390	During World War II
 T10	ComposedOf 502 510	plastics
+T3	Effect 89 122	reflect light at different angles
+R1	CAUSALITY Arg1:T3 Arg2:T2	
+T5	ComposedOf 331 369	stones such as malachite, galena, mica
+T4	MeansOfUse 271 289	used as decoration

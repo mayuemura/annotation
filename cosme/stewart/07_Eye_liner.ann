@@ -1,3 +1,4 @@
 T1	Effect 41 67	define the Human eyes|eyes
-T2	MeansOfUse 69 116	It is applied around the contours of the eye(s)
-T3	Effect 117 157	to create a variety of aesthetic effects
+T2	MeansOfUse 75 116	applied around the contours of the eye(s)
+T3	Effect 120 157	create a variety of aesthetic effects
+R1	CONDITION Arg1:T2 Arg2:T3	

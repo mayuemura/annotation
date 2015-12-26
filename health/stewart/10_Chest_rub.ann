@@ -1,5 +1,6 @@
 T1	Alias 11 19	cold rub
 T2	Alias 24 40	vapor/vapour rub
-T3	Effect 99 169	assist with minor medical conditions that temporarily impair breathing
-T4	MeansOfUse 204 259	applied to the chest, often immediately before sleeping
 T5	ComposedOf 46 86	mentholated topical petrolatum-based gel
+T4	MeansOfUse 204 224	applied to the chest
+T7	Time 232 259	immediately before sleeping
+T3	Effect 99 196	assist with minor medical conditions that temporarily impair breathing, including the common cold

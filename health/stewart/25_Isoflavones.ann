@@ -1,5 +1,8 @@
-T1	Effect 202 237	the risk reduction in breast cancer
 T2	CertaintyOfEffect 259 294	was only shown in Asian populations
 T3	Alias 131 143	antioxidants
-T4	ComposedOf 243 246	soy
 T5	Effect 88 102	phytoestrogens
+T6	Effect 172 191	trap singlet oxygen
+T1	Effect 206 237	risk reduction in breast cancer
+T4	Version 243 246	soy
+R1	EFFECT_MODIFIER Arg1:T2 Arg2:T1	
+T7	User 106 113	mammals

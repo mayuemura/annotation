@@ -2,4 +2,8 @@ T1	Alias 35 47	somatotropin
 T2	Alias 55 75	human growth hormone
 T3	Alias 77 80	hGH
 T4	Alias 84 87	HGH
-T5	Effect 135 237	stimulates growth, cell (biology)|cell reproduction, and cell regeneration in humans and other animals
+T7	User 213 219	humans
+T8	User 230 237	animals
+T9	Effect 263 280	human development
+T5	Effect 135 209	stimulates growth, cell (biology)|cell reproduction, and cell regeneration
+T6	Effect 326 333	mitogen

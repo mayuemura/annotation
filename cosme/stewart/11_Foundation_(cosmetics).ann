@@ -3,4 +3,7 @@ T2	Effect 60 108	create an even, uniform colour to the complexion
 T3	Effect 113 124	cover flaws
 T4	Effect 144 188	change the natural human skin color|skintone
 T5	Version 190 220	Foundation applied to the body
-T6	Alias 250 264	body painting.
+R1	CONDITION Arg1:T1 Arg2:T2	
+R2	CONDITION Arg1:T1 Arg2:T3	
+R3	CONDITION Arg1:T1 Arg2:T4	
+T6	Alias 250 263	body painting

@@ -2,3 +2,4 @@ T1	Effect 56 121	determining the approximate concentration of glucose in the blo
 T2	User 286 333	people with diabetes mellitus or  hypoglycemia.
 T3	PartOf 246 282	home blood glucose monitoring (HBGM)
 T4	Effect 535 588	displays the level in units of mg/dl or Mmol/L|mmol/l
+T5	Alias 20 30	glucometer

@@ -1,5 +1,12 @@
-T1	Effect 46 138	to remove food and dental plaque from between teeth in areas a toothbrush is unable to reach
-T2	CertaintyOfEffect 140 254	It has been widely accepted that the use of floss has a favourable effect on plaque removal and disease prevention
-T3	CertaintyOfEffect 260 359	the American Dental Association reports that up to 80% of plaque can be eliminated with this method
+T5	ComposedOf 18 40	cord of thin filaments
+T2	CertaintyOfEffect 152 213	widely accepted that the use of floss has a favourable effect
+T6	Effect 217 231	plaque removal
+T7	Effect 236 254	disease prevention
+R1	EFFECT_MODIFIER Arg1:T2 Arg2:T6	
+R2	EFFECT_MODIFIER Arg1:T2 Arg2:T7	
+T3	DegreeOfEffect 305 314	up to 80%
+T8	Effect 318 342	plaque can be eliminated
+R3	EFFECT_MODIFIER Arg1:T3 Arg2:T8	
+T1	Effect 49 97	remove food and dental plaque from between teeth
+T9	MeansOfUse 98 138	in areas a toothbrush is unable to reach
 T4	CertaintyOfEffect 370 448	several reviews have failed to find any clear benefit over toothbrushing alone
-T5	ComposedOf 13 40	is a cord of thin filaments

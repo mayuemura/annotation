@@ -1,10 +1,17 @@
-T1	Effect 82 142	to set a foundation (cosmetics)|foundation after application
 T2	MeansOfUse 62 81	applied to the face
 T3	Time 170 188	throughout the day
 T4	MeansOfUse 145 169	It can also be reapplied
-T5	Effect 189 230	to minimize shininess caused by oily skin
 T6	Version 242 266	translucent sheer powder
 T7	Version 281 297	pigmented powder
-T8	MeansOfUse 342 389	are meant be worn alone with no base foundation
 T9	Effect 399 413	tones the face
 T10	Effect 418 442	gives an even appearance
+T11	ComposedOf 36 61	Powder (substance)|powder
+T1	Effect 85 124	set a foundation (cosmetics)|foundation
+R1	CONDITION Arg1:T2 Arg2:T1	
+T12	Time 125 142	after application
+R2	CONDITION Arg1:T12 Arg2:T1	
+T5	Effect 192 230	minimize shininess caused by oily skin
+R3	CONDITION Arg1:T4 Arg2:T5	
+R4	CONDITION Arg1:T3 Arg2:T5	
+T13	Version 317 341	pigmented facial powders
+T8	MeansOfUse 355 389	worn alone with no base foundation

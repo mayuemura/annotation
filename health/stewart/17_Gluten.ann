@@ -1,7 +1,10 @@
-T1	PartOf 86 136	wheat and related grains, including barley and rye
 T2	Effect 145 186	gives viscoelasticity|elasticity to dough
-T3	Effect 188 238	helping it leavening agent|rise and keep its shape
 T4	Effect 249 298	gives the final product a chewiness|chewy texture
 T5	CertaintyOfEffect 243 248	often
-R1	CAUSALITY Arg1:T2 Arg2:T3	
 R2	CAUSALITY Arg1:T2 Arg2:T4	
+R3	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
+T3	Effect 188 219	helping it leavening agent|rise
+R1	CAUSALITY Arg1:T2 Arg2:T3	
+T8	Effect 224 238	keep its shape
+R4	CAUSALITY Arg1:T2 Arg2:T8	
+T1	PartOf 86 136	wheat and related grains, including barley and rye

@@ -1,8 +1,4 @@
 T1	Effect 49 65	enhance the eyes
-T2	Effect 75 81	darken
-T3	Effect 83 90	thicken
-T4	Effect 92 100	lengthen
-T5	Effect 109 129	define the eyelashes
 T6	Version 163 169	liquid
 T7	Version 171 175	cake
 T8	Version 180 185	cream
@@ -10,4 +6,4 @@ T9	ComposedOf 286 294	pigments
 T10	ComposedOf 296 300	oils
 T11	ComposedOf 302 307	waxes
 T12	ComposedOf 313 326	preservatives
-T13	Time 190 196	modern
+T2	Effect 75 129	darken, thicken, lengthen, and/or define the eyelashes

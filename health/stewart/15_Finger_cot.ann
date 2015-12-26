@@ -3,7 +3,4 @@ T2	Alias 35 47	finger stall
 T3	Alias 60 73	finger condom
 T4	Effect 103 128	cover one or more fingers
 T5	MeansOfUse 129 176	in situations where a full glove is unnecessary
-T6	ComposedOf 253 287	a variety of water-tight materials
-T7	ComposedOf 298 303	latex
-T8	ComposedOf 305 319	nitrile rubber
-T9	ComposedOf 325 330	vinyl
+T6	ComposedOf 266 330	water-tight materials including latex, nitrile rubber, and vinyl

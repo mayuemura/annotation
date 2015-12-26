@@ -4,8 +4,16 @@ T3	Time 138 161	after applying lipstick
 T4	Effect 173 194	giving a smooth shape
 R1	CAUSALITY Arg1:T2 Arg2:T4	
 T5	Effect 216 232	outline the lips
-T6	Effect 234 304	keeping lipstick inside the lip area and preventing it from "bleeding"
-R2	CAUSALITY Arg1:T5 Arg2:T6	
 T7	Effect 316 377	creating a bigger contrast and making the lips stand out more
 T8	Version 413 429	retractable tube
 T9	Version 433 439	pencil
+R3	CONDITION Arg1:T3 Arg2:T2	
+T6	Effect 234 270	keeping lipstick inside the lip area
+T10	Effect 275 304	preventing it from "bleeding"
+R2	CAUSALITY Arg1:T5 Arg2:T6	
+R4	CAUSALITY Arg1:T5 Arg2:T10	
+R5	CAUSALITY Arg1:T5 Arg2:T7	
+T11	Version 526 530	reds
+T12	Version 532 537	pinks
+T13	Version 539 545	browns
+T14	Version 547 552	plums

@@ -5,6 +5,6 @@ T4	ComposedOf 355 360	latex
 T5	ComposedOf 362 372	foam latex
 T6	ComposedOf 374 382	silicone
 T7	ComposedOf 388 397	cold foam
-T8	DegreeOfEffect 412 465	be as subtle as altering the curve of a cheek or nose
 T9	DegreeOfEffect 485 522	appear older or younger than they are
 T10	Effect 554 590	transform an actor into any creature
+T8	DegreeOfEffect 415 465	as subtle as altering the curve of a cheek or nose

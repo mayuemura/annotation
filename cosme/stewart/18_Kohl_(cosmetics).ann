@@ -1,5 +1,4 @@
 T1	ComposedOf 74 82	stibnite
-T2	Time 43 56	traditionally
 T3	Location 136 146	South Asia
 T4	Location 152 163	Middle East
 T5	Location 165 177	North Africa
@@ -10,6 +9,7 @@ T9	User 329 334	women
 T10	User 353 356	men
 T11	User 361 369	children
 T12	Location 398 403	India
-T13	Time 418 433	for a long time
 T14	Time 497 513	soon after birth
 T15	User 483 490	infants
+T2	MeansOfUse 224 235	as eyeliner
+R1	CONDITION Arg1:T2 Arg2:T8	
