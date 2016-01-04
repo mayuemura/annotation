@@ -1,6 +1,0 @@
-T2	MeansOfUse 37 107	for life-threatening cardiac dysrhythmias and ventricular fibrillation
-T3	MeansOfUse 136 236	delivering a therapeutic dose of electrical energy to the heart with a device called a defibrillator
-T1	Effect 243 318	depolarizes a critical mass of the heart muscle, terminates the dysrhythmia
-T4	Effect 323 419	allows normal sinus rhythm to be reestablished by the body's cardiac pacemaker|natural pacemaker
-R1	CAUSALITY Arg1:T1 Arg2:T4	
-T5	Location 421 456	in the sinoatrial node of the heart

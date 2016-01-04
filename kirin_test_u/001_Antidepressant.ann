@@ -1,0 +1,11 @@
+T1	MeansOfUse 429 439	used alone
+T3	MeansOfUse 68 127	treatment of major depressive disorder and other conditions
+T2	MeansOfUse 443 480	in combination with other medications
+T4	Time 485 505	only when prescribed
+T5	Version 562 601	selective serotonin reuptake inhibitors
+T6	Version 611 655	serotonin–norepinephrine reuptake inhibitors
+T7	Version 665 690	tricyclic antidepressants
+T8	Version 699 727	monoamine oxidase inhibitors
+T9	Version 737 795	RMAO-A inhibitor|reversible monoamine oxidase A inhibitors
+T10	Version 817 844	tetracyclic antidepressants
+T11	Version 858 912	noradrenergic and specific serotonergic antidepressant

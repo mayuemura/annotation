@@ -1,0 +1,10 @@
+T1	Alias 19 31	finger frock
+T2	Alias 35 47	finger stall
+T3	Alias 60 73	finger condom
+T4	Effect 103 128	cover one or more fingers
+T5	Time 143 176	where a full glove is unnecessary
+R1	CONDITION Arg1:T5 Arg2:T4	
+T6	ComposedOf 266 287	water-tight materials
+T7	ComposedOf 298 304	latex,
+T8	ComposedOf 305 320	nitrile rubber,
+T9	ComposedOf 325 330	vinyl

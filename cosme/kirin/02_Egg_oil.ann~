@@ -1,0 +1,21 @@
+T1	Alias 63 68	eyova
+T2	Alias 85 97	egg yolk oil
+T3	Alias 101 109	ovum oil
+T4	ComposedOf 131 135;173 186	yolk triglycerides
+T5	User 348 379	people who are allergic to eggs
+T6	Location 484 497	Unani (Greek)
+T7	Location 523 551	Traditional Chinese medicine
+T15	Effect 569 574	burns
+T16	Effect 576 582	eczema
+T17	Effect 584 594	dermatitis
+T18	Effect 596 608	mouth ulcers
+T19	Effect 610 621	skin ulcers
+T20	Effect 623 638	chapped nipples
+T21	Effect 640 653	tinea capitis
+T22	Effect 655 663	ringworm
+T23	Effect 665 683	nasal vestibulitis
+T24	Effect 685 694	frostbite
+T25	Effect 699 710	hemorrhoids
+T8	PartOf 225 237;246 287	xanthophylls lutein and zeaxanthin and immunoglobulins
+T9	ComposedOf 131 135;202 237	yolk lecithin, cholesterol, xanthophylls
+T10	PartOf 131 135;139 150	yolk chicken egg

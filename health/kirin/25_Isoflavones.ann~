@@ -1,0 +1,10 @@
+T1	MeansOfUse 81 113	act as phytoestrogens in mammals
+T2	Alias 131 143	antioxidants
+T3	Effect 172 191	trap singlet oxygen
+T4	Effect 202 237	the risk reduction in breast cancer
+T5	CertaintyOfEffect 263 267	only
+T6	Location 277 294	Asian populations
+T7	CertaintyOfEffect 296 333	Shanghai Breast Cancer Survival Study
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
+R2	CONDITION Arg1:T6 Arg2:T4	
+R3	EFFECT_MODIFIER Arg1:T7 Arg2:T4	

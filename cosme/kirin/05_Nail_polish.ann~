@@ -1,0 +1,9 @@
+T1	Alias 27 39	nail varnish
+T2	Location 66 91	applied to the human Nail
+T3	Location 102 113	fingernails
+T4	Location 117 125	toenails
+T5	Effect 142 165	protect the nail plates
+T6	Effect 126 137	to decorate
+T7	ComposedOf 310 340	solution of an organic polymer
+T8	ComposedOf 345 361	other components
+T9	Effect 250 281	to suppress cracking or flaking

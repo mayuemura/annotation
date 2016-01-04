@@ -1,0 +1,26 @@
+T1	Effect 24 70	delivers a blow (a sudden impact) to an object
+T2	Effect 108 119	drive nails
+T3	Effect 121 130	fit parts
+T4	Effect 132 143	forge metal
+T5	Effect 149 168	break apart objects
+T6	MeansOfUse 89 99	hand tools
+R1	CONDITION Arg1:T6 Arg2:T2	
+R2	CONDITION Arg1:T6 Arg2:T3	
+R3	CONDITION Arg1:T6 Arg2:T4	
+R4	CONDITION Arg1:T6 Arg2:T5	
+T7	ComposedOf 333 338	steel
+T8	ComposedOf 308 312	head
+T9	ComposedOf 346 352	handle
+T10	ComposedOf 377 382	haft)
+T11	ComposedOf 368 373	helve
+T12	Version 437 453	powered versions
+T13	Version 462 475	power hammers
+T14	Alias 485 498	steam hammers
+T15	Alias 503 515	trip hammers
+T16	MeansOfUse 521 533	heavier uses
+T17	MeansOfUse 543 550	forging
+T18	Alias 591 603	sledgehammer
+T19	Alias 616 621	gavel
+T20	Alias 605 611	mallet
+T21	PartOf 721 728	firearm
+T22	PartOf 748 753	piano
