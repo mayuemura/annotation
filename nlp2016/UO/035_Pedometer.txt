@@ -1,0 +1,6 @@
+A pedometer is a device, usually portable and electronic or electromechanical, that counts each step a person takes by detecting the Motion motion of the person's hands or Hip hips.
+Because the distance of each person's step varies, an informal calibration, performed by the user, is required if presentation of the distance covered in a unit of length (such as in kilometers or miles) is desired, though there are now pedometers that use electronics and software to automatically determine how a person's step varies.
+Distance traveled (by walking or any other means) can be measured directly by a GPS tracker.
+Used originally by sports and physical fitness enthusiasts, pedometers are now becoming popular as an everyday Physical exercise counter and motivator.
+Often worn on the belt belt and kept on all day, it can record how many steps the wearer has walked that day, and thus the kilometers or miles (distance = number of steps × step length).
+

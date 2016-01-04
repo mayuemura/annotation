@@ -1,0 +1,6 @@
+A mirror is an object that Reflection reflects light in such a way that, for incident light in some range of wavelengths, the reflected light preserves many or most of the detailed physical characteristics of the original light.
+This is different from other light-reflecting objects that do not preserve much of the original wave signal other than color and diffuse reflected light.
+The most familiar type of mirror is the plane mirror, which has a flat screen surface.
+Curved mirrors are also used, to produce magnified or diminished images or focus light or simply distort the reflected image.
+Mirrors are commonly used for personal grooming or admiring oneself (in which case the archaic term looking-glass is sometimes still used), decoration, and architecture.
+
