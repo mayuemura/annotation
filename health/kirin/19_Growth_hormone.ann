@@ -1,1 +1,10 @@
-
+T1	Target 0 14	Growth hormone
+T2	Target 35 47	somatotropin
+T3	Target 55 75	human growth hormone
+T4	Effect 135 152	stimulates growth
+T5	Effect 154 186	cell (biology)|cell reproduction
+T6	Effect 192 209	cell regeneration
+T7	Target 239 241	It
+T8	Target 310 312	It
+T9	Target 384 398	Growth hormone
+T10	ComposedOf 404 444	191-amino acid, single-chain polypeptide

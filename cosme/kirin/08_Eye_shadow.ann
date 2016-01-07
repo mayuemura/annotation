@@ -1,0 +1,19 @@
+T1	Target 0 10	Eye shadow
+T3	Target 91 93	It
+T5	Target 172 182	Eye shadow
+T6	Target 291 301	Eye shadow
+T7	Target 348 350	It
+T8	Version 435 441	liquid
+T9	Version 443 449	pencil
+T10	Version 454 465	mousse form
+T11	ComposedOf 374 399	Powder (substance)|powder
+T12	ComposedOf 404 408	mica
+T4	Effect 114 146	make the wearer's eyes stand out
+T13	Effect 150 170	look more attractive
+T2	MeansOfUse 43 65	applied on the eyelids
+T14	MeansOfUse 70 88	under the eyebrows
+T15	Effect 191 210	depth and dimension
+T16	Effect 226 250	complement the eye color
+T17	Effect 262 276	draw attention
+T18	Location 284 288	eyes
+T19	Location 220 224	eyes

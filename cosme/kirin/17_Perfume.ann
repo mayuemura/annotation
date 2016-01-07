@@ -1,0 +1,9 @@
+T1	Target 0 7	Perfume
+T4	Target 280 288	Perfumes
+T5	ComposedOf 523 531	vanillin
+T6	ComposedOf 535 543	coumarin
+T2	ComposedOf 105 119	essential oils
+T7	ComposedOf 123 138	aroma compounds
+T8	ComposedOf 140 170	Fixative (perfumery)|fixatives
+T9	ComposedOf 175 183	solvents
+T3	Effect 192 271	give the human body, animals, food, objects, and living spaces "a pleasant Odor

@@ -1,0 +1,11 @@
+T1	Target 0 7	Lactase
+T2	Target 49 51	It
+T3	Target 135 142	Lactase
+T4	Effect 163 195	complete digestion of whole milk
+T5	Effect 200 219	breaks down lactose
+R1	CAUSALITY Arg1:T5 Arg2:T4	
+T6	Target 197 199	it
+T7	Target 269 276	lactase
+T8	Target 364 371	Lactase
+T10	MeansOfUse 418 431	added to milk
+T9	Effect 432 471	to produce "lactose-free" milk products

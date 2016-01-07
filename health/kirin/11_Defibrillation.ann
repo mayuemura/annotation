@@ -1,0 +1,6 @@
+T1	Target 0 14	Defibrillation
+T2	Target 109 123	Defibrillation
+T4	Target 238 242	This
+T5	Effect 243 290	depolarizes a critical mass of the heart muscle
+T6	Effect 292 318	terminates the dysrhythmia
+T3	Effect 136 186	delivering a therapeutic dose of electrical energy

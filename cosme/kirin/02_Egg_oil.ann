@@ -1,1 +1,20 @@
-
+T1	Target 0 7	Egg oil
+T2	Target 54 61	egg oil
+T3	Target 63 68	eyova
+T4	Target 85 97	egg yolk oil
+T5	Target 101 109	ovum oil
+T6	PartOf 131 151	yolk of chicken eggs
+T7	ComposedOf 173 186	triglycerides
+T10	Target 289 291	It
+T12	Target 439 446	product
+T13	Target 557 564	egg oil
+T8	ComposedOf 202 210	lecithin
+T9	ComposedOf 212 223	cholesterol
+T14	ComposedOf 225 237	xanthophylls
+T15	ComposedOf 246 252	lutein
+T16	ComposedOf 257 267	zeaxanthin
+T17	ComposedOf 272 287	immunoglobulins
+T11	User 348 379	people who are allergic to eggs
+T18	Location 491 496	Greek
+T19	Version 523 534	Traditional
+T20	Location 535 542	Chinese

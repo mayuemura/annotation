@@ -1,0 +1,12 @@
+T1	Target 0 9	Liquorice
+T2	Target 14 22	licorice
+T3	Target 106 115	liquorice
+T4	Target 327 336	liquorice
+T5	Target 585 594	Liquorice
+T6	Effect 495 530	makes it easier to inhale the smoke
+T7	Effect 534 558	creating bronchodilators
+T8	Effect 566 583	open up the lungs
+R1	CAUSALITY Arg1:T7 Arg2:T8	
+R2	CAUSALITY Arg1:T8 Arg2:T6	
+T9	Target 429 438	liquorice
+T10	MeansOfUse 350 378	flavouring agent for tobacco

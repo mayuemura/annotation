@@ -1,1 +1,12 @@
-
+T1	Target 0 9	Eye black
+T2	Effect 15 21	grease
+T3	Location 22 54	applied under the human eye|eyes
+T4	Effect 55 92	to reduce light pollution#Glare|glare
+T5	Target 94 96	It
+T6	User 106 172	used by American football|football, baseball, and lacrosse players
+T7	Target 243 245	It
+T8	MeansOfUse 251 294	form of functional theatrical makeup|makeup
+T9	MeansOfUse 298 321	Body painting|war paint
+#1	AnnotatorNotes T8	Not sure
+#2	AnnotatorNotes T9	Not sure
+T10	Location 192 199	stadium

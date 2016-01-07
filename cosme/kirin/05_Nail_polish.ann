@@ -1,1 +1,12 @@
-
+T1	Target 0 11	Nail polish
+T2	Target 27 39	nail varnish
+T4	Location 102 113	fingernails
+T5	Location 117 125	toenails
+T8	Target 284 295	Nail polish
+T9	ComposedOf 325 340	organic polymer
+T10	ComposedOf 345 361	other components
+T7	Effect 253 281	suppress cracking or flaking
+T11	Effect 215 245	enhance its decorative effects
+T6	Effect 129 165	decorate and protect the nail plates
+T3	MeansOfUse 66 91	applied to the human Nail
+T12	Target 46 53	lacquer

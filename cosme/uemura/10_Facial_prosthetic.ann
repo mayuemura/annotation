@@ -1,5 +1,5 @@
-T1	Alias 0 19	A facial prosthetic
-T2	Alias 23 40	facial prosthesis
+T1	Target 0 19	A facial prosthetic
+T2	Target 23 40	facial prosthesis
 T3	Effect 73 138	change or adapt the outward appearance of a person's face or head
 T4	MeansOfUse 140 194	When used in the theatre, film or television industry,
 T5	Effect 220 278	alters a person's normal face into something extraordinary

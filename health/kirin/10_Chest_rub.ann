@@ -1,0 +1,8 @@
+T1	Target 0 9	Chest rub
+T2	Target 11 19	cold rub
+T3	Target 24 40	vapor/vapour rub
+T5	ComposedOf 46 86	mentholated topical petrolatum-based gel
+T6	Target 198 200	It
+T7	MeansOfUse 204 224	applied to the chest
+T8	Time 232 259	immediately before sleeping
+T4	Effect 99 169	assist with minor medical conditions that temporarily impair breathing

@@ -1,0 +1,13 @@
+T1	Target 3 16	antihistamine
+T4	Target 112 126	Antihistamines
+T5	Target 228 242	antihistamines
+T6	PartOf 247 261	H1 antagonist|
+T7	PartOf 294 307	H2 antagonist
+T8	Target 338 352	Antihistamines
+T9	PartOf 369 383	HRH1|histamine
+T12	Effect 527 539	for insomnia
+T2	Effect 55 98	opposes the activity of histamine receptors
+T3	Target 322 336	antihistamines
+T13	Target 275 289	antihistamines
+T10	Effect 419 461	treat allergic rhinitis|allergic reactions
+T11	Location 469 473	nose

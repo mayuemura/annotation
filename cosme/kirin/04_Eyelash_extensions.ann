@@ -1,1 +1,15 @@
-
+T1	Target 0 18	Eyelash Extensions
+T6	Version 209 220	full strips
+T7	Version 222 230	clusters
+T8	Version 236 246	individual
+T9	Version 248 269	one-by-one extensions
+#1	AnnotatorNotes T6	Not sure, maybe MeansOfUse?
+#2	AnnotatorNotes T8	Not sure, maybe MeansOfUse?
+#3	AnnotatorNotes T7	Not sure, maybe MeansOfUse?
+#4	AnnotatorNotes T9	Not sure, maybe MeansOfUse?
+T3	Target 108 118	extensions
+T4	ComposedOf 134 138	silk
+T10	ComposedOf 140 144	mink
+T11	ComposedOf 149 163	synthetic hair
+T5	Target 190 200	extensions
+T2	Effect 38 81	enhances the length, thickness and fullness

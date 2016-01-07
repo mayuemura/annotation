@@ -1,1 +1,5 @@
-
+T1	Target 3 11	ice pack
+T2	Target 15 23	gel pack
+T3	Effect 367 381	keep food cool
+T4	Effect 447 483	alleviate the pain of minor injuries
+T5	Effect 524 542	keep products cool

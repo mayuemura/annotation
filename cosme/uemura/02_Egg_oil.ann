@@ -1,5 +1,5 @@
-T1	Alias 85 97	egg yolk oil
-T2	Alias 101 109	ovum oil
+T1	Target 85 97	egg yolk oil
+T2	Target 101 109	ovum oil
 T3	PartOf 127 151	the yolk of chicken eggs
 T4	ComposedOf 173 210	triglycerides with traces of lecithin
 T5	ComposedOf 212 223	cholesterol

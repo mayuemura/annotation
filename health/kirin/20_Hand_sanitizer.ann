@@ -1,1 +1,21 @@
-
+T1	Target 2 17	hand antiseptic
+T2	Target 18 35	hand disinfectant
+T3	Target 37 51	hand sanitiser
+T4	Target 55 69	hand sanitizer
+T5	Version 181 184	gel
+T6	Version 186 190	foam
+T7	Version 196 212	liquid solutions
+T8	ComposedOf 262 279	isopropyl alcohol
+T9	ComposedOf 295 302	ethanol
+T10	ComposedOf 304 314	n-propanol
+T11	ComposedOf 319 334	povidone-iodine
+T12	DegreeOfEffect 580 620	more effective at killing microorganisms
+T13	ComposedOf 418 434	polyacrylic acid
+T14	Version 447 451	gels
+T16	Version 485 496	liquid rubs
+T17	ComposedOf 498 514	propylene glycol
+T15	ComposedOf 453 463	humectants
+T18	PartOf 393 409	thickening agent
+T19	ComposedOf 472 480	glycerin
+T20	ComposedOf 520 534	essential oils
+T21	Effect 636 656	do not dry out hands

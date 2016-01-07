@@ -1,0 +1,10 @@
+T1	Target 0 9	Helioplex
+T4	DegreeOfEffect 180 201	decreasing efficiency
+T5	Effect 71 86	skin protection
+T6	DegreeOfEffect 268 301	reduces the amount of degradation
+T7	ComposedOf 257 267	oxybenzone
+T8	Target 396 423	Active Photobarrier Complex
+T9	Target 144 174	Avobenzone-containing products
+T3	Time 202 235	after a few hours of sun exposure
+T2	ComposedOf 98 108	avobenzone
+T10	ComposedOf 113 123	oxybenzone

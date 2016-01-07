@@ -1,0 +1,12 @@
+T1	Target 0 14	Air fresheners
+T2	Target 170 183	air freshener
+T3	Target 216 230	air fresheners
+T4	Version 239 245	sprays
+T5	Version 247 254	candles
+T6	Version 256 260	oils
+T7	Version 262 266	gels
+T8	Version 268 273	beads
+T9	Version 279 287	plug-ins
+T10	Target 294 308	air fresheners
+T11	ComposedOf 333 342	chemicals
+T12	Effect 107 121	emit fragrance

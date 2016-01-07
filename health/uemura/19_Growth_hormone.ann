@@ -1,9 +1,14 @@
-T1	Alias 35 47	somatotropin
-T2	Alias 55 75	human growth hormone
-T3	Alias 77 80	hGH
-T4	Alias 84 87	HGH
+T1	Target 35 47	somatotropin
+T2	Target 55 75	human growth hormone
+T3	Target 77 80	hGH
+T4	Target 84 87	HGH
 T5	ComposedOf 114 129	peptide hormone
-T6	Effect 135 237	stimulates growth, cell (biology)|cell reproduction, and cell regeneration in humans and other animals
 T7	PartOf 326 333	mitogen
 T8	ComposedOf 404 418	191-amino acid
 T9	ComposedOf 420 444	single-chain polypeptide
+T6	Effect 135 209	stimulates growth, cell (biology)|cell reproduction, and cell regeneration
+T10	Target 0 14	Growth hormone
+T11	Target 16 18	GH
+T12	Target 239 241	It
+T13	Target 310 312	It
+T14	Target 384 398	Growth hormone

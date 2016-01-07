@@ -2,7 +2,6 @@ T1	ComposedOf 35 68	small, flat, reflective particles
 T2	Effect 89 122	reflect light at different angles
 T3	Effect 147 165	sparkle or shimmer
 R1	CAUSALITY Arg1:T2 Arg2:T3	
-T4	Time 220 243	Since prehistoric times
 T5	MeansOfUse 271 289	used as decoration
 T6	ComposedOf 346 355	malachite
 T7	ComposedOf 357 364	galena,

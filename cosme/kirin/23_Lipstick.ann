@@ -1,0 +1,11 @@
+T1	Target 0 8	Lipstick
+T2	ComposedOf 52 60	pigments
+T4	ComposedOf 62 66	oils
+T3	ComposedOf 68 73	waxes
+T5	ComposedOf 79 89	emollients
+T6	Effect 95 131	apply color, texture, and protection
+T7	MeansOfUse 132 155	to the lip (mouth)|lips
+T8	Target 182 190	lipstick
+T9	Target 235 243	lipstick
+T10	User 279 292	worn by women
+T11	Target 306 314	lipstick

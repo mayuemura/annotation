@@ -1,0 +1,14 @@
+T1	Target 0 18	Herbal distillates
+T2	Target 32 44	floral water
+T3	Target 46 54	hydrosol
+T4	Target 56 65	hydrolate
+T5	Target 67 79	herbal water
+T6	Target 84 99	essential water
+T7	Target 140 144	They
+T8	Target 172 180	hydrosol
+T9	PartOf 185 199	essential oils
+T10	PartOf 211 235	water-soluble components
+T11	ComposedOf 328 340	plants/herbs
+#1	AnnotatorNotes T11	Not sure, double?
+T12	Target 349 367	herbal distillates
+T13	Target 429 447	Herbal distillates

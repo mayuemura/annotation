@@ -1,1 +1,9 @@
-
+T1	Target 2 15	glucose meter
+T2	Effect 56 108	determining the approximate concentration of glucose
+T3	Target 124 126	It
+T4	Target 20 30	glucometer
+T5	Version 150 163	glucose paper
+T6	Target 223 225	It
+T7	User 286 332	people with diabetes mellitus or  hypoglycemia
+T8	MeansOfUse 418 451	placed on a disposable test strip
+T9	MeansOfUse 369 413	pricking the skin with a Blood lancet|lancet

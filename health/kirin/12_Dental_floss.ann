@@ -1,0 +1,9 @@
+T1	Target 0 12	Dental floss
+T4	Target 140 142	It
+T7	DegreeOfEffect 311 342	80% of plaque can be eliminated
+T8	NullEffect 391 423	failed to find any clear benefit
+T2	Effect 49 78	remove food and dental plaque
+T3	DegreeOfEffect 196 254	favourable effect on plaque removal and disease prevention
+R1	EFFECT_MODIFIER Arg1:T3 Arg2:T2	
+R2	EFFECT_MODIFIER Arg1:T7 Arg2:T2	
+T5	Location 92 97	teeth

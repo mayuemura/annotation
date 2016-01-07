@@ -1,0 +1,13 @@
+T1	Target 2 14	multivitamin
+T2	Effect 49 131	dietary supplement with vitamins, dietary minerals, and other nutritional elements
+T3	Version 180 187	tablets
+T4	Version 189 197	capsules
+T5	Version 199 208	pastilles
+T6	Version 210 217	powders
+T7	Version 219 226	liquids
+T8	Version 232 242	injectable
+T9	Version 268 278	injectable
+T10	Target 133 150	Such preparations
+T11	Target 501 513	Multivitamin
+T12	Target 588 600	multivitamin
+T13	ComposedOf 679 710	3 or more vitamins and minerals

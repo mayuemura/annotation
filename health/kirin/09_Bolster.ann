@@ -1,0 +1,14 @@
+T1	Target 2 9	bolster
+T2	ComposedOf 57 63	cotton
+T3	ComposedOf 65 77	Down feather
+T4	ComposedOf 86 91	fibre
+T5	Target 93 101	Bolsters
+T6	Target 232 239	bolster
+T7	Target 265 272	cushion
+T8	Target 276 282	pillow
+T9	Target 289 293	prop
+T10	Target 319 326	bolster
+T11	Location 298 315	western countries
+T12	Effect 387 413	head or lower back support
+T13	Effect 424 435	arm support
+T14	Effect 123 142	back or arm support
