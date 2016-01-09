@@ -5,3 +5,12 @@ T3	Effect 89 122	reflect light at different angles
 R1	CAUSALITY Arg1:T3 Arg2:T2	
 T5	ComposedOf 331 369	stones such as malachite, galena, mica
 T4	MeansOfUse 271 289	used as decoration
+T6	Target 0 7	Glitter
+T7	Target 71 78	Glitter
+T8	Target 168 175	Glitter
+T9	Target 245 252	glitter
+T11	Version 403 408	glass
+T12	Target 409 416	glitter
+T13	Target 486 493	glitter
+T14	Target 633 640	glitter
+T15	Version 622 632	industrial

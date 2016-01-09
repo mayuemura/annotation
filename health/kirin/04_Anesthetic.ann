@@ -1,8 +1,9 @@
 T1	Target 3 13	anesthetic
 T2	Target 15 26	anaesthetic
 T3	Target 30 40	anæsthetic
-T4	Effect 71 93	that causes anesthesia
 T5	Target 137 148	Anesthetics
 T7	Target 320 325	drugs
 T10	Effect 195 207	relieve pain
 T6	MeansOfUse 265 299	administered to facilitate surgery
+T4	Effect 76 93	causes anesthesia
+T8	Effect 117 134	loss of sensation

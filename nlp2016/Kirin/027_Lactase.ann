@@ -1,0 +1,15 @@
+T1	Target 0 7	Lactase
+T2	Target 135 142	Lactase
+T3	Target 269 276	lactase
+T4	Target 364 371	Lactase
+T6	Target 49 51	It
+T7	Effect 200 219	breaks down lactose
+T8	Target 197 199	it
+T9	ComposedOf 223 228	sugar
+T10	User 280 286	person
+T11	User 331 362	symptoms of lactose intolerance
+T5	Effect 435 456	produce "lactose-free
+T12	Effect 163 195	complete digestion of whole milk
+T13	MeansOfUse 418 431	added to milk
+T14	MeansOfUse 394 409	food supplement
+#1	AnnotatorNotes T14	also?

@@ -4,7 +4,12 @@ T5	Target 252 261	bromelain
 T6	Target 131 142	The extract
 T7	Target 205 207	it
 T8	PartOf 347 359	Bromeliaceae
-T9	CertaintyOfEffect 564 627	has no established research evidence as a nutraceutical or drug
 T10	MeansOfUse 184 203	culinary ingredient
 T2	PartOf 57 67	pineapples
 T3	Effect 160 173	folk medicine
+T12	Target 554 563	bromelain
+T13	Target 514 517	its
+T14	Effect 527 552	efficacy against diseases
+T9	CertaintyOfEffect 564 627	has no established research evidence as a nutraceutical or drug
+R1	EFFECT_MODIFIER Arg1:T9 Arg2:T14	
+T11	ComposedOf 286 306	two protease enzymes

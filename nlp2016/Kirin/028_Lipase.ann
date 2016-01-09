@@ -1,0 +1,11 @@
+T1	Target 2 8	lipase
+T2	Target 70 77	Lipases
+T3	Target 111 118	Lipases
+T4	Target 341 348	lipases
+T5	Target 291 298	lipases
+T6	Effect 150 203	digestion, transport and processing of dietary lipids
+T7	ComposedOf 210 223	triglycerides
+T8	ComposedOf 225 229	fats
+T9	ComposedOf 231 235	oils
+T10	Effect 27 59	catalyzes the hydrolysis of fats
+T11	Target 61 67	lipids

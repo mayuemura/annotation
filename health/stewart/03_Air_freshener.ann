@@ -13,3 +13,9 @@ T2	PartOf 54 73	commercial products
 R2	EFFECT_MODIFIER Arg1:T11 Arg2:T10	
 T12	Location 82 121	restrooms that typically emit fragrance
 T13	ComposedOf 530 567	organic and everyday house hold items
+T14	Target 0 14	Air fresheners
+T15	Target 170 183	air freshener
+T16	Target 216 230	air fresheners
+T17	Target 294 308	air fresheners
+T18	Target 430 444	Air freshening
+T19	Target 487 501	air freshening

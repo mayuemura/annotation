@@ -1,0 +1,14 @@
+T1	Target 0 10	Prebiotics
+T3	Effect 137 179	contribute to the well-being of their host
+T2	Effect 57 131	induce the growth or activity of microorganisms (e.g., bacteria and fungi)
+R1	CAUSALITY Arg1:T2 Arg2:T3	
+T4	Target 245 255	prebiotics
+T5	Effect 260 316	alter the composition of organisms in the gut microbiome
+T7	CertaintyOfEffect 456 474	have been proposed
+T9	Effect 499 557	improve the activity or composition of the skin microbiota
+T10	Version 438 455	hand moisturizers
+T8	Target 485 495	prebiotics
+T11	Target 568 578	prebiotics
+T12	Effect 710 839	stimulate the growth or activity of advantageous bacteria that colonize the large bowel by acting as substrate substrate for them
+T13	ComposedOf 608 621	dietary fiber
+T6	Target 340 342	it

@@ -6,4 +6,5 @@ T5	Version 190 220	Foundation applied to the body
 R1	CONDITION Arg1:T1 Arg2:T2	
 R2	CONDITION Arg1:T1 Arg2:T3	
 R3	CONDITION Arg1:T1 Arg2:T4	
-T6	Alias 250 263	body painting
+T6	Target 250 263	body painting
+T7	Target 0 10	Foundation

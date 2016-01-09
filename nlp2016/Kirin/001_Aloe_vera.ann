@@ -3,4 +3,7 @@ T2	Target 55 64	Aloe vera
 T3	Effect 170 215	rejuvenating, healing, or soothing properties
 T4	CertaintyOfEffect 236 306	little scientific evidence of the effectiveness or safety of Aloe vera
 T5	Target 460 469	aloe vera
-T6	CertaintyOfEffect 368 442	positive evidence is available is frequently contradicted by other studies
+T6	NullEffect 368 442	positive evidence is available is frequently contradicted by other studies
+R1	EFFECT_MODIFIER Arg1:T4 Arg2:T3	
+R2	EFFECT_MODIFIER Arg1:T6 Arg2:T3	
+T7	MeansOfUse 76 133	used in the cosmetics and alternative medicine industries

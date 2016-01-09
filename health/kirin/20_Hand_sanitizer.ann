@@ -9,7 +9,6 @@ T8	ComposedOf 262 279	isopropyl alcohol
 T9	ComposedOf 295 302	ethanol
 T10	ComposedOf 304 314	n-propanol
 T11	ComposedOf 319 334	povidone-iodine
-T12	DegreeOfEffect 580 620	more effective at killing microorganisms
 T13	ComposedOf 418 434	polyacrylic acid
 T14	Version 447 451	gels
 T16	Version 485 496	liquid rubs
@@ -19,3 +18,6 @@ T18	PartOf 393 409	thickening agent
 T19	ComposedOf 472 480	glycerin
 T20	ComposedOf 520 534	essential oils
 T21	Effect 636 656	do not dry out hands
+T12	Effect 598 620	killing microorganisms
+T22	DegreeOfEffect 580 594	more effective
+R1	EFFECT_MODIFIER Arg1:T22 Arg2:T12	

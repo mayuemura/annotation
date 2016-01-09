@@ -1,8 +1,14 @@
-T1	Alias 20 30	glucometer
+T1	Target 20 30	glucometer
 T2	Effect 56 121	determining the approximate concentration of glucose in the blood
 T4	PartOf 246 282	home blood glucose monitoring (HBGM)
-T5	MeansOfUse 334 518	A small drop of blood, obtained by pricking the skin with a Blood lancet|lancet, is placed on a disposable test strip that the meter reads and uses to calculate the blood glucose level
 T6	MeansOfUse 164 221	dipped into a substance and measured to the glucose chart
 T7	ComposedOf 150 163	glucose paper
 T9	Effect 535 588	displays the level in units of mg/dl or Mmol/L|mmol/l
 T3	User 286 332	people with diabetes mellitus or  hypoglycemia
+T8	Target 2 15	glucose meter
+T10	Target 124 126	It
+T11	Target 223 225	It
+T12	Target 524 529	meter
+T5	Effect 485 518	calculate the blood glucose level
+T13	MeansOfUse 334 451	A small drop of blood, obtained by pricking the skin with a Blood lancet|lancet, is placed on a disposable test strip
+T14	Target 461 466	meter

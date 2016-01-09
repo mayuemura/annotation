@@ -6,3 +6,7 @@ T3	ComposedOf 140 170	Fixative (perfumery)|fixatives
 T8	ComposedOf 175 183	solvents
 T4	Effect 192 277	give the human body, animals, food, objects, and living spaces "a pleasant Odor|scent
 T5	ComposedOf 639 656	natural aromatics
+T9	Target 0 7	Perfume
+T10	Target 280 288	Perfumes
+T11	Target 425 434	perfumery
+T12	Target 582 590	perfumes

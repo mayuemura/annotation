@@ -6,3 +6,6 @@ T5	CertaintyOfEffect 355 386	many also require further study
 R1	EFFECT_MODIFIER Arg1:T3 Arg2:T2	
 R2	EFFECT_MODIFIER Arg1:T4 Arg2:T2	
 R3	EFFECT_MODIFIER Arg1:T5 Arg2:T2	
+T6	Target 0 9	Green tea
+T7	Target 178 187	green tea
+T8	Target 197 200	its

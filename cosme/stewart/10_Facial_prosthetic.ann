@@ -8,3 +8,8 @@ T7	ComposedOf 388 397	cold foam
 T9	DegreeOfEffect 485 522	appear older or younger than they are
 T10	Effect 554 590	transform an actor into any creature
 T8	DegreeOfEffect 415 465	as subtle as altering the curve of a cheek or nose
+T11	Target 2 19	facial prosthetic
+T12	Target 23 40	facial prosthesis
+T13	Target 195 219	facial prosthetic makeup
+T14	Target 281 299	Facial prosthetics
+T15	Target 527 544	facial prosthesis

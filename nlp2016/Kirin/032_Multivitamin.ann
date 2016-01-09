@@ -1,0 +1,19 @@
+T1	Target 2 14	multivitamin
+T2	Target 501 513	Multivitamin
+T3	Target 588 600	multivitamin
+T4	Target 362 375	multivitamins
+T5	Version 180 187	tablets
+T6	Version 189 197	capsules
+T7	Version 199 208	pastilles
+T8	Version 210 217	powders
+T9	Version 219 226	liquids
+T10	Version 232 255	injectable formulations
+T11	Location 638 651	United States
+T12	Version 268 291	injectable formulations
+T13	MeansOfUse 539 584	provided in combination with dietary minerals
+T14	MeansOfUse 322 360	administered under medical supervision
+T15	MeansOfUse 32 67	intended to be a dietary supplement
+T16	MeansOfUse 15 17	is
+T17	ComposedOf 73 81	vitamins
+T18	ComposedOf 83 99	dietary minerals
+T19	ComposedOf 105 131	other nutritional elements

@@ -1,0 +1,16 @@
+T1	Target 0 8	Orlistat
+T2	Target 24 43	tetrahydrolipstatin
+T3	Effect 67 80	treat obesity
+T4	Target 82 84	It
+T5	Location 252 266	United Kingdom
+T6	Location 275 288	United States
+T7	Target 290 293	Its
+T8	Effect 314 347	preventing the absorption of fats
+T9	Effect 383 399	lipase inhibitor
+T10	Effect 409 432	reducing caloric intake
+T11	Target 434 436	It
+T12	Target 540 548	Orlistat
+T15	MeansOfUse 437 448	is intended
+T13	MeansOfUse 457 538	in conjunction with a healthcare provider-supervised dieting|reduced-calorie diet
+T14	ComposedOf 556 600	saturation saturated derivative of lipstatin
+T16	Effect 619 628	inhibitor

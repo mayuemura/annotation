@@ -8,6 +8,10 @@ T7	Version 219 226	liquids
 T8	Version 232 242	injectable
 T9	Version 268 278	injectable
 T10	Target 133 150	Such preparations
-T11	Target 501 513	Multivitamin
 T12	Target 588 600	multivitamin
 T13	ComposedOf 679 710	3 or more vitamins and minerals
+T14	MeansOfUse 322 360	administered under medical supervision
+T15	MeansOfUse 483 499	category of food
+T16	MeansOfUse 539 584	provided in combination with dietary minerals
+T11	Target 501 525	Multivitamin supplements
+T17	Target 601 619	mineral supplement

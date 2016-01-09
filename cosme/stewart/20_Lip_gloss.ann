@@ -8,3 +8,6 @@ T8	Version 394 400	glossy
 T9	Version 406 414	metallic
 T1	Effect 41 66	give lips a glossy lustre
 T10	Effect 85 103	add a subtle color
+T11	Target 0 9	Lip gloss
+T12	Target 106 108	It
+T13	Target 245 252	product

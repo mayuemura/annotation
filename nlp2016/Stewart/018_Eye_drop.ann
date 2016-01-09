@@ -2,7 +2,6 @@ T1	Target 0 9	Eye drops
 T2	ComposedOf 14 20	saline
 T3	MeansOfUse 61 73	ocular route
 T4	Effect 458 488	lubricating and tear-replacing
-T5	DegreeOfEffect 510 568	have less of a risk of side effects than do oral medicines
 T6	Target 500 509	Eye drops
 T7	Target 393 402	Eye drops
 T8	ComposedOf 148 156	steroids
@@ -16,7 +15,12 @@ T15	ComposedOf 274 320	non-steroidal anti-inflammatory drugs (NSAIDs)
 T16	ComposedOf 322 333	antibiotics
 T17	ComposedOf 335 367	Antifungal medication|antifungal
 T18	ComposedOf 372 391	topical anesthetics
-T19	MeansOfUse 707 717	instilling
 T20	Target 131 135	they
 T21	Target 440 444	them
 T22	Target 718 723	drops
+T5	Effect 533 545	side effects
+T23	DegreeOfEffect 510 529	have less of a risk
+R1	EFFECT_MODIFIER Arg1:T23 Arg2:T5	
+T24	DegreeOfEffect 546 568	than do oral medicines
+R2	EFFECT_MODIFIER Arg1:T24 Arg2:T5	
+T19	MeansOfUse 604 717	occluding the lacrimal punctum, (i.e. pressing on the inner corner of the eye) for a short while after instilling

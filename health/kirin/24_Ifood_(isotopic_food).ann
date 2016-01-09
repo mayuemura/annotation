@@ -1,2 +1,8 @@
 T1	Target 0 5	iFood
 T2	Target 7 20	isotopic food
+T4	DegreeOfEffect 298 309	more stable
+T6	Effect 699 717	enhanced longevity
+T7	DegreeOfEffect 660 669	is linked
+R2	EFFECT_MODIFIER Arg1:T7 Arg2:T6	
+T3	Effect 310 356	molecular structures with increased resistance
+R1	EFFECT_MODIFIER Arg1:T4 Arg2:T3	

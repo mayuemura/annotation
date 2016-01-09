@@ -5,3 +5,5 @@ T4	Effect 443 476	inhibit other oxidation reactions
 T5	Effect 367 398	terminate these chain reactions
 R1	CAUSALITY Arg1:T1 Arg2:T5	
 R2	CAUSALITY Arg1:T4 Arg2:T5	
+T6	Target 3 14	antioxidant
+T7	Target 354 366	Antioxidants

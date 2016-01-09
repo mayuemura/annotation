@@ -3,10 +3,9 @@ T2	PartOf 30 38	bristles
 T3	Location 89 93	face
 T5	ComposedOf 139 169	natural or synthetic materials
 T6	ComposedOf 211 226	plastic or wood
-T7	PartOf 177 187	the handle
 T8	Target 278 283	brush
 T10	Target 365 380	make up brushes
-T11	Location 399 408	face area
 T12	Target 515 520	brush
 T9	DegreeOfEffect 289 315	blend better into the skin
 T4	PartOf 109 117	bristles
+T7	PartOf 181 187	handle

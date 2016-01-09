@@ -1,0 +1,11 @@
+T1	Target 0 11	Royal jelly
+T2	Effect 477 590	triggers the development of queen morphology morphology, including the fully developed ovaries needed to lay eggs
+T3	User 70 76	larvae
+T4	User 89 101	adult queens
+T5	User 191 197	larvae
+T7	User 361 367	larvae
+T9	Target 103 105	It
+T8	MeansOfUse 372 402	feed them with copious amounts
+T10	Target 406 417	royal jelly
+T11	Location 421 454	specially constructed queen cells
+T6	Time 241 284	When worker bees decide to make a new queen

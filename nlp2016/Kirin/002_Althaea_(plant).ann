@@ -7,3 +7,6 @@ T6	Target 101 120	Althaea officinalis
 T7	Target 202 206	They
 T8	Location 224 239	banks of rivers
 T9	Location 247 259	salt marshes
+T10	PartOf 296 301	stems
+T11	PartOf 351 357	leaves
+T12	Location 272 290	moist, sandy soils

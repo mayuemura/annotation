@@ -1,0 +1,16 @@
+T1	Target 0 6	Stevia
+T2	PartOf 164 181	Stevia rebaudiana
+T3	Target 207 213	stevia
+T4	ComposedOf 218 273	steviol glycosides (mainly stevioside and rebaudioside)
+T5	Target 461 467	stevia
+T6	User 482 521	people on carbohydrate-controlled diets
+T7	Target 523 531	Stevia's
+T8	Effect 86 116	sweetener and sugar substitute
+T9	DegreeOfEffect 292 324	150 times the sweetness of sugar
+R1	EFFECT_MODIFIER Arg1:T9 Arg2:T8	
+T10	DegreeOfEffect 538 595	has a slower onset and longer duration than that of sugar
+R2	EFFECT_MODIFIER Arg1:T10 Arg2:T8	
+T11	Version 601 621	some of its extracts
+T12	Effect 626 667	have a bitter or licorice-like aftertaste
+T13	MeansOfUse 668 690	at high concentrations
+T14	Target 712 727	stevia extracts

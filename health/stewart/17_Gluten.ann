@@ -8,3 +8,5 @@ R1	CAUSALITY Arg1:T2 Arg2:T3
 T8	Effect 224 238	keep its shape
 R4	CAUSALITY Arg1:T2 Arg2:T8	
 T1	PartOf 86 136	wheat and related grains, including barley and rye
+T6	Target 0 6	Gluten
+T7	Target 138 144	Gluten

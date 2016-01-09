@@ -1,6 +1,8 @@
-T1	Alias 19 31	finger frock
-T2	Alias 35 47	finger stall
-T3	Alias 60 73	finger condom
+T1	Target 19 31	finger frock
+T2	Target 35 47	finger stall
+T3	Target 60 73	finger condom
 T4	Effect 103 128	cover one or more fingers
 T5	MeansOfUse 129 176	in situations where a full glove is unnecessary
 T6	ComposedOf 266 330	water-tight materials including latex, nitrile rubber, and vinyl
+T7	Target 2 12	finger cot
+T8	Target 224 235	finger cots

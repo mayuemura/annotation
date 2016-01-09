@@ -13,3 +13,8 @@ T14	Time 497 513	soon after birth
 T15	User 483 490	infants
 T2	MeansOfUse 224 235	as eyeliner
 R1	CONDITION Arg1:T2 Arg2:T8	
+T13	Target 0 4	Kohl
+T16	Target 115 117	It
+T17	Target 308 310	It
+T18	Target 371 375	Kohl
+T19	Target 469 473	kohl

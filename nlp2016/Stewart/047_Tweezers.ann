@@ -1,0 +1,10 @@
+T1	Target 0 8	Tweezers
+T2	Effect 34 104	picking up objects too small to be easily handled with the human hands
+T3	Target 106 110	They
+T4	Target 321 328	forceps
+T5	Target 288 292	they
+T6	Target 330 338	Tweezers
+T7	Effect 521 560	plucking hair from the face or eyebrows
+T8	Target 583 599	eyebrow tweezers
+T9	Target 487 495	tweezers
+T10	User 468 473	Women

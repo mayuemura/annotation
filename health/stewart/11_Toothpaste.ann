@@ -12,3 +12,5 @@ T12	Effect 211 269	aids in removing the dental plaque and food from the teeth
 R2	CAUSALITY Arg1:T4 Arg2:T12	
 T6	Effect 365 412	help prevent tooth and gum disease (gingivitis)
 R1	CAUSALITY Arg1:T8 Arg2:T6	
+T13	Target 0 10	Toothpaste
+T14	Target 137 147	Toothpaste

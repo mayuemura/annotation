@@ -1,4 +1,5 @@
 T1	Target 3 10	earplug
 T2	MeansOfUse 43 68	inserted in the ear canal
-T3	Effect 72 178	protect the user's ears from loud noises or the intrusion of water, foreign bodies, dust or excessive wind
 T4	MeansOfUse 11 13	is
+T3	Effect 72 95	protect the user's ears
+T5	Effect 120 178	intrusion of water, foreign bodies, dust or excessive wind

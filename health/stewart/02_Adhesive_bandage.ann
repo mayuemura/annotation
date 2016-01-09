@@ -1,8 +1,10 @@
-T1	Alias 35 51	sticking plaster
-T2	Alias 63 70	plaster
-T4	Alias 258 266	Band-Aid
-T5	Alias 272 280	band-aid
-T6	Alias 286 294	band aid
-T7	Alias 310 321	Elastoplast
+T1	Target 35 51	sticking plaster
+T2	Target 63 70	plaster
+T4	Target 258 266	Band-Aid
+T5	Target 272 280	band-aid
+T6	Target 286 294	band aid
+T7	Target 310 321	Elastoplast
 T3	Effect 139 206	used for injuries not serious enough to require a full-size bandage
 T8	Effect 103 111	dressing
+T9	Target 3 19	adhesive bandage
+T10	Target 208 212	They

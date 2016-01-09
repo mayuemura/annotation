@@ -12,3 +12,5 @@ T15	Version 576 583	tapered
 T3	ComposedOf 139 169	natural or synthetic materials
 T4	MeansOfUse 248 283	applied using the appropriate brush
 R1	CONDITION Arg1:T4 Arg2:T7	
+T8	Target 2 14	makeup brush
+T9	Target 373 380	brushes

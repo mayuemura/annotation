@@ -1,0 +1,15 @@
+T1	Target 2 11	pedometer
+T2	Target 419 429	pedometers
+T3	User 275 279	user
+T4	User 631 670	sports and physical fitness enthusiasts
+T5	Target 672 682	pedometers
+T6	User 846 852	wearer
+T7	MeansOfUse 770 786	worn on the belt
+T8	Effect 119 139	detecting the Motion
+T9	Effect 84 100	counts each step
+T10	Effect 753 762	motivator
+#1	AnnotatorNotes T10	An effect?
+T11	Time 796 811	kept on all day
+#2	AnnotatorNotes T11	Related to motivator?
+T12	Version 60 77	electromechanical
+#3	AnnotatorNotes T12	Different version?

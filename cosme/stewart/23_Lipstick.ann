@@ -4,3 +4,7 @@ T3	ComposedOf 68 73	waxes
 T4	ComposedOf 79 89	emollients
 T6	User 287 292	women
 T5	Effect 95 155	apply color, texture, and protection to the lip (mouth)|lips
+T7	Target 0 8	Lipstick
+T8	Target 182 190	lipstick
+T9	Target 235 243	lipstick
+T10	Target 306 314	lipstick

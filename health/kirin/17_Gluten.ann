@@ -2,3 +2,6 @@ T1	Target 0 6	Gluten
 T2	Target 47 51	glue
 T3	ComposedOf 59 76	protein composite
 T4	Target 138 144	Gluten
+T5	Effect 151 177	viscoelasticity|elasticity
+T6	Effect 285 298	chewy texture
+T7	Effect 224 238	keep its shape

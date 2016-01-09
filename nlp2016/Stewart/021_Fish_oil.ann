@@ -10,3 +10,5 @@ T9	CertaintyOfEffect 315 347	have failed to support claims of
 T10	Effect 348 383	preventing heart attacks or strokes
 T11	Target 385 393	Fish oil
 T12	Target 474 482	fish oil
+R1	EFFECT_MODIFIER Arg1:T9 Arg2:T10	
+R2	EFFECT_MODIFIER Arg1:T7 Arg2:T6	

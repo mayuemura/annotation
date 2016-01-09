@@ -1,0 +1,7 @@
+T1	Target 2 10	wet wipe
+T2	Target 28 37	wet towel
+T3	Target 44 59	moist towelette
+T4	Target 172 181	Wet wipes
+T8	ComposedOf 91 96	paper
+T9	ComposedOf 100 105	cloth
+T5	MeansOfUse 186 212	used for cleaning purposes

@@ -1,5 +1,5 @@
-T1	Alias 85 97	egg yolk oil
-T2	Alias 101 109	ovum oil
+T1	Target 85 97	egg yolk oil
+T2	Target 101 109	ovum oil
 T4	User 348 379	people who are allergic to eggs
 T6	Effect 414 432	hair and skin care
 T7	Time 447 506	has several historical references in Unani (Greek) medicine
@@ -14,3 +14,7 @@ T3	ComposedOf 173 186	triglycerides
 T11	ComposedOf 202 210	lecithin
 T12	ComposedOf 212 223	cholesterol
 T13	ComposedOf 225 287	xanthophylls such as lutein and zeaxanthin and immunoglobulins
+T14	Target 0 7	Egg oil
+T15	Target 289 291	It
+T17	Target 557 564	egg oil
+T16	Target 439 446	product

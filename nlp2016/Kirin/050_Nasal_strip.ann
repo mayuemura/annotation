@@ -1,0 +1,22 @@
+T1	Target 2 13	nasal strip
+T2	Target 47 66	nasal dilator strip
+T3	Target 15 43	external nasal dilator strip
+T4	PartOf 111 123	plastic ribs
+T5	MeansOfUse 143 206	applied across the bridge of the nose and sides of the nostrils
+T6	Effect 211 244	assist in keeping the airway open
+T7	Target 246 250	They
+T8	DegreeOfEffect 267 288	make breathing easier
+T9	Effect 394 409	prevent snoring
+T10	Effect 370 387	reduce congestion
+T12	User 515 534	race horse trainers
+T13	MeansOfUse 328 352	during athletic exertion
+T14	User 321 327	humans
+T15	Effect 586 610	reduce airway resistance
+T16	Effect 684 698	reduce fatigue
+T17	Effect 703 725	aid post-race recovery
+T18	NullEffect 432 445	not indicated
+T19	Effect 463 491	performance-enhancing effect
+R1	EFFECT_MODIFIER Arg1:T18 Arg2:T19	
+R2	EFFECT_MODIFIER Arg1:T8 Arg2:T9	
+R3	EFFECT_MODIFIER Arg1:T8 Arg2:T10	
+T11	Target 313 317	used

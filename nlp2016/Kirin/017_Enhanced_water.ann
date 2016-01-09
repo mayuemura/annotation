@@ -1,0 +1,16 @@
+T1	Target 0 14	Enhanced water
+T2	Target 225 240	enhanced waters
+T3	Target 347 361	enhanced water
+T4	Target 380 394	enhanced water
+T5	ComposedOf 585 590	sugar
+T6	ComposedOf 88 110	additional ingredients
+T7	ComposedOf 125 154	natural or artificial flavors
+T8	ComposedOf 156 161	sugar
+T9	ComposedOf 163 173	sweeteners
+T10	ComposedOf 175 183	vitamins
+T11	ComposedOf 185 193	minerals
+T12	ComposedOf 198 217	other "enhancements
+T13	ComposedOf 527 549	additional ingredients
+T14	Effect 475 511	health, taste or functional benefits
+T15	CertaintyOfEffect 465 474	perceived
+R1	EFFECT_MODIFIER Arg1:T15 Arg2:T14	

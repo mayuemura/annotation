@@ -1,4 +1,4 @@
-T1	Alias 25 35	lip pencil
+T1	Target 25 35	lip pencil
 T2	Effect 89 137	fill uneven areas on the outer edges of the lips
 T3	Time 138 161	after applying lipstick
 T4	Effect 173 194	giving a smooth shape
@@ -17,3 +17,8 @@ T11	Version 526 530	reds
 T12	Version 532 537	pinks
 T13	Version 539 545	browns
 T14	Version 547 552	plums
+T15	Target 0 9	Lip liner
+T16	Target 71 73	It
+T17	Target 197 199	It
+T18	Target 384 391	product
+T19	Target 447 456	Lip liner

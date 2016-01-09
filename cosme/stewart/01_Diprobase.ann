@@ -6,3 +6,7 @@ R2	CAUSALITY Arg1:T3 Arg2:T5
 T6	CertaintyOfEffect 211 222	tendency to
 T7	Effect 85 104	occlusive emollient
 T1	Effect 16 73	emollient, specifically targeted at eczema and dermatitis
+T2	Target 0 9	Diprobase
+T8	Target 76 78	It
+T9	Target 119 121	it
+T10	Target 207 210	its

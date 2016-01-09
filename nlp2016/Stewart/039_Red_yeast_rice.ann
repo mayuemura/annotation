@@ -1,0 +1,22 @@
+T1	Target 0 14	Red yeast rice
+T2	Target 16 19	红曲米
+T3	Target 20 23	紅麴米
+T4	Target 26 34	red rice
+T5	Target 35 39	koji
+T6	Target 40 45	べにこうじ
+T7	Target 53 61	red koji
+T8	Target 67 74	akakoji
+T9	Target 76 80	あかこぎ
+T10	Target 96 104	red koji
+T11	Target 108 126	red fermented rice
+T12	Target 128 142	red kojic rice
+T13	Target 144 157	red koji rice
+T14	Target 159 163	anka
+T15	Target 168 175	ang-kak
+T16	ComposedOf 282 300	Monascus purpureus
+T17	Target 302 316	Red yeast rice
+T18	Target 359 363	koji
+T19	Target 542 556	red yeast rice
+T20	Target 615 629	red yeast rice
+T21	Version 651 665	their products
+T22	ComposedOf 671 693	red dye #2 Sudan Red G

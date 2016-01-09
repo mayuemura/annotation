@@ -1,0 +1,11 @@
+T1	Target 0 16	Hair conditioner
+T2	Target 89 106	Hair conditioners
+T3	Target 190 206	Hair conditioner
+T4	Target 260 277	Hair conditioners
+T5	Effect 45 87	changes the texture and appearance of hair
+T6	MeansOfUse 142 188	applied to the hair and massaged into the hair
+T7	Time 223 258	after washing the hair with shampoo
+T8	ComposedOf 290 302	moisturizers
+T9	ComposedOf 304 308	oils
+T10	ComposedOf 313 322	sunscreen
+T11	ComposedOf 119 133	viscous liquid

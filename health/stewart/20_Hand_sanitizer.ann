@@ -1,6 +1,6 @@
-T1	Alias 2 17	hand antiseptic
-T2	Alias 18 35	hand disinfectant
-T3	Alias 37 51	hand sanitiser
+T1	Target 2 17	hand antiseptic
+T2	Target 18 35	hand disinfectant
+T3	Target 37 51	hand sanitiser
 T4	Effect 73 136	a supplement or alternative to hand washing with soap and water
 T5	Version 181 184	gel
 T6	Version 186 190	foam
@@ -14,7 +14,6 @@ T14	ComposedOf 498 514	propylene glycol
 T15	ComposedOf 520 544	essential oils of plants
 T16	DegreeOfEffect 580 594	more effective
 T17	Effect 598 620	killing microorganisms
-T19	Version 546 575	Alcohol-based hand sanitizers
 T21	Version 439 451	alcohol gels
 T22	Version 485 496	liquid rubs
 R1	EFFECT_MODIFIER Arg1:T16 Arg2:T17	
@@ -26,3 +25,7 @@ R3	EFFECT_MODIFIER Arg1:T24 Arg2:T17
 R4	EFFECT_MODIFIER Arg1:T24 Arg2:T18	
 T12	ComposedOf 393 434	thickening agent such as polyacrylic acid
 T20	Version 360 372	alcohol rubs
+T25	Target 55 69	hand sanitizer
+T26	Target 239 254	hand sanitizers
+T19	Version 546 559	Alcohol-based
+T27	Target 560 575	hand sanitizers

@@ -10,3 +10,5 @@ R3	EFFECT_MODIFIER Arg1:T3 Arg2:T8
 T1	Effect 49 97	remove food and dental plaque from between teeth
 T9	MeansOfUse 98 138	in areas a toothbrush is unable to reach
 T4	CertaintyOfEffect 370 448	several reviews have failed to find any clear benefit over toothbrushing alone
+T10	Target 0 12	Dental floss
+T11	Target 140 142	It

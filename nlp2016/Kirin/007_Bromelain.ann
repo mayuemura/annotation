@@ -1,4 +1,15 @@
 T1	Target 0 9	Bromelain
 T2	Target 252 261	bromelain
 T3	NullEffect 568 600	no established research evidence
-T4	CertaintyOfEffect 518 552	possible efficacy against diseases
+T6	ComposedOf 290 306	protease enzymes
+T7	ComposedOf 422 437	other compounds
+T8	Target 554 563	bromelain
+T9	ComposedOf 15 30	protein extract
+T10	PartOf 48 67	stems of pineapples
+T4	Effect 527 552	efficacy against diseases
+T11	CertaintyOfEffect 518 526	possible
+R1	EFFECT_MODIFIER Arg1:T11 Arg2:T4	
+R2	EFFECT_MODIFIER Arg1:T3 Arg2:T4	
+T12	MeansOfUse 160 173	folk medicine
+T13	MeansOfUse 179 203	As a culinary ingredient
+T5	Effect 225 240	meat tenderizer

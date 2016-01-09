@@ -1,8 +1,8 @@
 T1	Target 0 10	Foundation
 T2	Target 190 200	Foundation
 T3	MeansOfUse 37 56	applied to the face
-T5	Effect 110 124	to cover flaws
 T7	MeansOfUse 201 220	applied to the body
 T8	Target 250 263	body painting
 T4	Effect 60 90	create an even, uniform colour
 T6	Effect 144 188	change the natural human skin color|skintone
+T5	Effect 113 124	cover flaws

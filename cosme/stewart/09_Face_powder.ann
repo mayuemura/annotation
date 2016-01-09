@@ -15,3 +15,5 @@ R3	CONDITION Arg1:T4 Arg2:T5
 R4	CONDITION Arg1:T3 Arg2:T5	
 T13	Version 317 341	pigmented facial powders
 T8	MeansOfUse 355 389	worn alone with no base foundation
+T14	Target 0 11	Face powder
+T15	Target 392 398	Powder

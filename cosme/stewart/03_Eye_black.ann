@@ -4,3 +4,6 @@ T4	Location 174 241	where sunlight or stadium lights can impair seeing an airbor
 T6	ComposedOf 15 21	grease
 T3	User 114 172	American football|football, baseball, and lacrosse players
 R1	CONDITION Arg1:T1 Arg2:T2	
+T5	Target 0 9	Eye black
+T7	Target 94 96	It
+T8	Target 243 245	It

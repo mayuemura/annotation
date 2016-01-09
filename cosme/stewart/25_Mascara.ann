@@ -7,3 +7,6 @@ T10	ComposedOf 296 300	oils
 T11	ComposedOf 302 307	waxes
 T12	ComposedOf 313 326	preservatives
 T2	Effect 75 129	darken, thicken, lengthen, and/or define the eyelashes
+T3	Target 0 7	Mascara
+T4	Target 68 70	It
+T5	Target 197 204	mascara

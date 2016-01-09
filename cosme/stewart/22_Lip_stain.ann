@@ -5,3 +5,7 @@ T4	DegreeOfEffect 96 135	generally stays on longer than lipstick
 T6	Effect 193 205	dry the lips
 T5	Effect 139 175	leaving a stain of color on the lips
 R1	EFFECT_MODIFIER Arg1:T4 Arg2:T5	
+T7	Target 0 9	Lip stain
+T8	Target 93 95	It
+T9	Target 186 188	it
+T10	Time 233 239	winter
