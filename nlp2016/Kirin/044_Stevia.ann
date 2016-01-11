@@ -10,3 +10,6 @@ T9	Target 523 531	Stevia's
 T10	Target 712 718	stevia
 T12	Effect 86 95	sweetener
 T13	Target 164 170	Stevia
+T11	Effect 633 667	bitter or licorice-like aftertaste
+T14	MeansOfUse 731 745	food additives
+T15	MeansOfUse 750 761	supplements

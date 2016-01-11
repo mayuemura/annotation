@@ -6,7 +6,8 @@ T5	Target 474 482	fish oil
 T6	Effect 209 228	reduce inflammation
 T7	Effect 251 272	other health benefits
 T8	Effect 348 383	preventing heart attacks or strokes
-T9	NullEffect 320 344	failed to support claims
-R1	EFFECT_MODIFIER Arg1:T9 Arg2:T8	
 T10	ComposedOf 129 149	docosahexaenoic acid
 T11	ComposedOf 97 118	eicosapentaenoic acid
+T9	NullEffect 320 344	failed to support claims
+R1	EFFECT_MODIFIER Arg1:T9 Arg2:T8	
+T12	MeansOfUse 407 436	component in aquaculture feed

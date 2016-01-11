@@ -17,7 +17,5 @@ T12	Effect 68 104	growth or activity of microorganisms
 T15	Effect 137 165	contribute to the well-being
 #1	AnnotatorNotes T15	not sure
 T16	Effect 801 820	acting as substrate
-T17	Location 215 237	gastrointestinal tract
-T18	Location 665 705	upper part of the gastrointestinal tract
 T19	User 175 179	host
 #4	AnnotatorNotes T19	user?

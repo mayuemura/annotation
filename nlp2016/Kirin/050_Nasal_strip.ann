@@ -9,7 +9,6 @@ T8	DegreeOfEffect 267 288	make breathing easier
 T9	Effect 394 409	prevent snoring
 T10	Effect 370 387	reduce congestion
 T12	User 515 534	race horse trainers
-T13	MeansOfUse 328 352	during athletic exertion
 T14	User 321 327	humans
 T15	Effect 586 610	reduce airway resistance
 T16	Effect 684 698	reduce fatigue
@@ -19,4 +18,6 @@ T19	Effect 463 491	performance-enhancing effect
 R1	EFFECT_MODIFIER Arg1:T18 Arg2:T19	
 R2	EFFECT_MODIFIER Arg1:T8 Arg2:T9	
 R3	EFFECT_MODIFIER Arg1:T8 Arg2:T10	
-T11	Target 313 317	used
+T11	MeansOfUse 313 317	used
+T13	MeansOfUse 328 352	during athletic exertion
+T20	PartOf 127 134	splints

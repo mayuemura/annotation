@@ -9,7 +9,5 @@ T8	Effect 119 139	detecting the Motion
 T9	Effect 84 100	counts each step
 T10	Effect 753 762	motivator
 #1	AnnotatorNotes T10	An effect?
-T11	Time 796 811	kept on all day
-#2	AnnotatorNotes T11	Related to motivator?
 T12	Version 60 77	electromechanical
 #3	AnnotatorNotes T12	Different version?
