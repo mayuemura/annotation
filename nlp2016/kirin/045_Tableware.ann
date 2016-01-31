@@ -1,0 +1,9 @@
+T1	Target 0 9	Tableware
+T2	Target 17 23	dishes
+T3	Target 27 35	dishware
+T7	Target 87 89	It
+T8	PartOf 99 106	cutlery
+T9	PartOf 108 125	List of glassware
+T10	PartOf 127 141	serving dishes
+T11	MeansOfUse 36 60	used for setting a table
+T12	MeansOfUse 190 209	decorative purposes

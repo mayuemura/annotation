@@ -1,6 +1,6 @@
-T1	Effect 41 67	define the Human eyes|eyes
-T2	MeansOfUse 75 116	applied around the contours of the eye(s)
-T3	Effect 120 157	create a variety of aesthetic effects
-R1	CONDITION Arg1:T2 Arg2:T3	
-T4	Target 0 8	Eyeliner
-T5	Target 69 71	It
+T1	Target 0 8	Eyeliner
+T2	Effect 31 46	define the eyes
+T3	Target 48 50	It
+T4	MeansOfUse 54 95	applied around the contours of the eye(s)
+T5	Effect 99 136	create a variety of aesthetic effects
+R1	CONDITION Arg1:T4 Arg2:T5	

@@ -1,0 +1,12 @@
+T1	Effect 188 197	emollient
+T2	ComposedOf 22 55	light, hydrocarbon-based emulsion
+T4	Target 0 16	Aqueous Cream BP
+T5	Target 211 213	It
+T6	MeansOfUse 227 234	topical
+T7	MeansOfUse 236 253	external medicine
+T3	Effect 255 276	emollient moisturiser
+T8	MeansOfUse 281 322	general-purpose substitute for toiletries
+T9	MeansOfUse 331 335	soap
+T10	MeansOfUse 337 347	shower gel
+T11	MeansOfUse 349 362	shaving cream
+T12	MeansOfUse 367 376	lip salve

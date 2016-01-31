@@ -1,0 +1,9 @@
+T1	User 42 60	men with hair loss
+T4	CertaintyOfEffect 129 154	myth of its effectiveness
+T2	Target 0 13	Bear's grease
+T3	Effect 222 250	assist hair growth in others
+T5	Target 354 366	Bears Grease
+T6	Target 625 638	bear's grease
+T7	Effect 367 409	staies [stops] the falling off of the hair
+R1	EFFECT_MODIFIER Arg1:T4 Arg2:T3	
+T8	Target 206 215	their fat

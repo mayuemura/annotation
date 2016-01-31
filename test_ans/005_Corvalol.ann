@@ -1,0 +1,19 @@
+T2	ComposedOf 73 93	valerian (herb) root
+T3	ComposedOf 98 111	phenobarbital
+T6	Version 213 231	transparent liquid
+T7	Version 281 306	bi-concave scored tablets
+T9	MeansOfUse 422 441	self-administration
+T10	ComposedOf 515 537	psychoactive chemicals
+T12	Target 0 8	Corvalol
+T4	Location 124 138	Eastern Europe
+T5	Location 147 166	former Soviet Union
+T13	Effect 173 189	heart medication
+R1	CONDITION Arg1:T4 Arg2:T13	
+R2	CONDITION Arg1:T5 Arg2:T13	
+T8	Effect 543 591	may interact with other prescription medications
+T11	MeansOfUse 599 615	person is taking
+R3	CONDITION Arg1:T11 Arg2:T8	
+T14	Target 192 194	It
+T15	Target 363 371	Corvalol
+T16	Target 475 483	Corvalol
+T1	Effect 46 62	mild tranquilize

@@ -1,4 +1,4 @@
-T1	Effect 65 74	fungicide
-T4	Effect 83 266	treat and prevent mycosis|mycoses such as athlete's foot, ringworm, candidiasis (thrush), serious systemic infections such as Cryptococcus (fungus)|cryptococcal meningitis, and others
-T2	Target 3 24	antifungal medication
-T3	Target 273 278	drugs
+T1	Target 3 24	antifungal medication
+T2	Effect 45 54	fungicide
+T3	Effect 63 216	treat and prevent mycoses such as athlete's foot, ringworm, candidiasis (thrush), serious systemic infections such as cryptococcal meningitis, and others
+T4	Target 223 228	drugs

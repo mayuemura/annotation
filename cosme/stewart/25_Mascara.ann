@@ -1,12 +1,12 @@
-T1	Effect 49 65	enhance the eyes
-T6	Version 163 169	liquid
-T7	Version 171 175	cake
-T8	Version 180 185	cream
-T9	ComposedOf 286 294	pigments
-T10	ComposedOf 296 300	oils
-T11	ComposedOf 302 307	waxes
-T12	ComposedOf 313 326	preservatives
-T2	Effect 75 129	darken, thicken, lengthen, and/or define the eyelashes
-T3	Target 0 7	Mascara
-T4	Target 68 70	It
-T5	Target 197 204	mascara
+T1	Target 0 7	Mascara
+T2	Effect 39 55	enhance the eyes
+T3	Target 58 60	It
+T4	Effect 65 119	darken, thicken, lengthen, and/or define the eyelashes
+T5	Version 153 159	liquid
+T6	Version 161 165	cake
+T7	Version 170 175	cream
+T8	Target 187 194	mascara
+T9	ComposedOf 276 284	pigments
+T10	ComposedOf 286 291	oils,
+T11	ComposedOf 292 297	waxes
+T12	ComposedOf 303 316	preservatives

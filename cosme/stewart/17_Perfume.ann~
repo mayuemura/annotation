@@ -1,0 +1,8 @@
+T1	ComposedOf 96 119	fragrant essential oils
+T2	ComposedOf 123 138	aroma compounds
+T3	ComposedOf 140 148	Fixative
+T4	ComposedOf 471 514	the commercial synthesis of aroma compounds
+T5	Version 523 531	vanillin
+T6	Version 535 543	coumarin
+T7	Effect 551 662	allowed for the composition of perfumes with smells previously unattainable solely from natural aromatics alone
+R1	CONDITION Arg1:T4 Arg2:T7	

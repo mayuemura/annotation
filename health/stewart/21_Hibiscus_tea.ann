@@ -1,4 +1,4 @@
-T2	MeansOfUse 171 197	consumed both hot and cold
-T1	ComposedOf 54 163	crimson or deep magenta-coloured calyces (sepals) of the Roselle (plant)|roselle (Hibiscus sabdariffa) flower
-T3	Target 0 8	Hibiscus
-T4	Target 165 167	It
+T1	Target 0 8	Hibiscus
+T2	ComposedOf 54 147	crimson or deep magenta-coloured calyces (sepals) of the roselle (Hibiscus sabdariffa) flower
+T3	Target 149 151	It
+T4	MeansOfUse 155 181	consumed both hot and cold

@@ -1,31 +1,31 @@
 T1	Target 2 17	hand antiseptic
 T2	Target 18 35	hand disinfectant
 T3	Target 37 51	hand sanitiser
-T4	Effect 73 136	a supplement or alternative to hand washing with soap and water
-T5	Version 181 184	gel
-T6	Version 186 190	foam
-T7	Version 196 202	liquid
-T8	ComposedOf 262 293	isopropyl alcohol (isopropanol)
-T9	ComposedOf 295 302	ethanol
-T10	ComposedOf 304 314	n-propanol
-T11	ComposedOf 319 334	povidone-iodine
-T13	ComposedOf 453 480	humectants such as glycerin
-T14	ComposedOf 498 514	propylene glycol
-T15	ComposedOf 520 544	essential oils of plants
-T16	DegreeOfEffect 580 594	more effective
-T17	Effect 598 620	killing microorganisms
-T21	Version 439 451	alcohol gels
-T22	Version 485 496	liquid rubs
-R1	EFFECT_MODIFIER Arg1:T16 Arg2:T17	
-T23	DegreeOfEffect 657 664	as much
-T18	Effect 636 656	do not dry out hands
-R2	EFFECT_MODIFIER Arg1:T23 Arg2:T18	
-T24	DegreeOfEffect 621 631	than soaps
-R3	EFFECT_MODIFIER Arg1:T24 Arg2:T17	
-R4	EFFECT_MODIFIER Arg1:T24 Arg2:T18	
-T12	ComposedOf 393 434	thickening agent such as polyacrylic acid
-T20	Version 360 372	alcohol rubs
-T25	Target 55 69	hand sanitizer
-T26	Target 239 254	hand sanitizers
-T19	Version 546 559	Alcohol-based
-T27	Target 560 575	hand sanitizers
+T4	Target 55 69	hand sanitizer
+T5	Effect 73 136	a supplement or alternative to hand washing with soap and water
+T6	Version 181 184	gel
+T7	Version 190 191	,
+T8	Version 196 202	liquid
+T9	Target 239 254	hand sanitizers
+T10	ComposedOf 262 293	isopropyl alcohol (isopropanol)
+T11	ComposedOf 295 302	ethanol
+T12	ComposedOf 304 314	n-propanol
+T13	ComposedOf 319 334	povidone-iodine
+T14	Version 360 372	alcohol rubs
+T15	ComposedOf 393 434	thickening agent such as polyacrylic acid
+T16	Version 439 451	alcohol gels
+T17	ComposedOf 453 480	humectants such as glycerin
+T18	Version 485 496	liquid rubs
+T19	ComposedOf 498 514	propylene glycol
+T20	ComposedOf 520 544	essential oils of plants
+T21	Version 546 559	Alcohol-based
+T22	Target 560 575	hand sanitizers
+T23	DegreeOfEffect 580 594	more effective
+T24	Effect 598 620	killing microorganisms
+T25	DegreeOfEffect 621 631	than soaps
+T26	Effect 636 656	do not dry out hands
+T27	DegreeOfEffect 657 664	as much
+R1	EFFECT_MODIFIER Arg1:T27 Arg2:T26	
+R2	EFFECT_MODIFIER Arg1:T25 Arg2:T26	
+R3	EFFECT_MODIFIER Arg1:T25 Arg2:T24	
+R4	EFFECT_MODIFIER Arg1:T23 Arg2:T24	

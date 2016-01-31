@@ -1,12 +1,12 @@
-T2	Effect 145 186	gives viscoelasticity|elasticity to dough
-T4	Effect 249 298	gives the final product a chewiness|chewy texture
-T5	CertaintyOfEffect 243 248	often
-R2	CAUSALITY Arg1:T2 Arg2:T4	
-R3	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
-T3	Effect 188 219	helping it leavening agent|rise
-R1	CAUSALITY Arg1:T2 Arg2:T3	
-T8	Effect 224 238	keep its shape
-R4	CAUSALITY Arg1:T2 Arg2:T8	
-T1	PartOf 86 136	wheat and related grains, including barley and rye
-T6	Target 0 6	Gluten
-T7	Target 138 144	Gluten
+T1	Target 0 6	Gluten
+T2	PartOf 40 91	wheat and related grains, including barley and rye.
+T3	Target 92 98	Gluten
+T4	Effect 99 124	gives elasticity to dough
+T5	Effect 126 141	helping it rise
+T6	Effect 146 160	keep its shape
+T7	CertaintyOfEffect 165 170	often
+T8	Effect 171 210	gives the final product a chewy texture
+R1	CAUSALITY Arg1:T4 Arg2:T5	
+R2	CAUSALITY Arg1:T4 Arg2:T6	
+R3	CAUSALITY Arg1:T4 Arg2:T8	
+R4	EFFECT_MODIFIER Arg1:T7 Arg2:T8	

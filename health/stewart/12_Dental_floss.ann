@@ -1,14 +1,14 @@
-T5	ComposedOf 18 40	cord of thin filaments
-T2	CertaintyOfEffect 152 213	widely accepted that the use of floss has a favourable effect
-T6	Effect 217 231	plaque removal
-T7	Effect 236 254	disease prevention
-R1	EFFECT_MODIFIER Arg1:T2 Arg2:T6	
-R2	EFFECT_MODIFIER Arg1:T2 Arg2:T7	
-T3	DegreeOfEffect 305 314	up to 80%
-T8	Effect 318 342	plaque can be eliminated
-R3	EFFECT_MODIFIER Arg1:T3 Arg2:T8	
-T1	Effect 49 97	remove food and dental plaque from between teeth
-T9	MeansOfUse 98 138	in areas a toothbrush is unable to reach
-T4	CertaintyOfEffect 370 448	several reviews have failed to find any clear benefit over toothbrushing alone
-T10	Target 0 12	Dental floss
-T11	Target 140 142	It
+T1	Target 0 12	Dental floss
+T2	ComposedOf 18 40	cord of thin filaments
+T3	Effect 49 97	remove food and dental plaque from between teeth
+T4	MeansOfUse 98 138	in areas a toothbrush is unable to reach
+T5	Target 140 142	It
+T6	CertaintyOfEffect 152 213	widely accepted that the use of floss has a favourable effect
+T7	Effect 217 231	plaque removal
+T8	Effect 236 254	disease prevention
+T9	DegreeOfEffect 305 314	up to 80%
+T10	Effect 318 342	plaque can be eliminated
+R1	EFFECT_MODIFIER Arg1:T6 Arg2:T7	
+R2	EFFECT_MODIFIER Arg1:T6 Arg2:T8	
+R3	EFFECT_MODIFIER Arg1:T9 Arg2:T10	
+T11	CertaintyOfEffect 370 448	several reviews have failed to find any clear benefit over toothbrushing alone

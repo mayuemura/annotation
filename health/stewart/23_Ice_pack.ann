@@ -1,16 +1,16 @@
-T1	Target 15 23	gel pack
-T4	MeansOfUse 406 443	as a compress (medical)|cold compress
-T3	MeansOfUse 111 143	contents are frozen in a freezer
-T12	Version 150 153	ice
-T13	Version 183 195	refrigerants
-T8	Location 385 401	portable coolers
-T5	Effect 447 483	alleviate the pain of minor injuries
-R2	CONDITION Arg1:T4 Arg2:T5	
-T6	Effect 524 559	keep products cool during transport
-T7	Location 491 520	insulated shipping containers
-R1	CONDITION Arg1:T7 Arg2:T6	
-T9	Effect 367 381	keep food cool
-R3	CONDITION Arg1:T8 Arg2:T9	
-T2	ComposedOf 29 97	portable plastic sac filled with water, or refrigerant gel or liquid
-T10	Target 3 11	ice pack
-T11	Target 340 345	packs
+T1	Target 3 11	ice pack
+T2	Target 15 23	gel pack
+T3	ComposedOf 29 97	portable plastic sac filled with water, or refrigerant gel or liquid
+T4	MeansOfUse 111 143	contents are frozen in a freezer
+T5	Version 150 153	ice
+T6	Version 174 186	refrigerants
+T7	Target 324 329	packs
+T8	Effect 351 365	keep food cool
+T9	Location 369 385	portable coolers
+R1	CONDITION Arg1:T9 Arg2:T8	
+T10	MeansOfUse 390 408	as a cold compress
+T11	Effect 412 448	alleviate the pain of minor injuries
+R2	CONDITION Arg1:T10 Arg2:T11	
+T12	Location 456 485	insulated shipping containers
+T13	Effect 489 524	keep products cool during transport
+R3	CONDITION Arg1:T12 Arg2:T13	

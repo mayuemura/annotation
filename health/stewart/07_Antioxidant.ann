@@ -1,9 +1,9 @@
+T1	Target 3 14	antioxidant
 T2	ComposedOf 18 28	a molecule
-T3	Effect 34 81	inhibits the Redox|oxidation of other molecules
-T1	Effect 402 437	removing free radical intermediates
-T4	Effect 443 476	inhibit other oxidation reactions
-T5	Effect 367 398	terminate these chain reactions
-R1	CAUSALITY Arg1:T1 Arg2:T5	
-R2	CAUSALITY Arg1:T4 Arg2:T5	
-T6	Target 3 14	antioxidant
-T7	Target 354 366	Antioxidants
+T3	Effect 34 75	inhibits the oxidation of other molecules
+T4	Target 310 322	Antioxidants
+T5	Effect 323 354	terminate these chain reactions
+T6	Effect 358 393	removing free radical intermediates
+T7	Effect 399 432	inhibit other oxidation reactions
+R1	CAUSALITY Arg1:T6 Arg2:T5	
+R2	CAUSALITY Arg1:T7 Arg2:T5	

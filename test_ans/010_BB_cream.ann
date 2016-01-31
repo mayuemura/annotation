@@ -1,0 +1,21 @@
+T3	MeansOfUse 381 391	worn alone
+T4	Effect 397 415	tinted moisturizer
+T5	MeansOfUse 417 427	over serum
+T6	Effect 432 443	moisturizer
+T7	MeansOfUse 449 467	regular foundation
+T8	MeansOfUse 473 485	under powder
+T11	Effect 108 121	cosmetic item
+T14	Target 1 9	BB cream
+T1	Target 21 33	blemish balm
+T15	Target 35 47	blemish base
+T16	Target 49 61	beblesh balm
+T2	Target 87 98	beauty balm
+T12	Target 100 102	It
+T17	Target 214 223	BB creams
+T9	Effect 272 306	all-in-one facial cosmetic product
+T13	MeansOfUse 310 369	replace serum, moisturizer, primer, foundation and sunblock
+R2	CONDITION Arg1:T3 Arg2:T4	
+R3	CONDITION Arg1:T5 Arg2:T6	
+R4	CONDITION Arg1:T7 Arg2:T6	
+T18	Target 245 253	BB cream
+T19	Target 371 373	It

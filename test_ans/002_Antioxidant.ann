@@ -1,0 +1,39 @@
+T1	Effect 34 81	inhibits the Redox|oxidation of other molecules
+T2	Effect 402 437	removing free radical intermediates
+T3	Effect 443 476	inhibit other oxidation reactions
+R1	CAUSALITY Arg1:T2 Arg2:T3	
+T4	Effect 367 398	terminate these chain reactions
+R2	CAUSALITY Arg1:T3 Arg2:T4	
+T5	Effect 494 519	being oxidized themselves
+R3	CAUSALITY Arg1:T5 Arg2:T4	
+T6	Effect 547 643	reducing agents such as thiols, ascorbic acid (vitamin C), or polyphenol antioxidant|polyphenols
+R4	CAUSALITY Arg1:T5 Arg2:T6	
+T7	CertaintyOfEffect 654 679	initial studies suggested
+T8	Effect 715 729	promote health
+R5	EFFECT_MODIFIER Arg1:T7 Arg2:T8	
+T9	NullEffect 883 896	has no effect
+T10	Effect 900 934	mortality or possibly increases it
+R6	EFFECT_MODIFIER Arg1:T9 Arg2:T10	
+T11	CertaintyOfEffect 1037 1047	have shown
+T12	NullEffect 1048 1057	no effect
+T13	Effect 1061 1072	cancer risk
+R7	EFFECT_MODIFIER Arg1:T12 Arg2:T13	
+R8	EFFECT_MODIFIER Arg1:T11 Arg2:T13	
+T14	Effect 1076 1102	have increased cancer risk
+R9	EFFECT_MODIFIER Arg1:T12 Arg2:T14	
+R10	EFFECT_MODIFIER Arg1:T11 Arg2:T14	
+T15	Effect 1157 1198	reduce the risk of cardiovascular disease
+T16	NullEffect 1148 1156	does not
+R11	EFFECT_MODIFIER Arg1:T16 Arg2:T15	
+T17	MeansOfUse 1229 1244	industrial uses
+T18	Effect 1254 1289	preservatives in food and cosmetics
+T19	Effect 1297 1343	prevent the degradation of rubber and gasoline
+R12	CONDITION Arg1:T17 Arg2:T18	
+R13	CONDITION Arg1:T17 Arg2:T19	
+T20	Target 3 14	antioxidant
+T21	Target 354 366	Antioxidants
+T22	Target 524 536	antioxidants
+T23	Target 478 482	They
+T24	Target 685 696	antioxidant
+T25	Target 1201 1213	Antioxidants
+T26	Target 965 977	antioxidants

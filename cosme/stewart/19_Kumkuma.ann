@@ -1,16 +1,15 @@
-T2	Target 336 344	kuṅkumam
-T3	Target 367 374	kumkuma
-T4	Target 448 454	kumkum
-T5	Target 519 527	kunkumam
-T6	Target 564 571	Kannada
-T7	Target 582 591	Kungkumam
-T8	Effect 68 97	social and religious markings
-T9	Location 101 106	India
-R1	CONDITION Arg1:T9 Arg2:T8	
-T11	ComposedOf 221 232	slaked lime
-T12	Location 290 295	India
-T13	ComposedOf 176 184	turmeric
-T1	ComposedOf 132 169	turmeric or any other local materials
-T10	Target 38 45	Kumkuma
-T14	Target 109 111	It
-T15	Target 297 299	it
+T1	Target 0 7	Kumkuma
+T2	Effect 30 59	social and religious markings
+T3	Location 63 68	India
+R1	CONDITION Arg1:T3 Arg2:T2	
+T4	Target 71 73	It
+T5	ComposedOf 94 131	turmeric or any other local materials
+T6	ComposedOf 138 146	turmeric
+T7	ComposedOf 183 194	slaked lime
+T8	Location 252 257	India
+T9	Target 259 261	it
+T10	Target 298 306	kuṅkumam
+T11	Target 308 315	kumkuma
+T12	Target 318 324	kumkum
+T13	Target 326 334	kunkumam
+T14	Target 336 345	Kungkumam

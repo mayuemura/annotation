@@ -1,11 +1,11 @@
-T1	ComposedOf 23 118	Camellia sinensis leaves that have undergone minimal Tea processing|oxidation during processing
-T2	Effect 159 174	health benefits
-T3	CertaintyOfEffect 120 150	Numerous claims have been made
-T4	CertaintyOfEffect 292 349	Preliminary research on many of these claims is promising
-T5	CertaintyOfEffect 355 386	many also require further study
-R1	EFFECT_MODIFIER Arg1:T3 Arg2:T2	
-R2	EFFECT_MODIFIER Arg1:T4 Arg2:T2	
-R3	EFFECT_MODIFIER Arg1:T5 Arg2:T2	
-T6	Target 0 9	Green tea
-T7	Target 178 187	green tea
-T8	Target 197 200	its
+T1	Target 0 9	Green tea
+T2	ComposedOf 23 103	Camellia sinensis leaves that have undergone minimal oxidation during processing
+T3	CertaintyOfEffect 105 135	Numerous claims have been made
+T4	Effect 144 159	health benefits
+T5	Target 163 172	green tea
+T6	Target 182 185	its
+T7	CertaintyOfEffect 277 334	Preliminary research on many of these claims is promising
+T8	CertaintyOfEffect 340 371	many also require further study
+R1	EFFECT_MODIFIER Arg1:T3 Arg2:T4	
+R2	EFFECT_MODIFIER Arg1:T7 Arg2:T4	
+R3	EFFECT_MODIFIER Arg1:T8 Arg2:T4	

@@ -1,20 +1,20 @@
-T1	ComposedOf 74 82	stibnite
-T3	Location 136 146	South Asia
-T4	Location 152 163	Middle East
-T5	Location 165 177	North Africa
-T6	Location 183 197	Horn of Africa
-T7	Location 203 223	parts of West Africa
-T8	Effect 239 305	contour and/or darken the eyelids and as mascara for the eyelashes
-T9	User 329 334	women
-T10	User 353 356	men
-T11	User 361 369	children
-T12	Location 398 403	India
-T14	Time 497 513	soon after birth
-T15	User 483 490	infants
-T2	MeansOfUse 224 235	as eyeliner
-R1	CONDITION Arg1:T2 Arg2:T8	
-T13	Target 0 4	Kohl
-T16	Target 115 117	It
-T17	Target 308 310	It
-T18	Target 371 375	Kohl
-T19	Target 469 473	kohl
+T1	Target 0 4	Kohl
+T2	ComposedOf 64 72	stibnite
+T3	Target 83 85	It
+T4	Location 104 114	South Asia
+T5	Location 120 131	Middle East
+T6	Location 133 145	North Africa
+T7	Location 151 165	Horn of Africa
+T8	Location 171 191	parts of West Africa
+T9	MeansOfUse 192 203	as eyeliner
+T10	Effect 207 273	contour and/or darken the eyelids and as mascara for the eyelashes
+R1	CONDITION Arg1:T9 Arg2:T10	
+T11	Target 276 278	It
+T12	User 297 302	women
+T13	User 321 324	men
+T14	User 329 337	children
+T15	Target 339 343	Kohl
+T16	Location 366 371	India
+T17	Target 437 441	kohl
+T18	User 451 458	infants
+T19	Time 465 481	soon after birth

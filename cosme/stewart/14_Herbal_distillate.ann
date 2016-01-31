@@ -1,12 +1,12 @@
-T1	Target 32 44	floral water
-T2	Target 46 54	hydrosol
-T3	Target 56 65	hydrolate
-T4	Target 67 79	herbal water
-T5	Target 84 99	essential water
-T6	Effect 368 427	have uses as flavorings, medicine and cosmetics (skin care)
-T7	Target 0 18	Herbal distillates
-T8	Target 140 144	They
-T9	Target 349 367	herbal distillates
+T1	Target 0 18	Herbal distillates
+T2	Target 32 44	floral water
+T3	Target 46 54	hydrosol
+T4	Target 56 65	hydrolate
+T5	Target 67 79	herbal water
+T6	Target 84 99	essential water
+T7	Target 140 144	They
+T8	Target 349 367	herbal distillates
+T9	Effect 368 427	have uses as flavorings, medicine and cosmetics (skin care)
 T10	Target 429 447	Herbal distillates
 T11	Target 567 577	distillate
 T12	Target 625 635	distillate

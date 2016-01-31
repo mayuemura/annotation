@@ -1,0 +1,26 @@
+T1	Target 0 9	Eye drops
+T2	ComposedOf 14 20	saline
+T3	MeansOfUse 56 68	ocular route
+T4	Target 126 130	they
+T5	ComposedOf 143 151	steroids
+T6	ComposedOf 153 167	antihistamines
+T7	ComposedOf 169 185	sympathomimetics
+T8	ComposedOf 187 209	beta receptor blockers
+T9	ComposedOf 211 231	parasympathomimetics
+T10	ComposedOf 233 251	parasympatholytics
+T11	ComposedOf 253 267	prostaglandins
+T12	ComposedOf 269 315	non-steroidal anti-inflammatory drugs (NSAIDs)
+T13	ComposedOf 317 328	antibiotics
+T14	ComposedOf 330 340	antifungal
+T15	ComposedOf 345 364	topical anesthetics
+T16	Target 366 375	Eye drops
+T17	Target 413 417	them
+T18	Effect 431 461	lubricating and tear-replacing
+T19	Target 473 482	Eye drops
+T20	DegreeOfEffect 483 502	have less of a risk
+T21	Effect 506 518	side effects
+T22	DegreeOfEffect 519 541	than do oral medicines
+R1	EFFECT_MODIFIER Arg1:T20 Arg2:T21	
+R2	EFFECT_MODIFIER Arg1:T22 Arg2:T21	
+T23	MeansOfUse 577 690	occluding the lacrimal punctum, (i.e. pressing on the inner corner of the eye) for a short while after instilling
+T24	Target 691 696	drops

@@ -1,11 +1,10 @@
-T1	Target 27 39	nail varnish
-T3	MeansOfUse 66 125	applied to the human Nail (anatomy)|fingernails or toenails
-T2	Effect 129 165	decorate and protect the nail plates
-T5	Effect 253 281	suppress cracking or flaking
-T7	Effect 227 245	decorative effects
-T4	ComposedOf 310 361	solution of an organic polymer and other components
-R1	CONDITION Arg1:T3 Arg2:T2	
-T6	Target 0 11	Nail polish
-T9	Target 223 226	its
-T10	Target 284 295	Nail polish
-T8	Target 172 183	formulation
+T1	Target 0 11	Nail polish
+T2	Target 27 39	nail varnish
+T3	MeansOfUse 66 110	applied to the human fingernails or toenails
+T4	Effect 114 150	decorate and protect the nail plates
+T5	Target 157 168	formulation
+T6	Target 208 211	its
+T7	Effect 212 230	decorative effects
+T8	Effect 239 266	uppress cracking or flaking
+T9	Target 269 280	Nail polish
+T10	ComposedOf 295 346	solution of an organic polymer and other components

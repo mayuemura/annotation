@@ -1,0 +1,15 @@
+T1	Target 0 10	Prebiotics
+T2	Target 245 255	prebiotics
+T3	Target 485 495	prebiotics
+T6	Effect 443 455	moisturizers
+T7	Target 568 578	prebiotics
+T8	ComposedOf 616 631	fiber compounds
+T15	Effect 137 165	contribute to the well-being
+#1	AnnotatorNotes T15	not sure
+T16	Effect 801 820	acting as substrate
+T19	User 175 179	host
+#4	AnnotatorNotes T19	user?
+T4	Effect 260 294	alter the composition of organisms
+T5	Effect 499 534	improve the activity or composition
+T11	Effect 57 104	induce the growth or activity of microorganisms
+T9	Effect 710 767	stimulate the growth or activity of advantageous bacteria

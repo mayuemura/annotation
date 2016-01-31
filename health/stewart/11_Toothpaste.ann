@@ -1,16 +1,15 @@
-T1	MeansOfUse 40 62	used with a toothbrush
-T3	Effect 151 179	used to promote oral hygiene
-T5	Effect 271 303	assists in suppressing halitosis
-T7	ComposedOf 352 360	fluoride
-T8	Effect 309 336	delivers active ingredients
-T9	Alias 29 39	dentifrice
-T10	ComposedOf 16 21	paste
-T11	ComposedOf 25 27	ge
-T2	Effect 82 135	clean and maintain the aesthetics and health of teeth
-T4	Effect 184 205	serves as an abrasive
-T12	Effect 211 269	aids in removing the dental plaque and food from the teeth
-R2	CAUSALITY Arg1:T4 Arg2:T12	
-T6	Effect 365 412	help prevent tooth and gum disease (gingivitis)
-R1	CAUSALITY Arg1:T8 Arg2:T6	
-T13	Target 0 10	Toothpaste
-T14	Target 137 147	Toothpaste
+T1	Target 0 10	Toothpaste
+T2	ComposedOf 16 21	paste
+T3	ComposedOf 25 28	gel
+T4	MeansOfUse 40 62	used with a toothbrush
+T5	Effect 82 135	clean and maintain the aesthetics and health of teeth
+T6	Target 137 147	Toothpaste
+T7	Effect 151 179	used to promote oral hygiene
+T8	Effect 184 205	serves as an abrasive
+T9	Effect 211 269	aids in removing the dental plaque and food from the teeth
+R1	CAUSALITY Arg1:T8 Arg2:T9	
+T10	Effect 271 303	assists in suppressing halitosis
+T11	Effect 309 336	delivers active ingredients
+T12	ComposedOf 352 360	fluoride
+T13	Effect 365 412	help prevent tooth and gum disease (gingivitis)
+R2	CAUSALITY Arg1:T11 Arg2:T13	

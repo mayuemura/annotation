@@ -1,0 +1,11 @@
+T1	ComposedOf 30 38	bristles
+T2	MeansOfUse 49 85	the application of cosmetics|make up
+T3	MeansOfUse 89 102	face painting
+T4	ComposedOf 139 169	natural or synthetic materials
+T5	ComposedOf 181 187	handle
+T6	ComposedOf 211 218	plastic
+T7	ComposedOf 222 226	wood
+T8	MeansOfUse 234 283	cosmetics are applied using the appropriate brush
+T9	Effect 289 315	blend better into the skin
+R1	CONDITION Arg1:T8 Arg2:T9	
+T10	Version 515 524	brush tip

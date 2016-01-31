@@ -1,0 +1,30 @@
+T1	Effect 128 160	making the consumer look younger
+T2	Effect 164 215	reducing, masking or preventing signs of skin aging
+T3	Effect 36 46	Moisturize
+T8	User 958 963	women
+T9	User 1001 1004	men
+T10	Target 0 17	Anti-aging creams
+T11	Effect 80 89	skin care
+T12	CertaintyOfEffect 117 124	promise
+R1	EFFECT_MODIFIER Arg1:T12 Arg2:T1	
+R2	CAUSALITY Arg1:T2 Arg2:T1	
+T13	Target 467 501	anti-aging products and treatments
+T4	CertaintyOfEffect 502 522	have not been proven
+T14	Effect 526 564	give lasting or major positive effects
+R3	EFFECT_MODIFIER Arg1:T4 Arg2:T14	
+T5	Effect 614 630	reduced wrinkles
+T17	DegreeOfEffect 672 703	not noticeable to the human eye
+R6	EFFECT_MODIFIER Arg1:T17 Arg2:T5	
+T15	CertaintyOfEffect 566 586	One study found that
+R5	EFFECT_MODIFIER Arg1:T15 Arg2:T5	
+T7	CertaintyOfEffect 812 858	recent studies at Manchester University showed
+T16	Effect 881 895	have an effect
+R7	EFFECT_MODIFIER Arg1:T7 Arg2:T16	
+T18	Target 913 930	anti-aging creams
+T19	Target 587 613	the best performing creams
+T20	Target 782 801	anti-wrinkle creams
+T21	Target 969 977	products
+T6	DegreeOfEffect 634 647	less than 10%
+R4	EFFECT_MODIFIER Arg1:T6 Arg2:T5	
+T22	Time 648 661	over 12 weeks
+R8	CONDITION Arg1:T22 Arg2:T5	

@@ -1,12 +1,12 @@
-T1	ComposedOf 96 119	fragrant essential oils
-T2	ComposedOf 123 138	aroma compounds
-T6	ComposedOf 523 531	vanillin
-T7	ComposedOf 535 543	coumarin
-T3	ComposedOf 140 170	Fixative (perfumery)|fixatives
-T8	ComposedOf 175 183	solvents
-T4	Effect 192 277	give the human body, animals, food, objects, and living spaces "a pleasant Odor|scent
-T5	ComposedOf 639 656	natural aromatics
-T9	Target 0 7	Perfume
-T10	Target 280 288	Perfumes
-T11	Target 425 434	perfumery
-T12	Target 582 590	perfumes
+T1	Target 0 7	Perfume
+T2	ComposedOf 24 47	fragrant essential oils
+T3	ComposedOf 51 66	aroma compounds
+T4	ComposedOf 68 77	fixatives
+T5	ComposedOf 82 90	solvents
+T6	Effect 99 181	give the human body, animals, food, objects, and living spaces "a pleasant scent."
+T7	Target 182 190	Perfumes
+T8	Target 327 336	perfumery
+T9	ComposedOf 425 433	vanillin
+T10	ComposedOf 437 445	coumarin
+T11	Target 484 492	perfumes
+T12	ComposedOf 541 558	natural aromatics

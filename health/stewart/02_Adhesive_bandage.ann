@@ -1,10 +1,10 @@
-T1	Target 35 51	sticking plaster
-T2	Target 63 70	plaster
-T4	Target 258 266	Band-Aid
-T5	Target 272 280	band-aid
-T6	Target 286 294	band aid
-T7	Target 310 321	Elastoplast
-T3	Effect 139 206	used for injuries not serious enough to require a full-size bandage
-T8	Effect 103 111	dressing
-T9	Target 3 19	adhesive bandage
-T10	Target 208 212	They
+T1	Target 3 19	adhesive bandage
+T2	Target 35 51	sticking plaster
+T3	Target 63 70	plaster
+T4	Effect 111 119	dressing
+T5	Effect 120 187	used for injuries not serious enough to require a full-size bandage
+T6	Target 189 193	They
+T7	Target 239 247	Band-Aid
+T8	Target 253 261	band-aid
+T9	Target 267 275	band aid
+T10	Target 291 302	Elastoplast

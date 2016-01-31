@@ -1,12 +1,12 @@
-T3	Effect 122 174	restores the layer of oil on the surface of the skin
-T4	Effect 178 193	slow water loss
-R1	CAUSALITY Arg1:T3 Arg2:T4	
-T5	Effect 223 251	make the applied area sticky
-R2	CAUSALITY Arg1:T3 Arg2:T5	
-T6	CertaintyOfEffect 211 222	tendency to
-T7	Effect 85 104	occlusive emollient
-T1	Effect 16 73	emollient, specifically targeted at eczema and dermatitis
-T2	Target 0 9	Diprobase
-T8	Target 76 78	It
-T9	Target 119 121	it
-T10	Target 207 210	its
+T1	Target 0 9	Diprobase
+T2	Effect 16 73	emollient, specifically targeted at eczema and dermatitis
+T3	Target 76 78	It
+T4	Effect 85 104	occlusive emollient
+T5	Target 119 121	it
+T6	Effect 122 174	restores the layer of oil on the surface of the skin
+T7	Effect 178 193	slow water loss
+T8	Target 207 210	its
+T9	CertaintyOfEffect 211 222	tendency to
+T10	Effect 223 251	make the applied area sticky
+R1	CAUSALITY Arg1:T6 Arg2:T7	
+R2	CAUSALITY Arg1:T6 Arg2:T10	

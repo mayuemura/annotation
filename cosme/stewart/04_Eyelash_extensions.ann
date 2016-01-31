@@ -1,10 +1,10 @@
-T1	Effect 38 102	enhances the length, thickness and fullness to natural eyelashes
-T2	ComposedOf 134 138	silk
-T3	ComposedOf 140 144	mink
-T4	ComposedOf 149 163	synthetic hair
-T5	MeansOfUse 209 220	full strips
-T6	MeansOfUse 222 230	clusters
-T7	MeansOfUse 236 269	individual, one-by-one extensions
-T8	Target 0 18	Eyelash Extensions
-T9	Target 108 118	extensions
-T10	Target 190 200	extensions
+T1	Target 0 18	Eyelash Extensions
+T2	Effect 38 102	enhances the length, thickness and fullness to natural eyelashes
+T3	Target 108 118	extensions
+T4	ComposedOf 134 138	silk
+T5	ComposedOf 140 144	mink
+T6	ComposedOf 149 163	synthetic hair
+T7	Target 190 200	extensions
+T8	MeansOfUse 209 220	full strips
+T9	MeansOfUse 222 230	clusters
+T10	MeansOfUse 236 269	individual, one-by-one extensions

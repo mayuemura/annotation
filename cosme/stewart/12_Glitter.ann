@@ -1,16 +1,16 @@
-T1	ComposedOf 21 68	assortment of small, flat, reflective particles
-T2	Effect 124 165	causing the surface to sparkle or shimmer
-T10	ComposedOf 502 510	plastics
-T3	Effect 89 122	reflect light at different angles
-R1	CAUSALITY Arg1:T3 Arg2:T2	
-T5	ComposedOf 331 369	stones such as malachite, galena, mica
-T4	MeansOfUse 271 289	used as decoration
-T6	Target 0 7	Glitter
-T7	Target 71 78	Glitter
-T8	Target 168 175	Glitter
-T9	Target 245 252	glitter
-T11	Version 403 408	glass
-T12	Target 409 416	glitter
-T13	Target 486 493	glitter
-T14	Target 633 640	glitter
-T15	Version 622 632	industrial
+T1	Target 0 7	Glitter
+T2	ComposedOf 21 68	assortment of small, flat, reflective particles
+T3	Target 71 78	Glitter
+T4	Effect 89 122	reflect light at different angles
+T5	Effect 124 165	causing the surface to sparkle or shimmer
+T6	Target 168 175	Glitter
+R1	CAUSALITY Arg1:T4 Arg2:T5	
+T7	Target 245 252	glitter
+T8	MeansOfUse 271 289	used as decoration
+T9	ComposedOf 331 369	stones such as malachite, galena, mica
+T10	Version 403 408	glass
+T11	Target 409 416	glitter
+T12	Target 486 493	glitter
+T13	ComposedOf 502 510	plastics
+T14	Version 622 632	industrial
+T15	Target 633 640	glitter

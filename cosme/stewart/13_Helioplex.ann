@@ -1,9 +1,9 @@
-T1	ComposedOf 98 108	avobenzone
-T2	ComposedOf 113 123	oxybenzone
-T3	DegreeOfEffect 175 235	have decreasing efficiency after a few hours of sun exposure
-T4	DegreeOfEffect 268 313	reduces the amount of degradation that occurs
-T5	Target 396 423	Active Photobarrier Complex
-T6	Effect 30 86	broad-spectrum ultraviolet (UVA and UVB) skin protection
+T1	Target 0 9	Helioplex
+T2	Effect 30 86	broad-spectrum ultraviolet (UVA and UVB) skin protection
+T3	ComposedOf 98 108	avobenzone
+T4	ComposedOf 113 123	oxybenzone
+T5	ComposedOf 144 154	Avobenzone
+T6	DegreeOfEffect 175 235	have decreasing efficiency after a few hours of sun exposure
 T7	ComposedOf 257 267	oxybenzone
-T8	ComposedOf 144 154	Avobenzone
-T9	Target 0 9	Helioplex
+T8	DegreeOfEffect 268 313	reduces the amount of degradation that occurs
+T9	Target 396 423	Active Photobarrier Complex

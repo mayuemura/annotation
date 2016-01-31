@@ -1,12 +1,12 @@
-T2	Effect 699 717	enhanced longevity
-T3	CertaintyOfEffect 671 692	so far hypothetically
-T4	Time 609 658	at the early stages of the organism's development
-T6	Effect 285 390	give rise to more stable molecular structures with increased resistance to damages associated with ageing
-R1	EFFECT_MODIFIER Arg1:T3 Arg2:T2	
-R2	CONDITION Arg1:T4 Arg2:T2	
-T1	ComposedOf 31 236	nutritients in which some atoms are replaced with their heavier non-radioactive isotopes (such as carbon-13|<sup>13</sup>C and deuterium|<sup>2</sup>H, derived from C4 carbon fixation|C<sub>4</sub>-plants)
-T7	Target 0 5	iFood
-T8	Target 7 20	isotopic food
-T5	MeansOfUse 542 553	Consumption
-T9	Target 557 596	foods relatively rich in heavy isotopes
-R3	CONDITION Arg1:T5 Arg2:T2	
+T1	Target 0 5	iFood
+T2	Target 7 20	isotopic food
+T3	ComposedOf 31 174	nutritients in which some atoms are replaced with their heavier non-radioactive isotopes (such as 13C and 2H, derived from C4 carbon C4-plants)
+T4	Effect 223 328	give rise to more stable molecular structures with increased resistance to damages associated with ageing
+T5	MeansOfUse 480 491	Consumption
+T6	Target 495 534	foods relatively rich in heavy isotopes
+T7	Time 547 596	at the early stages of the organism's development
+T8	CertaintyOfEffect 609 630	so far hypothetically
+T9	Effect 637 655	enhanced longevity
+R1	EFFECT_MODIFIER Arg1:T8 Arg2:T9	
+R2	CONDITION Arg1:T7 Arg2:T9	
+R3	CONDITION Arg1:T5 Arg2:T9	

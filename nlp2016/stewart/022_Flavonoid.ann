@@ -1,0 +1,9 @@
+T1	Target 0 10	Flavonoids
+T2	Target 15 28	bioflavonoids
+T3	Target 164 168	they
+T4	ComposedOf 201 291	15-carbon skeleton, which consists of two phenyl rings (A and B) and heterocyclic ring (C)
+T5	Target 380 384	they
+T6	Version 409 478	flavonoids or bioflavonoids*isoflavonoids, derived from chromen-4-one
+T7	Version 503 548	neoflavonoids, derived from 4-phenylcoumarine
+T8	ComposedOf 614 620	ketone
+T9	Target 738 751	bioflavonoids

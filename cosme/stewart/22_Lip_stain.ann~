@@ -1,0 +1,9 @@
+T1	Effect 40 54	color the lips
+T2	ComposedOf 75 83	a liquid
+T3	ComposedOf 87 90	gel
+T4	Effect 106 135	stays on longer than lipstick
+T5	Effect 139 175	leaving a stain of color on the lips
+R1	CAUSALITY Arg1:T5 Arg2:T4	
+T6	Effect 193 205	dry the lips
+T7	Time 233 239	winter
+R2	CONDITION Arg1:T7 Arg2:T6	

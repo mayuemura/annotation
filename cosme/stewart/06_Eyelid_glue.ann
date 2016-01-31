@@ -1,7 +1,5 @@
-T3	Location 105 114	East Asia
-T2	Effect 127 173	change the "monolid" (eyelid without a crease)
-T1	Target 37 46	eye putti
-T6	Target 47 51	アイプチ
-T7	Target 52 60	ai puchi
-T4	Target 0 11	Eyelid glue
-T5	Target 176 187	Eyelid glue
+T1	Target 0 11	Eyelid glue
+T2	Target 29 38	eye putti
+T3	Location 83 92	East Asia
+T4	Effect 105 151	change the "monolid" (eyelid without a crease)
+T5	Target 154 165	Eyelid glue

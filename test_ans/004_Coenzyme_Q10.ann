@@ -1,0 +1,15 @@
+T1	Target 28 38	ubiquinone
+T2	Target 40 53	ubidecarenone
+T3	Target 0 12	Coenzyme Q10
+T4	Target 55 65	coenzyme Q
+T5	Target 95 100	CoQ10
+T6	PartOf 370 386	eukaryotic cells
+T7	PartOf 405 417	mitochondria
+T8	PartOf 427 468	component of the electron transport chain
+T9	PartOf 473 509	participates in Cellular respiration
+T10	Effect 560 577	generating energy
+T11	Version 866 880	fully oxidized
+T12	Version 895 906	semiquinone
+T13	Version 929 957	fully Organic redox reaction
+T14	Target 300 340	This oil-soluble, vitamin-like substance
+T15	Target 419 421	It

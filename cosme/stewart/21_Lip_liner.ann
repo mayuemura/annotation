@@ -1,24 +1,21 @@
-T1	Target 25 35	lip pencil
-T2	Effect 89 137	fill uneven areas on the outer edges of the lips
-T3	Time 138 161	after applying lipstick
-T4	Effect 173 194	giving a smooth shape
-R1	CAUSALITY Arg1:T2 Arg2:T4	
-T5	Effect 216 232	outline the lips
-T7	Effect 316 377	creating a bigger contrast and making the lips stand out more
-T8	Version 413 429	retractable tube
-T9	Version 433 439	pencil
-R3	CONDITION Arg1:T3 Arg2:T2	
-T6	Effect 234 270	keeping lipstick inside the lip area
-T10	Effect 275 304	preventing it from "bleeding"
-R2	CAUSALITY Arg1:T5 Arg2:T6	
-R4	CAUSALITY Arg1:T5 Arg2:T10	
-R5	CAUSALITY Arg1:T5 Arg2:T7	
-T11	Version 526 530	reds
-T12	Version 532 537	pinks
-T13	Version 539 545	browns
-T14	Version 547 552	plums
-T15	Target 0 9	Lip liner
-T16	Target 71 73	It
-T17	Target 197 199	It
-T18	Target 384 391	product
-T19	Target 447 456	Lip liner
+T1	Target 0 9	Lip liner
+T2	Target 25 35	lip pencil
+T3	Target 61 63	It
+T4	Effect 79 127	fill uneven areas on the outer edges of the lips
+T5	Time 128 151	after applying lipstick
+T6	Effect 163 184	giving a smooth shape
+R1	CONDITION Arg1:T5 Arg2:T4	
+R2	CAUSALITY Arg1:T4 Arg2:T6	
+T7	Target 187 189	It
+T8	Effect 206 222	outline the lips
+T9	Effect 224 260	keeping lipstick inside the lip area
+T10	Effect 265 295	preventing it from "bleeding",
+T11	Effect 306 367	creating a bigger contrast and making the lips stand out more
+T12	Target 374 381	product
+T13	Version 403 419	retractable tube
+T14	Version 423 429	pencil
+T15	Target 437 446	Lip liner
+T16	Version 516 520	reds
+T17	Version 522 527	pinks
+T18	Version 529 535	browns
+T19	Version 537 542	plums

@@ -1,22 +1,22 @@
-T2	ComposedOf 57 63	cotton
-T3	ComposedOf 65 82	Down feather|down
-T4	ComposedOf 86 91	fibre
-T9	Target 265 272	cushion
-T10	Target 276 282	pillow
-T11	Target 289 293	prop
-T13	Effect 387 413	head or lower back support
-T14	Effect 424 435	arm support
-T1	Effect 27 33	pillow
-T16	Effect 37 44	cushion
-T5	Effect 123 142	back or arm support
-T6	Effect 150 172	decorative application
-T7	ComposedOf 176 187	foam insert
-T8	MeansOfUse 338 369	placed at the head of one's bed
-R1	CONDITION Arg1:T8 Arg2:T13	
-T12	MeansOfUse 436 470	on furniture with high rigid sides
-R2	CONDITION Arg1:T12 Arg2:T14	
-T15	Location 298 315	western countries
-T17	Target 2 9	bolster
-T18	Target 93 101	Bolsters
-T19	Target 232 239	bolster
-T20	Target 319 326	bolster
+T1	Target 2 9	bolster
+T2	Effect 27 33	pillow
+T3	Effect 37 44	cushion
+T4	ComposedOf 57 63	cotton
+T5	ComposedOf 65 69	down
+T6	ComposedOf 73 78	fibre
+T7	Target 80 88	Bolsters
+T8	Effect 110 129	back or arm support
+T9	Effect 137 159	decorative application
+T10	ComposedOf 163 174	foam insert
+T11	Target 219 226	bolster
+T12	Target 252 259	cushion
+T13	Target 263 269	pillow
+T14	Target 276 280	prop
+T15	Location 285 302	western countries
+T16	Target 306 313	bolster
+T17	MeansOfUse 325 356	placed at the head of one's bed
+T18	Effect 374 400	head or lower back support
+T19	Effect 411 422	arm support
+T20	MeansOfUse 423 457	on furniture with high rigid sides
+R1	CONDITION Arg1:T17 Arg2:T18	
+R2	CONDITION Arg1:T20 Arg2:T19	

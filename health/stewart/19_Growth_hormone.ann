@@ -1,14 +1,12 @@
-T1	Target 35 47	somatotropin
-T2	Version 55 75	human growth hormone
-T3	Version 77 80	hGH
-T4	Version 84 87	HGH
-T7	User 213 219	humans
-T8	User 230 237	animals
-T9	Effect 263 280	human development
-T5	Effect 135 209	stimulates growth, cell (biology)|cell reproduction, and cell regeneration
-T6	Effect 326 333	mitogen
-T10	Target 0 14	Growth hormone
-T11	Target 16 18	GH
-T12	Target 239 241	It
-T13	Target 310 312	It
-T14	Target 384 398	Growth hormone
+T1	Target 0 14	Growth hormone
+T2	Target 16 18	GH
+T3	Target 35 47	somatotropin
+T4	Version 55 75	human growth hormone
+T5	Effect 122 181	stimulates growth, cell reproduction, and cell regeneration
+T6	User 185 191	humans
+T7	User 202 209	animals
+T8	Target 211 213	It
+T9	Target 254 256	It
+T10	Effect 235 252	human development
+T11	Effect 270 277	mitogen
+T12	Target 328 342	Growth hormone

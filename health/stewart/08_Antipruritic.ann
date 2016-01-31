@@ -1,3 +1,3 @@
-T1	Target 29 44	anti-itch drugs
-T2	Effect 67 434	inhibit the itching (Latin: pruritus) often associated with sunburns, allergic reactions, eczema, psoriasis, chickenpox, Fungal infection in animals|fungal infections, insect bites and stings like those from mosquitoes, fleas, and mites, and contact dermatitis and urticaria caused by plants such as poison ivy (urushiol-induced contact dermatitis) or stinging nettle
-T3	Target 0 13	Antipruritics
+T1	Target 0 13	Antipruritics
+T2	Target 29 44	anti-itch drugs
+T3	Effect 67 406	inhibit the itching (Latin: pruritus) often associated with sunburns, allergic reactions, eczema, psoriasis, chickenpox, fungal infections, insect bites and stings like those from mosquitoes, fleas, and mites, and contact dermatitis and urticaria caused by plants such as poison ivy (urushiol-induced contact dermatitis) or stinging nettle

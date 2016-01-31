@@ -1,15 +1,15 @@
-T1	Effect 73 138	change or adapt the outward appearance of a person's face or head
-T2	Location 140 193	When used in the theatre, film or television industry
-T3	Effect 220 278	alters a person's normal face into something extraordinary
-T4	ComposedOf 355 360	latex
-T5	ComposedOf 362 372	foam latex
-T6	ComposedOf 374 382	silicone
-T7	ComposedOf 388 397	cold foam
-T9	DegreeOfEffect 485 522	appear older or younger than they are
-T10	Effect 554 590	transform an actor into any creature
-T8	DegreeOfEffect 415 465	as subtle as altering the curve of a cheek or nose
-T11	Target 2 19	facial prosthetic
-T12	Target 23 40	facial prosthesis
-T13	Target 195 219	facial prosthetic makeup
-T14	Target 281 299	Facial prosthetics
-T15	Target 527 544	facial prosthesis
+T1	Target 2 19	facial prosthetic
+T2	Target 23 40	facial prosthesis
+T3	Effect 73 138	change or adapt the outward appearance of a person's face or head
+T4	Location 140 193	When used in the theatre, film or television industry
+T5	Target 195 219	facial prosthetic makeup
+T6	Effect 220 278	alters a person's normal face into something extraordinary
+T7	Target 281 299	Facial prosthetics
+T8	ComposedOf 355 360	latex
+T9	ComposedOf 362 372	foam latex
+T10	ComposedOf 374 382	silicone
+T11	ComposedOf 388 397	cold foam
+T12	DegreeOfEffect 415 465	as subtle as altering the curve of a cheek or nose
+T13	DegreeOfEffect 485 522	appear older or younger than they are
+T14	Target 527 544	facial prosthesis
+T15	Effect 554 590	transform an actor into any creature

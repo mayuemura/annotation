@@ -1,0 +1,11 @@
+T6	Version 497 534	civilian standard (ANSI Z87.1 – 2010)
+T7	Version 538 576	U.S. military standard (MIL-PRF-31013)
+T8	Version 584 625	European standard (EN166, 169, 170 & 172)
+T10	User 187 200	U.S. military
+T11	Effect 55 99	protect from small projectiles and fragments
+T1	User 149 173	anyone who wishes to buy
+T2	Target 174 176	it
+T3	Target 288 306	protective eyewear
+T4	Target 456 473	ballistic eyewear
+T5	Target 0 17	Ballistic eyewear
+T9	Target 101 118	Ballistic eyewear

@@ -1,16 +1,16 @@
-T1	ComposedOf 30 38	bristles
+T1	Target 2 14	makeup brush
+T2	ComposedOf 30 38	bristles
+T3	MeansOfUse 53 102	application of cosmetics|make up or face painting
+T4	ComposedOf 139 169	natural or synthetic materials
 T5	ComposedOf 211 218	plastic
-T6	ComposedOf 222 226	wood
-T2	MeansOfUse 53 102	application of cosmetics|make up or face painting
-T7	Effect 289 315	blend better into the skin
+T6	ComposedOf 222 227	wood.
+T7	MeansOfUse 248 283	applied using the appropriate brush
+T8	Effect 289 315	blend better into the skin
+R1	CONDITION Arg1:T7 Arg2:T8	
+T9	Target 373 380	brushes
 T10	Version 532 540	chiseled
 T11	Version 542 550	straight
 T12	Version 552 559	angular
 T13	Version 561 566	round
 T14	Version 568 572	flat
 T15	Version 576 583	tapered
-T3	ComposedOf 139 169	natural or synthetic materials
-T4	MeansOfUse 248 283	applied using the appropriate brush
-R1	CONDITION Arg1:T4 Arg2:T7	
-T8	Target 2 14	makeup brush
-T9	Target 373 380	brushes

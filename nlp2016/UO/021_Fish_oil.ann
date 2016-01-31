@@ -1,0 +1,9 @@
+T1	Target 0 8	Fish oil
+T2	PartOf 33 53	tissues of oily fish
+T3	Target 55 64	Fish oils
+T4	ComposedOf 97 124	eicosapentaenoic acid (EPA)
+T5	ComposedOf 129 155	docosahexaenoic acid (DHA)
+T6	CertaintyOfEffect 196 208	are known to
+T7	Effect 209 240	reduce inflammation in the body
+T8	Target 287 295	fish oil
+T9	Target 474 482	fish oil

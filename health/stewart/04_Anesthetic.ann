@@ -1,10 +1,10 @@
-T1	Target 15 26	anaesthetic
-T2	Target 30 40	anæsthetic
-T5	Effect 281 299	facilitate surgery
-T3	Effect 76 134	causes anesthesia, which is a reversible loss of sensation
-T4	Target 3 13	anesthetic
-T6	Target 137 148	Anesthetics
-T7	Target 245 250	drugs
-T8	Target 367 371	Many
-T9	Target 320 325	drugs
-T10	Target 420 426	others
+T1	Target 3 13	anesthetic
+T2	Target 15 26	anaesthetic
+T3	Target 30 40	anæsthetic
+T4	Effect 76 134	causes anesthesia, which is a reversible loss of sensation
+T5	Target 136 147	Anesthetics
+T6	Target 244 249	drugs
+T7	Effect 280 298	facilitate surgery
+T8	Target 318 323	drugs
+T9	Target 364 368	Many
+T10	Target 417 423	others

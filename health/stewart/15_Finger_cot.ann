@@ -1,8 +1,8 @@
-T1	Target 19 31	finger frock
-T2	Target 35 47	finger stall
-T3	Target 60 73	finger condom
-T4	Effect 103 128	cover one or more fingers
-T5	MeansOfUse 129 176	in situations where a full glove is unnecessary
-T6	ComposedOf 266 330	water-tight materials including latex, nitrile rubber, and vinyl
-T7	Target 2 12	finger cot
-T8	Target 224 235	finger cots
+T1	Target 2 12	finger cot
+T2	Target 19 31	finger frock
+T3	Target 35 47	finger stall
+T4	Target 60 73	finger condom
+T5	Effect 103 128	cover one or more fingers
+T6	MeansOfUse 129 176	in situations where a full glove is unnecessary
+T7	Target 210 221	finger cots
+T8	ComposedOf 252 316	water-tight materials including latex, nitrile rubber, and vinyl

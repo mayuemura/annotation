@@ -1,21 +1,21 @@
-T3	Version 239 245	sprays
-T4	Version 247 254	candles
-T5	Version 256 260	oils
-T6	Version 262 266	gels
-T7	Version 268 273	beads
-T8	Version 279 287	plug-ins
-T9	ComposedOf 333 342	chemicals
-T10	Effect 348 383	provoke allergy and asthma symptoms
-T11	CertaintyOfEffect 384 428	raising argument about how safe it is to use
-R1	CONDITION Arg1:T9 Arg2:T10	
-T1	Location 45 50	homes
-T2	PartOf 54 73	commercial products
-R2	EFFECT_MODIFIER Arg1:T11 Arg2:T10	
-T12	Location 82 121	restrooms that typically emit fragrance
-T13	ComposedOf 530 567	organic and everyday house hold items
-T14	Target 0 14	Air fresheners
-T15	Target 170 183	air freshener
-T16	Target 216 230	air fresheners
-T17	Target 294 308	air fresheners
-T18	Target 430 444	Air freshening
-T19	Target 487 501	air freshening
+T1	Target 0 14	Air fresheners
+T2	Location 45 50	homes
+T3	PartOf 54 73	commercial products
+T4	Location 82 121	restrooms that typically emit fragrance
+T5	Target 170 183	air freshener
+T6	Target 216 230	air fresheners
+T7	Version 239 245	sprays
+T8	Version 247 254	candles
+T9	Version 256 260	oils
+T10	Version 262 266	gels
+T11	Version 268 273	beads
+T12	Version 279 287	plug-ins
+T13	Target 294 308	air fresheners
+T14	ComposedOf 333 342	chemicals
+T15	Effect 348 383	provoke allergy and asthma symptoms
+T16	CertaintyOfEffect 384 428	raising argument about how safe it is to use
+R1	CONDITION Arg1:T14 Arg2:T15	
+R2	EFFECT_MODIFIER Arg1:T16 Arg2:T15	
+T17	Target 430 444	Air freshening
+T18	Target 487 501	air freshening
+T19	ComposedOf 530 567	organic and everyday house hold items

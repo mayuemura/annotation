@@ -1,9 +1,0 @@
-T1	Effect 16 25	emollient
-T2	MeansOfUse 27 73	specifically targeted at eczema and dermatitis
-T3	Effect 122 174	restores the layer of oil on the surface of the skin
-T4	Effect 178 193	slow water loss
-R1	CAUSALITY Arg1:T3 Arg2:T4	
-T5	Effect 223 251	make the applied area sticky
-R2	CAUSALITY Arg1:T3 Arg2:T5	
-T6	CertaintyOfEffect 211 222	tendency to
-T7	Effect 85 104	occlusive emollient
