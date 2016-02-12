@@ -1,0 +1,3 @@
+A heating element converts electricity into heat through the process of resistive or Joule heating.
+Electric current passing through the element encounters electrical resistance, resulting in heating of the element.
+Unlike the Peltier Effect this process is independent of the direction of current flow.
