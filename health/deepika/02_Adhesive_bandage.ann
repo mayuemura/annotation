@@ -1,0 +1,11 @@
+T1	Target 3 19	adhesive bandage
+T2	Target 35 51	sticking plaster
+T3	Target 63 70	plaster
+T4	Effect 120 187	used for injuries not serious enough to require a full-size bandage
+T5	Target 189 193	They
+T7	Target 253 257	band
+T8	Target 267 275	band aid
+T9	Target 291 302	Elastoplast
+T12	MeansOfUse 103 119	medical dressing
+R1	CONDITION Arg1:T12 Arg2:T4	
+T6	Target 239 247	Band-Aid

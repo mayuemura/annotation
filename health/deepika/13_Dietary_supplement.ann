@@ -1,0 +1,6 @@
+T1	Target 2 20	dietary supplement
+T2	DegreeOfEffect 24 32	intended
+T3	Effect 36 53	provide nutrients
+T4	MeansOfUse 54 113	that may otherwise not be consumed in sufficient quantities
+R1	EFFECT_MODIFIER Arg1:T2 Arg2:T3	
+R2	CONDITION Arg1:T4 Arg2:T3	

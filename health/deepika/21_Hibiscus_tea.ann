@@ -1,0 +1,6 @@
+T1	Target 0 12	Hibiscus tea
+T2	ComposedOf 54 147	crimson or deep magenta-coloured calyces (sepals) of the roselle (Hibiscus sabdariffa) flower
+T4	Target 149 151	It
+T5	MeansOfUse 155 181	consumed both hot and cold
+T3	Effect 18 24	herbal
+R1	CONDITION Arg1:T2 Arg2:T3	

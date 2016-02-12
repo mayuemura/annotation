@@ -1,0 +1,10 @@
+T1	Target 0 18	Eyelash Extensions
+T2	Effect 38 81	enhances the length, thickness and fullness
+T3	Effect 85 102	natural eyelashes
+R1	CAUSALITY Arg1:T2 Arg2:T3	
+T4	Target 108 118	extensions
+T6	Target 190 200	extensions
+T7	MeansOfUse 209 269	full strips, clusters, and individual, one-by-one extensions
+T5	ComposedOf 134 138	silk
+T8	ComposedOf 140 144	mink
+T9	ComposedOf 149 163	synthetic hair

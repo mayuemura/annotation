@@ -1,0 +1,10 @@
+T1	Target 0 11	Eyelid glue
+T2	Target 29 38	eye putti
+T4	Location 80 92	in East Asia
+T5	Effect 105 151	change the "monolid" (eyelid without a crease)
+T6	Target 154 165	Eyelid glue
+T7	Effect 171 193	water-soluble adhesive
+T8	Effect 206 220	easily removed
+R1	CAUSALITY Arg1:T7 Arg2:T8	
+T3	MeansOfUse 53 74	cosmetics|eye make-up
+R2	CONDITION Arg1:T3 Arg2:T5	

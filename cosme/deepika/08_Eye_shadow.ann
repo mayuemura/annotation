@@ -1,0 +1,15 @@
+T1	Target 0 10	Eye shadow
+T3	MeansOfUse 33 78	applied on the eyelids and under the eyebrows
+T4	Target 81 83	It
+T5	Effect 104 160	make the wearer's eyes stand out or look more attractive
+R1	CONDITION Arg1:T3 Arg2:T5	
+T6	Target 162 172	Eye shadow
+T7	Effect 177 214	add depth and dimension to one's eyes
+T8	Effect 216 240	complement the eye color
+T9	Effect 245 278	simply draw attention to the eyes
+T10	Target 281 291	Eye shadow
+T12	Target 338 340	It
+T13	ComposedOf 364 379	powder and mica
+T14	Version 406 436	liquid, pencil, or mousse form
+T2	Effect 16 24	cosmetic
+R2	CAUSALITY Arg1:T2 Arg2:T5	

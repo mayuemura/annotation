@@ -1,0 +1,17 @@
+T1	Target 0 9	Lip stain
+T2	Effect 15 23	cosmetic
+T4	Version 77 83	liquid
+T5	Version 87 90	gel
+T6	Target 93 95	It
+T8	CertaintyOfEffect 96 105	generally
+T9	Effect 139 175	leaving a stain of color on the lips
+T7	Effect 106 135	stays on longer than lipstick
+R1	CAUSALITY Arg1:T9 Arg2:T7	
+R2	EFFECT_MODIFIER Arg1:T8 Arg2:T7	
+T11	Effect 193 205	dry the lips
+T12	CertaintyOfEffect 189 192	can
+R3	EFFECT_MODIFIER Arg1:T12 Arg2:T11	
+T13	Target 186 188	it
+T3	Effect 40 54	color the lips
+T10	MeansOfUse 213 228	not recommended
+T14	Time 229 239	for winter

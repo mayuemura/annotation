@@ -1,0 +1,14 @@
+T1	Target 0 7	Glitter
+T2	ComposedOf 35 68	small, flat, reflective particles
+T3	Target 71 78	Glitter
+T4	Effect 89 122	reflect light at different angles
+T6	Target 168 175	Glitter
+T8	Target 245 252	glitter
+T9	MeansOfUse 271 289	used as decoration
+T10	ComposedOf 296 369	many different materials including stones such as malachite, galena, mica
+T12	Target 409 416	glitter
+T13	Target 486 493	glitter
+T14	ComposedOf 502 510	plastics
+T16	Target 633 640	glitter
+T5	Effect 147 154	sparkle
+T7	Effect 158 165	shimmer

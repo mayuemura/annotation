@@ -1,0 +1,20 @@
+T1	Target 0 11	Face powder
+T3	MeansOfUse 33 52	applied to the face
+T4	Effect 56 101	set a foundation foundation after application
+T5	Target 104 106	It
+T6	Effect 151 189	minimize shininess caused by oily skin
+T7	MeansOfUse 119 128	reapplied
+T8	Time 129 147	throughout the day
+R1	CONDITION Arg1:T7 Arg2:T6	
+R2	CONDITION Arg1:T8 Arg2:T6	
+T9	Version 201 225	translucent sheer powder
+T10	Version 240 256	pigmented powder
+T11	MeansOfUse 314 348	worn alone with no base foundation
+T2	Effect 17 25	cosmetic
+R3	CAUSALITY Arg1:T2 Arg2:T4	
+R4	CONDITION Arg1:T3 Arg2:T4	
+T12	Target 286 300	facial powders
+T13	Effect 358 372	tones the face
+T14	Effect 377 401	gives an even appearance
+R5	CAUSALITY Arg1:T13 Arg2:T14	
+T15	Target 351 357	Powder

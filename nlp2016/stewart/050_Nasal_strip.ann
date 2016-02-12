@@ -3,7 +3,6 @@ T2	Target 15 43	external nasal dilator strip
 T3	Target 47 66	nasal dilator strip
 T4	Effect 211 244	assist in keeping the airway open
 T5	MeansOfUse 143 206	applied across the bridge of the nose and sides of the nostrils
-T6	Effect 267 287	make breathing easie
 T7	Time 328 352	during athletic exertion
 T8	Effect 370 409	reduce congestion or to prevent snoring
 T9	Effect 463 491	performance-enhancing effect
@@ -19,3 +18,4 @@ T17	Effect 684 698	reduce fatigue
 T18	Effect 703 725	aid post-race recovery
 T19	Target 566 570	they
 T20	Target 451 455	they
+T6	Effect 267 288	make breathing easier

@@ -1,0 +1,8 @@
+T1	Target 0 6	Gluten
+T2	Target 92 98	Gluten
+T3	Effect 99 124	gives elasticity to dough
+T4	Effect 126 160	helping it rise and keep its shape
+R1	CAUSALITY Arg1:T3 Arg2:T4	
+T5	CertaintyOfEffect 165 170	often
+T6	Effect 171 210	gives the final product a chewy texture
+R2	EFFECT_MODIFIER Arg1:T5 Arg2:T6	

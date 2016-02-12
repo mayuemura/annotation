@@ -1,0 +1,10 @@
+T1	Target 2 15	glucose meter
+T2	Target 20 30	glucometer
+T3	MeansOfUse 52 121	for determining the approximate concentration of glucose in the blood
+T4	Target 123 125	It
+T5	Target 222 224	It
+T6	User 285 331	people with diabetes mellitus or  hypoglycemia
+T7	MeansOfUse 245 281	home blood glucose monitoring (HBGM)
+T8	Effect 521 567	displays the level in units of mg/dl or mmol/l
+T9	Target 510 515	meter
+T10	Target 447 452	meter

@@ -1,0 +1,13 @@
+T1	Target 0 9	Helioplex
+T2	Effect 30 86	broad-spectrum ultraviolet (UVA and UVB) skin protection
+T3	ComposedOf 98 123	avobenzone and oxybenzone
+T5	Time 202 235	after a few hours of sun exposure
+T6	Effect 268 301	reduces the amount of degradation
+T4	DegreeOfEffect 180 190	decreasing
+T7	Effect 191 201	efficiency
+R1	EFFECT_MODIFIER Arg1:T4 Arg2:T7	
+T9	Target 352 356	this
+T10	Version 396 423	Active Photobarrier Complex
+T8	MeansOfUse 245 267	addition of oxybenzone
+R2	CONDITION Arg1:T8 Arg2:T6	
+R3	CONDITION Arg1:T5 Arg2:T7	

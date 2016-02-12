@@ -1,0 +1,13 @@
+T1	Target 0 9	Diprobase
+T2	Target 76 78	It
+T3	Target 119 121	it
+T7	Effect 16 25	emollient
+T9	MeansOfUse 40 73	targeted at eczema and dermatitis
+T10	Target 207 210	its
+T4	Effect 122 174	restores the layer of oil on the surface of the skin
+T11	Effect 178 193	slow water loss
+R1	CAUSALITY Arg1:T4 Arg2:T11	
+T5	Effect 223 251	make the applied area sticky
+T12	CertaintyOfEffect 211 219	tendency
+R2	EFFECT_MODIFIER Arg1:T12 Arg2:T5	
+T6	Effect 85 104	occlusive emollient

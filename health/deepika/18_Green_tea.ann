@@ -1,0 +1,8 @@
+T1	Target 0 9	Green tea
+T2	ComposedOf 23 103	Camellia sinensis leaves that have undergone minimal oxidation during processing
+T3	CertaintyOfEffect 105 120	Numerous claims
+T4	Effect 144 159	health benefits
+R1	EFFECT_MODIFIER Arg1:T3 Arg2:T4	
+T5	Target 163 172	green tea
+T6	CertaintyOfEffect 211 275	vitro studies, animal studies, and human epidemiological studies
+R2	EFFECT_MODIFIER Arg1:T6 Arg2:T4	

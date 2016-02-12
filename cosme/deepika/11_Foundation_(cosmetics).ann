@@ -1,0 +1,9 @@
+T1	Target 0 10	Foundation
+T2	Effect 60 108	create an even, uniform colour to the complexion
+T3	Effect 113 124	cover flaws
+T4	Effect 144 177	change the natural human skintone
+T5	CertaintyOfEffect 130 139	sometimes
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
+T6	MeansOfUse 37 56	applied to the face
+T7	Target 179 189	Foundation
+T8	MeansOfUse 190 209	applied to the body

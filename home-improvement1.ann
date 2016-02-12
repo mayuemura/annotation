@@ -1,0 +1,204 @@
+T1	Target 205 220	Air Conditioner
+T2	Target 645 649	Fans
+T3	Target 735 742	Filters
+T4	Target 1169 1184	Slider Casement
+T5	Target 828 833	Knobs
+T6	Target 919 925	Motors
+T7	Target 1011 1022	Power Cords
+T8	Target 1412 1423	Dishwashers
+T9	Target 1481 1492	Dishwashers
+T10	Target 1553 1564	Dishwashers
+T11	Target 1622 1633	Dishwashers
+T12	Target 1692 1703	Dishwashers
+T13	Target 1740 1748	Freezers
+T14	Target 1800 1808	Freezers
+T15	Target 1862 1870	Freezers
+T16	Target 2060 2072	Refrigerator
+T17	Target 1915 1922	Filters
+T18	Target 2164 2176	Refrigerator
+T19	Target 2259 2266	Blender
+T54	Target 1324 1330	Window
+T55	Target 1252 1256	Wall
+T56	Target 107 123	Air Conditioners
+T20	Target 3423 3437	Coffee Filters
+T29	Target 4085 4105	Coffeemaker Pot Lids
+T30	Target 4243 4259	Coffeemaker Pots
+T32	Target 4397 4412	Thermal Carafes
+T33	Target 4523 4537	Coffee Machine
+T34	Target 4666 4682	Espresso Machine
+T24	Target 2597 2610	Bread Machine
+T26	Target 2729 2742	Bread Machine
+T28	Target 2853 2866	Bread Machine
+T22	Target 2375 2393	Countertop Blender
+T23	Target 2502 2514	Hand Blender
+T31	Target 3105 3130	Coffee & Espresso Machine
+T35	Target 3259 3273	Coffee Machine
+T21	Target 3590 3608	Disposable Filters
+T25	Target 3761 3778	Permanent Filters
+T27	Target 3931 3947	Reusable Filters
+T36	Target 4834 4856	Milk Frothing Pitchers
+T37	Target 4996 5003	Tampers
+T38	Target 5114 5130	Espresso Machine
+T39	Target 5519 5544	Countertop Oven & Toaster
+T40	Target 5213 5220	Cooktop
+T41	Target 5879 5889	Deep Fryer
+T42	Target 6194 6204	Dishwasher
+T43	Target 6427 6434	Baskets
+T44	Target 6530 6542	Door Springs
+T45	Target 6638 6643	Doors
+T46	Target 6739 6746	Handles
+T47	Target 6842 6847	Hoses
+T48	Target 6943 6949	Panels
+T49	Target 7045 7056	Power Cords
+T50	Target 7152 7157	Racks
+T51	Target 7366 7375	Trim Kits
+T52	Target 7545 7550	Dryer
+T53	Target 7471 7480	Wash Arms
+T57	Target 7763 7768	Doors
+T58	Target 7859 7871	Lint Screens
+T59	Target 7962 7978	Plug Receptacles
+T60	Target 8069 8080	Power Cords
+T61	Target 8279 8296	Shoe Rack Inserts
+T62	Target 8387 8392	Vents
+T63	Target 8457 8474	Electric Cookware
+T64	Target 8793 8802	Fasteners
+T65	Target 8867 8881	Food Processor
+T66	Target 9001 9015	Food Processor
+T67	Target 9127 9141	Food Processor
+T68	Target 9224 9243	Food Waste Disposer
+T69	Target 9566 9588	Freestanding Ice Maker
+T70	Target 9917 9924	Freezer
+T71	Target 10141 10146	Doors
+T72	Target 10239 10246	Drawers
+T73	Target 10339 10346	Handles
+T74	Target 10439 10448	Ice Maker
+T75	Target 10547 10558	Power Cords
+T76	Target 10761 10768	Shelves
+T77	Target 10861 10866	Trays
+T78	Target 10931 10941	Humidifier
+T79	Target 11057 11075	Absorption Sleeves
+T80	Target 11278 11287	Chemicals
+T81	Target 11383 11398	Humidity Meters
+T82	Target 11494 11511	Replacement Belts
+T83	Target 11607 11626	Replacement Filters
+T84	Target 11835 11852	Replacement Wicks
+T85	Target 11917 11934	Ice Cream Machine
+T88	Target 12253 12267	Iron & Steamer
+T91	Target 12593 12599	Juicer
+T92	Target 12896 12910	Microwave Oven
+T93	Target 13030 13037	Filters
+T94	Target 13137 13151	Microwave Oven
+T87	Target 12383 12387	Iron
+T89	Target 12503 12510	Steamer
+T86	Target 13263 13277	Microwave Oven
+T90	Target 13395 13404	Trim Kits
+T95	Target 13504 13514	Turntables
+T96	Target 13579 13584	Mixer
+T97	Target 13695 13700	Mixer
+T98	Target 13803 13808	Mixer
+T99	Target 13891 13895	Oven
+T100	Target 14188 14203	Pressure Cooker
+T101	Target 14518 14528	Range Hood
+T102	Target 14751 14758	Blowers
+T103	Target 14854 14861	Filters
+T104	Target 14957 14962	Knobs
+T105	Target 15171 15178	Screens
+T106	Target 15461 15471	Backguards
+T107	Target 15562 15583	Built-in Thermometers
+T108	Target 15674 15689	Built-in Timers
+T109	Target 15780 15792	Burner Rings
+T110	Target 15883 15890	Burners
+T111	Target 15981 15990	Drip Pans
+T112	Target 16081 16093	Exhaust Fans
+T113	Target 16184 16190	Grills
+T114	Target 16281 16297	Heating Elements
+T115	Target 16388 16393	Knobs
+T116	Target 16484 16494	Oven Racks
+T117	Target 16585 16593	Paneling
+T118	Target 16684 16700	Plug Receptacles
+T119	Target 16791 16802	Power Cords
+T120	Target 17001 17010	Trim Kits
+T121	Target 17075 17087	Refrigerator
+T122	Target 17314 17318	Bins
+T123	Target 17416 17421	Doors
+T124	Target 17519 17525	Grills
+T125	Target 17623 17630	Handles
+T126	Target 17728 17738	Ice Makers
+T127	Target 17836 17842	Motors
+T128	Target 17940 17951	Power Cords
+T129	Target 18164 18171	Shelves
+T130	Target 18269 18274	Trays
+T131	Target 18372 18390	Water Conditioners
+T132	Target 18488 18501	Water Filters
+T133	Target 18566 18577	Rice Cooker
+T134	Target 18884 18895	Slow Cooker
+T135	Target 19202 19212	Soda Maker
+T136	Target 19435 19442	Bottles
+T137	Target 19538 19554	CO2 Replacements
+T138	Target 19834 19849	Trash Compactor
+T139	Target 20082 20087	Knobs
+T140	Target 20188 20199	Power Cords
+T141	Target 20382 20388	Washer
+T142	Target 20603 20609	Clamps
+T143	Target 20701 20716	Detergent Trays
+T144	Target 20808 20813	Doors
+T145	Target 20905 20916	Drain Pumps
+T146	Target 21008 21019	Floor Trays
+T147	Target 21111 21116	Hoses
+T148	Target 21208 21214	Motors
+T149	Target 21306 21317	Power Cords
+T150	Target 21491 21502	Wine Cellar
+T151	Target 21781 21792	Range Hoods
+T153	Target 21829 21835	Ranges
+T156	Target 22052 22072	Refrigerator Filters
+T157	Target 22109 22122	Refrigerators
+T158	Target 22159 22175	Trash Compactors
+T160	Target 22317 22333	Trash Compactors
+T159	Target 22238 22254	Trash Compactors
+T161	Target 22370 22380	Wall Ovens
+T162	Target 22440 22462	Microwave & Wall Ovens
+T163	Target 22510 22527	Double Wall Ovens
+T164	Target 22575 22592	Single Wall Ovens
+T165	Target 22629 22645	Washers & Dryers
+T166	Target 22722 22738	Washers & Dryers
+T167	Target 22792 22798	Dryers
+T168	Target 22862 22869	Laundry
+T169	Target 22941 22953	Place Holder
+T170	Target 23042 23054	Place Holder
+T171	Target 23160 23167	Washers
+T172	Target 23252 23259	Washers
+T173	Target 23321 23335	Washer & Dryer
+T174	Target 23395 23402	Washers
+T175	Target 23439 23451	Wine Cellars
+T176	Target 23510 23522	Wine Cellars
+T152	Target 21887 21893	Ranges
+T154	Target 21950 21956	Ranges
+T155	Target 22009 22015	Ranges
+T177	Target 23585 23597	Wine Cellars
+T178	Target 23663 23675	Wine Cellars
+T179	Target 23731 23743	Wine Cellars
+T180	Target 23793 23820	Wine Cellar Cooling Systems
+T181	Target 23870 23880	Wine Rooms
+T182	Target 23906 23923	Building Supplies
+T183	Target 23967 23985	Building Materials
+T184	Target 24048 24066	Built-in Cabinetry
+T185	Target 24129 24146	Decking & Fencing
+T186	Target 24227 24232	Gates
+T187	Target 24313 24321	Hardware
+T188	Target 24411 24424	Decking Bolts
+T189	Target 24514 24527	Decking Nails
+T190	Target 24708 24722	Hardware Cloth
+T191	Target 24813 24820	Lattice
+T192	Target 24919 24926	Decking
+T193	Target 25028 25035	Decking
+T194	Target 25139 25146	Decking
+T195	Target 25252 25259	Decking
+T196	Target 25340 25358	Railings & Pickets
+T197	Target 25458 25465	Pickets
+T198	Target 25704 25719	Anchors & Bases
+T199	Target 25839 25843	Caps
+T200	Target 26209 26217	Railings
+T201	Target 26317 26332	Weatherproofing
+T202	Target 26395 26400	Doors
+T203	Target 26469 26480	Door Frames
+T204	Target 26549 26559	Door Sills

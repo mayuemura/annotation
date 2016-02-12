@@ -1,0 +1,14 @@
+T1	Target 2 14	makeup brush
+T2	MeansOfUse 40 102	used for the application of cosmetics|make up or face painting
+T3	ComposedOf 139 169	natural or synthetic materials
+T4	ComposedOf 211 218	plastic
+T5	ComposedOf 222 226	wood
+T6	Effect 289 315	blend better into the skin
+T7	MeansOfUse 248 283	applied using the appropriate brush
+R1	CONDITION Arg1:T7 Arg2:T6	
+T8	Version 532 540	chiseled
+T9	Version 542 550	straight
+T10	Version 552 559	angular
+T11	Version 561 566	round
+T12	Version 568 572	flat
+T13	Version 576 583	tapered

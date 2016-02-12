@@ -1,0 +1,20 @@
+T1	Target 2 9	bolster
+T2	Target 80 88	Bolsters
+T3	Target 219 226	bolster
+T4	Target 306 313	bolster
+T9	MeansOfUse 133 159	for decorative application
+T12	Location 282 302	In western countries
+T13	Target 252 259	cushion
+T14	Target 263 269	pillow
+T15	Target 276 280	prop
+T16	MeansOfUse 317 356	usually placed at the head of one's bed
+T8	MeansOfUse 106 129	for back or arm support
+T11	Effect 411 457	arm support on furniture with high rigid sides
+T17	Effect 101 105	firm
+T18	CertaintyOfEffect 93 100	usually
+R2	EFFECT_MODIFIER Arg1:T18 Arg2:T17	
+T5	ComposedOf 57 63	cotton
+T6	ComposedOf 65 69	down
+T7	ComposedOf 73 78	fibre
+T10	Effect 374 400	head or lower back support
+R1	CONDITION Arg1:T16 Arg2:T10	

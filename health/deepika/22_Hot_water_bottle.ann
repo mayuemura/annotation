@@ -1,0 +1,6 @@
+T1	Target 2 18	hot water bottle
+T2	Target 23 29	hottie
+T3	Effect 102 116	provide warmth
+T4	ComposedOf 36 92	container filled with hot water and sealed with astopper
+T5	MeansOfUse 160 210	application of heat to a specific part of the body
+R1	CONDITION Arg1:T4 Arg2:T3	

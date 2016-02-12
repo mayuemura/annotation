@@ -1,0 +1,14 @@
+T1	Target 0 18	Herbal distillates
+T2	Target 32 44	floral water
+T3	Target 46 54	hydrosol
+T4	Target 56 65	hydrolate
+T5	Target 67 79	herbal water
+T6	Target 84 99	essential water
+T7	Target 140 144	They
+T8	ComposedOf 149 235	colloidal suspensions (hydrosol) of essential oils as well as water-soluble components
+T9	Target 349 367	herbal distillates
+T11	Target 429 447	Herbal distillates
+T12	Effect 599 635	leaving behind the watery distillate
+T10	MeansOfUse 381 391	flavorings
+T13	MeansOfUse 393 401	medicine
+T14	MeansOfUse 406 427	cosmetics (skin care)

@@ -1,0 +1,12 @@
+T1	Target 0 7	Kumkuma
+T3	MeansOfUse 26 59	for social and religious markings
+T4	Target 71 73	It
+T5	ComposedOf 94 131	turmeric or any other local materials
+T7	Target 298 306	kuṅkumam
+T8	Target 308 315	kumkuma
+T9	Target 318 324	kumkum
+T10	Target 326 334	kunkumam
+T11	Target 336 345	Kungkumam
+T12	Effect 202 247	turns the rich yellow powder into a red color
+T13	MeansOfUse 150 194	dried and powdered with a bit of slaked lime
+R1	CONDITION Arg1:T13 Arg2:T12	

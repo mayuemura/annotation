@@ -1,0 +1,15 @@
+T1	Target 2 19	facial prosthetic
+T2	Target 23 40	facial prosthesis
+T3	Effect 73 138	change or adapt the outward appearance of a person's face or head
+T5	Target 195 212	facial prosthetic
+T6	Effect 220 278	alters a person's normal face into something extraordinary
+T7	Target 281 299	Facial prosthetics
+T11	Effect 428 465	altering the curve of a cheek or nose
+T12	Effect 470 522	making someone appear older or younger than they are
+T13	DegreeOfEffect 418 424	subtle
+R1	EFFECT_MODIFIER Arg1:T13 Arg2:T11	
+R2	EFFECT_MODIFIER Arg1:T13 Arg2:T12	
+T14	Target 527 544	facial prosthesis
+T15	Effect 554 638	transform an actor into any creature, such as mythical creatures, animals and others
+T4	User 157 193	theatre, film or television industry
+T8	ComposedOf 319 397	wide range of materials - including latex, foam latex, silicone, and cold foam

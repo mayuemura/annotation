@@ -1,0 +1,14 @@
+T1	Target 0 9	Aloe vera
+T2	Target 55 64	Aloe vera
+T3	Location 88 133	cosmetics and alternative medicine industries
+T4	Effect 170 215	rejuvenating, healing, or soothing properties
+T5	CertaintyOfEffect 236 262	little scientific evidence
+T7	Target 297 306	Aloe vera
+T6	Effect 327 348	cosmetic or medicinal
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T6	
+T8	CertaintyOfEffect 368 442	positive evidence is available is frequently contradicted by other studies
+R2	EFFECT_MODIFIER Arg1:T8 Arg2:T6	
+T10	Effect 514 526	carcinogenic
+T12	CertaintyOfEffect 505 513	possible
+R3	EFFECT_MODIFIER Arg1:T12 Arg2:T10	
+T9	Version 444 482	Non-decolorized aloe vera leaf extract

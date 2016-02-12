@@ -1,0 +1,15 @@
+T1	Target 0 9	Bromelain
+T2	ComposedOf 44 67	the stems of pineapples
+T3	Effect 165 173	medicine
+T4	Target 135 142	extract
+T5	Target 252 261	bromelain
+T7	Effect 527 552	efficacy against diseases
+T8	CertaintyOfEffect 471 509	tested in a variety of research models
+T9	DegreeOfEffect 518 526	possible
+T10	CertaintyOfEffect 568 600	no established research evidence
+T11	Effect 606 627	nutraceutical or drug
+T12	Target 554 563	bromelain
+R1	EFFECT_MODIFIER Arg1:T8 Arg2:T7	
+R2	EFFECT_MODIFIER Arg1:T10 Arg2:T11	
+R3	EFFECT_MODIFIER Arg1:T9 Arg2:T7	
+T6	MeansOfUse 208 240	may be used as a meat tenderizer

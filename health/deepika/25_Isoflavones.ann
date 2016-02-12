@@ -1,0 +1,8 @@
+T1	Target 0 11	Isoflavones
+T2	ComposedOf 32 65	naturally occurring isoflavonoids
+T3	Effect 81 113	act as phytoestrogens in mammals
+T4	Effect 172 191	trap singlet oxygen
+T5	Effect 206 237	risk reduction in breast cancer
+T6	Target 247 258	isoflavones
+T8	Location 274 294	in Asian populations
+R1	CONDITION Arg1:T2 Arg2:T3	

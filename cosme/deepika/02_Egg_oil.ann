@@ -1,0 +1,22 @@
+T1	Target 0 7	Egg oil
+T2	Target 24 36	egg yolk oil
+T3	Target 40 48	ovum oil
+T6	Target 228 230	It
+T9	User 287 318	people who are allergic to eggs
+T12	Effect 450 459	hair care
+T14	PartOf 70 90	yolk of chicken eggs
+T4	ComposedOf 112 125	triglycerides
+T16	ComposedOf 131 176	traces of lecithin, cholesterol, xanthophylls
+T5	ComposedOf 185 191	lutein
+T17	ComposedOf 196 206	zeaxanthin
+T18	ComposedOf 211 226	immunoglobulins
+T19	Target 496 503	egg oil
+T15	Time 398 408	historical
+T11	MeansOfUse 353 371	hair and skin care
+T20	MeansOfUse 437 445	medicine
+R1	CONDITION Arg1:T20 Arg2:T12	
+R2	CONDITION Arg1:T15 Arg2:T12	
+T7	MeansOfUse 324 344	topical applications
+T8	Target 378 385	product
+T21	MeansOfUse 482 490	medicine
+T10	MeansOfUse 508 649	burns, eczema, dermatitis, mouth ulcers, skin ulcers, chapped nipples, tinea capitis, ringworm, nasal vestibulitis, frostbite and hemorrhoids

@@ -1,0 +1,25 @@
+T1	Target 2 17	hand antiseptic
+T2	Target 18 35	hand disinfectant
+T3	Target 37 51	hand sanitiser
+T4	Target 55 69	hand sanitizer
+T5	MeansOfUse 75 136	supplement or alternative to hand washing with soap and water
+T6	Version 181 184	gel
+T7	Version 186 190	foam
+T8	Version 196 212	liquid solutions
+T9	Target 239 254	hand sanitizers
+T10	ComposedOf 262 334	isopropyl alcohol (isopropanol), ethanol, n-propanol, or povidone-iodine
+T11	Target 560 575	hand sanitizers
+T12	Version 546 559	Alcohol-based
+T13	DegreeOfEffect 580 594	more effective
+T14	Effect 598 620	killing microorganisms
+T15	Effect 636 656	do not dry out hands
+T16	DegreeOfEffect 657 664	as much
+R1	EFFECT_MODIFIER Arg1:T16 Arg2:T15	
+R2	EFFECT_MODIFIER Arg1:T13 Arg2:T14	
+T17	Version 485 496	liquid rubs
+T18	Version 439 451	alcohol gels
+T19	Version 360 372	alcohol rubs
+T21	ComposedOf 453 480	humectants such as glycerin
+T20	ComposedOf 393 434	thickening agent such as polyacrylic acid
+T22	ComposedOf 498 514	propylene glycol
+T23	ComposedOf 520 544	essential oils of plants

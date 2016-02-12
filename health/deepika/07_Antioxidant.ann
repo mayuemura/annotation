@@ -1,0 +1,8 @@
+T1	Target 3 14	antioxidant
+T2	Effect 34 75	inhibits the oxidation of other molecules
+T4	Target 310 322	Antioxidants
+T5	Effect 323 354	terminate these chain reactions
+T6	Effect 358 393	removing free radical intermediates
+T7	Effect 399 432	inhibit other oxidation reactions
+R1	CAUSALITY Arg1:T6 Arg2:T5	
+R2	CAUSALITY Arg1:T6 Arg2:T7	

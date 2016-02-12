@@ -1,0 +1,11 @@
+T1	Target 0 9	Lip gloss
+T2	Target 106 108	It
+T3	Target 245 252	product
+T4	Target 15 22	product
+T5	Effect 41 66	give lips a glossy lustre
+T6	Effect 85 103	add a subtle color
+T8	Version 327 384	various frosted, glittered, glossy, and metallic finishes
+T9	Version 129 135	liquid
+T10	Version 141 151	soft solid
+T7	CertaintyOfEffect 72 81	sometimes
+R1	EFFECT_MODIFIER Arg1:T7 Arg2:T6	

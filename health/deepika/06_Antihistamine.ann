@@ -1,0 +1,11 @@
+T1	Target 3 16	antihistamine
+T2	Effect 55 110	opposes the activity of histamine receptors in the body
+T3	MeansOfUse 30 49	pharmaceutical drug
+T4	Target 112 126	Antihistamines
+T5	Target 288 302	Antihistamines
+T6	MeansOfUse 345 431	used to treat allergic reactions in the nose (e.g., itching, runny nose, and sneezing)
+T7	MeansOfUse 443 455	for insomnia
+T8	Target 228 242	antihistamines
+T9	Version 247 264	H1-antihistamines
+#1	AnnotatorNotes T9	I think these expressions are Version.
+T10	Version 269 286	H2-antihistamines

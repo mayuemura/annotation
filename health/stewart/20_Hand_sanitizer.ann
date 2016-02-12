@@ -4,7 +4,6 @@ T3	Target 37 51	hand sanitiser
 T4	Target 55 69	hand sanitizer
 T5	Effect 73 136	a supplement or alternative to hand washing with soap and water
 T6	Version 181 184	gel
-T7	Version 190 191	,
 T8	Version 196 202	liquid
 T9	Target 239 254	hand sanitizers
 T10	ComposedOf 262 293	isopropyl alcohol (isopropanol)
@@ -29,3 +28,4 @@ R1	EFFECT_MODIFIER Arg1:T27 Arg2:T26
 R2	EFFECT_MODIFIER Arg1:T25 Arg2:T26	
 R3	EFFECT_MODIFIER Arg1:T25 Arg2:T24	
 R4	EFFECT_MODIFIER Arg1:T23 Arg2:T24	
+T7	Version 186 190	foam

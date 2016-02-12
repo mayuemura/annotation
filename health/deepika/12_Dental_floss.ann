@@ -1,0 +1,17 @@
+T1	Target 0 12	Dental floss
+T2	Target 140 142	It
+T5	CertaintyOfEffect 152 167	widely accepted
+T6	DegreeOfEffect 196 206	favourable
+T7	Effect 217 254	plaque removal and disease prevention
+T8	Effect 305 342	up to 80% of plaque can be eliminated
+T9	CertaintyOfEffect 292 299	reports
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T7	
+R2	EFFECT_MODIFIER Arg1:T6 Arg2:T7	
+T4	MeansOfUse 98 138	in areas a toothbrush is unable to reach
+T10	Effect 49 97	remove food and dental plaque from between teeth
+T12	Target 184 189	floss
+R4	EFFECT_MODIFIER Arg1:T9 Arg2:T8	
+T3	ComposedOf 18 40	cord of thin filaments
+T13	Effect 429 448	toothbrushing alone
+T11	CertaintyOfEffect 391 423	failed to find any clear benefit
+R3	EFFECT_MODIFIER Arg1:T11 Arg2:T13	

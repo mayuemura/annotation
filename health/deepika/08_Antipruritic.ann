@@ -1,0 +1,5 @@
+T1	Target 0 13	Antipruritics
+T2	Target 29 44	anti-itch drugs
+T3	MeansOfUse 50 61	medications
+T4	Effect 67 406	inhibit the itching (Latin: pruritus) often associated with sunburns, allergic reactions, eczema, psoriasis, chickenpox, fungal infections, insect bites and stings like those from mosquitoes, fleas, and mites, and contact dermatitis and urticaria caused by plants such as poison ivy (urushiol-induced contact dermatitis) or stinging nettle
+R1	CONDITION Arg1:T3 Arg2:T4	

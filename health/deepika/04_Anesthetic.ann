@@ -1,0 +1,14 @@
+T1	Target 3 13	anesthetic
+T2	Target 15 26	anaesthetic
+T3	Target 30 40	anæsthetic
+T4	Effect 76 93	causes anesthesia
+T5	Effect 106 134	reversible loss of sensation
+T6	MeansOfUse 66 70	drug
+R1	CONDITION Arg1:T6 Arg2:T4	
+R2	CONDITION Arg1:T6 Arg2:T5	
+T7	Target 136 147	Anesthetics
+T8	Target 238 249	These drugs
+T9	Target 396 406	anesthesia
+T10	User 428 460	used commonly by all disciplines
+T11	User 328 362	used in modern anesthetic practice
+T12	Effect 280 298	facilitate surgery

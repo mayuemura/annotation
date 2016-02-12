@@ -1,0 +1,9 @@
+T1	Target 0 5	iFood
+T2	Target 7 20	isotopic food
+T3	ComposedOf 31 174	nutritients in which some atoms are replaced with their heavier non-radioactive isotopes (such as 13C and 2H, derived from C4 carbon C4-plants)
+T4	Effect 228 328	rise to more stable molecular structures with increased resistance to damages associated with ageing
+T5	Effect 637 655	enhanced longevity
+T6	CertaintyOfEffect 616 630	hypothetically
+R1	EFFECT_MODIFIER Arg1:T6 Arg2:T5	
+T7	Time 554 596	early stages of the organism's development
+R2	CONDITION Arg1:T3 Arg2:T4	

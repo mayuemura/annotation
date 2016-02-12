@@ -1,0 +1,18 @@
+T1	Target 3 11	ice pack
+T2	Target 15 23	gel pack
+T3	ComposedOf 62 67	water
+T4	ComposedOf 72 87	refrigerant gel
+T5	ComposedOf 91 97	liquid
+T7	Effect 206 242	absorb a considerable amount of heat
+T8	Target 318 329	These packs
+T11	MeansOfUse 453 523	in insulated shipping containers to keep products cool during transpor
+T10	Effect 412 448	alleviate the pain of minor injuries
+T12	CertaintyOfEffect 334 342	commonly
+R1	EFFECT_MODIFIER Arg1:T12 Arg2:T10	
+T6	MeansOfUse 107 143	the contents are frozen in a freezer
+R2	CONDITION Arg1:T3 Arg2:T7	
+R3	CONDITION Arg1:T4 Arg2:T7	
+R4	CONDITION Arg1:T5 Arg2:T7	
+T9	MeansOfUse 348 385	to keep food cool in portable coolers
+T13	MeansOfUse 390 408	as a cold compress
+R5	CONDITION Arg1:T13 Arg2:T10	

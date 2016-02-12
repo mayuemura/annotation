@@ -1,0 +1,19 @@
+T1	Target 0 11	Nail polish
+T2	Target 27 39	nail varnish
+T3	Effect 46 53	lacquer
+T4	MeansOfUse 66 110	applied to the human fingernails or toenails
+T5	Effect 114 150	decorate and protect the nail plates
+R1	CAUSALITY Arg1:T3 Arg2:T5	
+R2	CONDITION Arg1:T4 Arg2:T5	
+T7	Target 208 211	its
+T8	Effect 212 230	decorative effects
+T9	Effect 238 266	suppress cracking or flaking
+T11	Target 269 280	Nail polish
+T12	ComposedOf 295 346	solution of an organic polymer and other components
+T13	Target 157 168	formulation
+T6	DegreeOfEffect 200 207	enhance
+R5	EFFECT_MODIFIER Arg1:T6 Arg2:T8	
+R6	EFFECT_MODIFIER Arg1:T6 Arg2:T9	
+T10	CertaintyOfEffect 178 196	revised repeatedly
+R3	EFFECT_MODIFIER Arg1:T10 Arg2:T8	
+R4	EFFECT_MODIFIER Arg1:T10 Arg2:T9	

@@ -1,0 +1,17 @@
+T1	Target 0 7	Mascara
+T2	Target 58 60	It
+T3	Version 153 159	liquid
+T4	Version 161 165	cake
+T5	Version 170 175	cream
+T6	Version 180 194	modern mascara
+T7	ComposedOf 276 284	pigments
+T8	ComposedOf 286 290	oils
+T9	ComposedOf 292 297	waxes
+T10	ComposedOf 303 316	preservatives
+T11	Effect 13 21	cosmetic
+T12	CertaintyOfEffect 22 30	commonly
+T13	Effect 39 55	enhance the eyes
+R1	EFFECT_MODIFIER Arg1:T12 Arg2:T13	
+T19	CertaintyOfEffect 61 64	may
+T14	Effect 65 119	darken, thicken, lengthen, and/or define the eyelashes
+R2	EFFECT_MODIFIER Arg1:T19 Arg2:T14	

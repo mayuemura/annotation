@@ -1,0 +1,10 @@
+T1	Target 0 9	Chest rub
+T2	Target 11 19	cold rub
+T3	Target 24 40	vapor/vapour rub
+T4	Effect 99 196	assist with minor medical conditions that temporarily impair breathing, including the common cold
+T5	DegreeOfEffect 87 95	intended
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
+T7	Target 198 200	It
+T6	ComposedOf 66 86	petrolatum-based gel
+T8	MeansOfUse 204 224	applied to the chest
+T9	Time 232 259	immediately before sleeping

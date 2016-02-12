@@ -1,0 +1,27 @@
+T1	Target 0 9	Lip liner
+T2	Target 25 35	lip pencil
+T3	Effect 42 50	cosmetic
+T4	Target 61 63	It
+T5	Target 187 189	It
+T6	Target 374 381	product
+T7	Target 437 446	Lip liner
+T8	DegreeOfEffect 67 75	intended
+T9	Effect 79 127	fill uneven areas on the outer edges of the lips
+T10	Effect 163 184	giving a smooth shape
+R1	CAUSALITY Arg1:T9 Arg2:T10	
+T11	MeansOfUse 128 151	after applying lipstick
+T13	Effect 306 367	creating a bigger contrast and making the lips stand out more
+T14	Version 403 419	retractable tube
+T15	Version 423 434	pencil form
+T16	Version 516 520	reds
+T17	Version 522 527	pinks
+T18	Version 529 535	browns
+T19	Version 537 542	plums
+T12	MeansOfUse 198 222	used to outline the lips
+T20	Effect 224 294	keeping lipstick inside the lip area and preventing it from "bleeding"
+R3	CONDITION Arg1:T12 Arg2:T20	
+R4	CAUSALITY Arg1:T20 Arg2:T13	
+#1	AnnotatorNotes T11	Time?
+#2	AnnotatorNotes T12	only "outline the lips"
+#3	AnnotatorNotes T20	please split : keeping lipstick inside the lip area / preventing it from "bleeding"
+R2	CONDITION Arg1:T11 Arg2:T10	

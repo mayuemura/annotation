@@ -1,0 +1,17 @@
+T1	Target 0 4	Kohl
+T2	Target 83 85	It
+T3	Target 276 278	It
+T4	Target 339 343	Kohl
+T5	Target 437 441	kohl
+T6	MeansOfUse 19 31	eye cosmetic
+T8	ComposedOf 64 80	stibnite (Sb2S3)
+T9	Location 101 191	in South Asia, the Middle East, North Africa, the Horn of Africa, and parts of West Africa
+T10	MeansOfUse 195 203	eyeliner
+T11	Effect 207 240	contour and/or darken the eyelids
+T12	MeansOfUse 248 273	mascara for the eyelashes
+T13	User 297 302	women
+T14	User 316 337	some men and children
+R1	CONDITION Arg1:T10 Arg2:T11	
+R2	CONDITION Arg1:T12 Arg2:T11	
+T7	Location 363 371	in India
+T15	Effect 377 385	cosmetic
