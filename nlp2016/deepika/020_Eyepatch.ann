@@ -1,0 +1,17 @@
+T1	Target 3 11	eyepatch
+T2	Target 74 76	It
+T3	Target 238 240	It
+T4	Target 412 422	Eyepatches
+T5	Target 491 501	Eyepatches
+T6	Target 15 22	eye pad
+T7	MeansOfUse 48 72	worn in front of one eye
+T8	Version 86 97	cloth patch
+T9	Version 161 177	adhesive bandage
+T10	Version 184 198	plastic device
+T11	User 258 295	people to cover a lost or injured eye
+T12	User 334 373	children for the treatment of amblyopia
+T13	Effect 431 457	block light while sleeping
+T14	Target 479 489	sleep mask
+T15	Effect 315 326	therapeutic
+T16	Target 301 303	it
+R1	CONDITION Arg1:T12 Arg2:T15	

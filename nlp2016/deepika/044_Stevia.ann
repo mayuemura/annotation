@@ -1,0 +1,20 @@
+T1	Target 0 6	Stevia
+T2	Effect 12 21	sweetener
+T3	MeansOfUse 26 42	sugar substitute
+T4	Target 133 139	stevia
+T5	ComposedOf 144 199	steviol glycosides (mainly stevioside and rebaudioside)
+T6	Effect 256 267	heat-stable
+T7	Effect 269 278	pH-stable
+T8	Effect 284 312	not fermentation fermentable
+T10	Target 387 393	stevia
+T11	User 408 447	people on carbohydrate-controlled diets
+T12	Target 449 457	Stevia's
+T9	Effect 470 521	slower onset and longer duration than that of sugar
+T13	Effect 559 593	bitter or licorice-like aftertaste
+T14	Target 535 538	its
+T15	Target 638 644	stevia
+T16	MeansOfUse 657 671	food additives
+T17	MeansOfUse 676 687	supplements
+T18	DegreeOfEffect 339 349	negligible
+T19	Effect 350 373	effect on blood glucose
+R1	EFFECT_MODIFIER Arg1:T18 Arg2:T19	

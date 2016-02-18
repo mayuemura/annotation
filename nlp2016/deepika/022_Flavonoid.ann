@@ -1,0 +1,11 @@
+T1	Target 0 10	Flavonoids
+T2	Target 15 28	bioflavonoids
+T3	Target 164 168	they
+T4	Target 738 751	bioflavonoids
+T5	ComposedOf 239 291	two phenyl rings (A and B) and heterocyclic ring (C)
+T6	Version 409 419	flavonoids
+T7	Version 423 436	bioflavonoids
+T8	Version 437 450	isoflavonoids
+T9	Version 503 516	neoflavonoids
+T10	Target 582 591	flavonoid
+T11	ComposedOf 614 640	ketone-containing compound

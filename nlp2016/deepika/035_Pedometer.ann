@@ -1,0 +1,14 @@
+T1	Target 2 11	pedometer
+T2	Version 33 77	portable and electronic or electromechanical
+T3	Effect 119 180	detecting the Motion motion of the person's hands or Hip hips
+T4	Effect 84 115	counts each step a person takes
+R1	CAUSALITY Arg1:T3 Arg2:T4	
+T5	Target 419 429	pedometers
+T6	User 631 670	sports and physical fitness enthusiasts
+T7	Target 672 682	pedometers
+T8	MeansOfUse 714 762	everyday Physical exercise counter and motivator
+T9	Time 687 690	now
+T10	MeansOfUse 770 811	worn on the belt belt and kept on all day
+T11	Target 813 815	it
+T12	Effect 820 949	record how many steps the wearer has walked that day, and thus the kilometers or miles (distance = number of steps × step length)
+R2	CONDITION Arg1:T10 Arg2:T12	

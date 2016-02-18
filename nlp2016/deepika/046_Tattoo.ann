@@ -1,0 +1,5 @@
+T1	Target 2 8	tattoo
+T2	MeansOfUse 22 39	body modification
+T3	MeansOfUse 49 106	inserting indelible ink into the dermis layer of the skin
+T4	Effect 110 128	change the pigment
+R1	CONDITION Arg1:T3 Arg2:T4	

@@ -1,0 +1,8 @@
+T1	Target 2 10	diuretic
+T2	Effect 33 65	promotes the production of urine
+T3	Target 130 139	diuretics
+T4	Target 145 154	diuretics
+T5	Version 81 96	forced diuresis
+T6	Effect 168 198	excretion of water from bodies
+T7	DegreeOfEffect 155 163	increase
+R1	EFFECT_MODIFIER Arg1:T7 Arg2:T6	

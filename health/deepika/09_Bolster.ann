@@ -18,3 +18,5 @@ T6	ComposedOf 65 69	down
 T7	ComposedOf 73 78	fibre
 T10	Effect 374 400	head or lower back support
 R1	CONDITION Arg1:T16 Arg2:T10	
+#1	AnnotatorNotes T11	"on furniture" may be Location or MOU
+#2	AnnotatorNotes T16	MOU? Location?

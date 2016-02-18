@@ -1,0 +1,13 @@
+T1	Target 0 9	Krill oil
+T2	ComposedOf 141 160	omega-3 fatty acids
+T3	ComposedOf 195 234	phospholipid-derived fatty acids (PLFA)
+T4	ComposedOf 243 262	phosphatidylcholine
+T5	ComposedOf 293 308	marine lecithin
+T6	CertaintyOfEffect 311 329	Studies have shown
+T7	Effect 330 344	toxic residues
+T8	Target 455 464	krill oil
+R1	EFFECT_MODIFIER Arg1:T6 Arg2:T7	
+T9	Target 494 503	krill oil
+T10	ComposedOf 16 85	extract prepared from a species of Antarctic krill, Euphausia superba
+T11	CertaintyOfEffect 600 651	although the FDA itself has not tested the products
+R2	EFFECT_MODIFIER Arg1:T11 Arg2:T7	

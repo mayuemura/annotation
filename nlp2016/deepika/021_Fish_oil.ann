@@ -1,0 +1,13 @@
+T1	Target 0 8	Fish oil
+T2	Target 55 64	Fish oils
+T3	Target 385 393	Fish oil
+T4	Target 287 295	fish oil
+T5	Target 474 482	fish oil
+T6	ComposedOf 12 53	oil derived from the tissues of oily fish
+T10	Effect 209 240	reduce inflammation in the body
+T11	Effect 257 272	health benefits
+T12	CertaintyOfEffect 296 344	supplement studies have failed to support claims
+T13	Effect 348 383	preventing heart attacks or strokes
+T14	MeansOfUse 407 436	component in aquaculture feed
+R1	EFFECT_MODIFIER Arg1:T12 Arg2:T13	
+T7	ComposedOf 77 155	omega-3 fatty acids eicosapentaenoic acid (EPA) and docosahexaenoic acid (DHA)

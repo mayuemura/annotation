@@ -1,0 +1,12 @@
+T1	Target 0 14	Enhanced water
+T2	Target 225 240	enhanced waters
+T3	Target 347 361	enhanced water
+T4	Target 380 394	enhanced water
+T5	ComposedOf 88 217	additional ingredients, ranging from natural or artificial flavors, sugar, sweeteners, vitamins, minerals and other "enhancements
+T6	ComposedOf 63 68	water
+T7	Effect 475 511	health, taste or functional benefits
+T8	CertaintyOfEffect 465 474	perceived
+R1	EFFECT_MODIFIER Arg1:T8 Arg2:T7	
+T9	Version 551 563	Vitaminwater
+T10	Target 607 610	its
+T11	ComposedOf 573 601	33 grams of sugar per bottle

@@ -1,0 +1,11 @@
+T1	Target 2 8	lipase
+T2	Target 70 77	Lipases
+T3	Target 111 118	Lipases
+T4	Target 291 298	lipases
+T5	Target 341 348	lipases
+T6	Effect 27 68	catalyzes the hydrolysis of fats (lipids)
+T7	ComposedOf 84 109	subclass of the esterases
+T8	Effect 119 236	perform essential roles in the digestion, transport and processing of dietary lipids (e.g. triglycerides, fats, oils)
+T9	Location 237 274	in most, if not all, living organisms
+T10	Effect 276 290	Genes encoding
+T11	Location 316 334	in certain viruses

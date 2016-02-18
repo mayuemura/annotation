@@ -1,0 +1,15 @@
+T1	Target 0 10	Prebiotics
+T3	Target 245 255	prebiotics
+T4	Effect 260 316	alter the composition of organisms in the gut microbiome
+T5	CertaintyOfEffect 256 259	can
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
+T6	Target 340 342	it
+T7	Target 485 495	prebiotics
+T8	Effect 499 557	improve the activity or composition of the skin microbiota
+T9	Target 568 578	prebiotics
+T10	ComposedOf 593 631	non-digestible dietary fiber compounds
+T11	Effect 637 705	pass undigested through the upper part of the gastrointestinal tract
+T12	Effect 710 797	stimulate the growth or activity of advantageous bacteria that colonize the large bowel
+T13	Effect 801 839	acting as substrate substrate for them
+R2	CAUSALITY Arg1:T13 Arg2:T12	
+T2	Effect 57 179	induce the growth or activity of microorganisms (e.g., bacteria and fungi) that contribute to the well-being of their host

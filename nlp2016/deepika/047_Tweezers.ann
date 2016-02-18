@@ -1,0 +1,9 @@
+T1	Target 0 8	Tweezers
+T2	MeansOfUse 25 104	used for picking up objects too small to be easily handled with the human hands
+T3	Target 106 110	They
+T4	Target 321 328	forceps
+T5	Target 330 338	Tweezers
+T6	User 468 473	Women
+T7	MeansOfUse 521 560	plucking hair from the face or eyebrows
+T8	Target 487 495	tweezers
+T9	Version 583 599	eyebrow tweezers

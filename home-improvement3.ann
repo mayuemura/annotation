@@ -1,0 +1,193 @@
+T1	Target 88 99	Pull Chains
+T2	Target 188 203	Remote Controls
+T3	Target 292 305	Wall Controls
+T4	Target 481 493	Ceiling Fans
+T5	Target 543 557	Ceiling Lights
+T6	Target 622 633	Chandeliers
+T7	Target 786 799	Island Lights
+T8	Target 864 878	Pendant Lights
+T9	Target 1043 1062	Housing & Trim Kits
+T10	Target 1145 1153	Housings
+T11	Target 1236 1240	Trim
+T12	Target 1305 1319	Track Lighting
+T13	Target 1583 1593	Connectors
+T14	Target 1673 1678	Heads
+T15	Target 1758 1766	Pendants
+T16	Target 1846 1860	Tracks & Rails
+T17	Target 1910 1929	Commercial Lighting
+T18	Target 1999 2011	Bay Lighting
+T19	Target 2081 2105	Emergency Light Fixtures
+T20	Target 2175 2193	Lighted Exit Signs
+T21	Target 2263 2285	Street & Area Lighting
+T22	Target 2355 2368	Strobe Lights
+T23	Target 2418 2432	Lamps & Shades
+T24	Target 2497 2507	Desk Lamps
+T25	Target 2572 2583	Floor Lamps
+T26	Target 2648 2657	Lamp Sets
+T27	Target 2722 2733	Lamp Shades
+T28	Target 2798 2809	Table Lamps
+T29	Target 2950 2968	Ceiling Medallions
+T30	Target 3145 3166	Hanging Chains & Rods
+T31	Target 3259 3273	Hanging Chains
+T32	Target 3366 3378	Hanging Rods
+T33	Target 3449 3461	Lamp Finials
+T34	Target 3532 3542	Lampshades
+T35	Target 3613 3637	Low Voltage Transformers
+T36	Target 3708 3728	Pull Chain Ornaments
+T37	Target 3799 3809	Pull Chain
+T38	Target 3881 3903	Under-Cabinet Mounting
+T39	Target 3986 3997	Wall Plates
+T40	Target 4047 4063	Novelty Lighting
+T41	Target 4217 4228	Book Lights
+T42	Target 4295 4311	Disco Ball Lamps
+T43	Target 4378 4396	Fiber Optic Lights
+T44	Target 4463 4477	Figurine Lamps
+T45	Target 4544 4561	Flameless Candles
+T46	Target 4628 4648	Indoor String Lights
+T47	Target 4715 4725	Lava Lamps
+T48	Target 4792 4802	Neon Signs
+T49	Target 4869 4883	Paper Lanterns
+T50	Target 4950 4961	Rope Lights
+T51	Target 5028 5038	Salt Lamps
+T52	Target 5105 5115	Tap Lights
+T53	Target 5165 5181	Outdoor Lighting
+T54	Target 5248 5271	Flood & Security Lights
+T55	Target 5338 5349	Floor Lamps
+T56	Target 5416 5434	Landscape Lighting
+T57	Target 5520 5531	Deck Lights
+T58	Target 5617 5632	Figurine Lights
+T59	Target 5718 5734	In-Ground Lights
+T60	Target 5820 5831	Path Lights
+T61	Target 5917 5927	Spotlights
+T62	Target 6013 6024	Step Lights
+T63	Target 6199 6207	Lamp Oil
+T64	Target 6295 6319	Low-Voltage Transformers
+T65	Target 6496 6516	Porch & Patio Lights
+T66	Target 6604 6627	Close to Ceiling Lights
+T67	Target 6715 6729	Pendant Lights
+T68	Target 6817 6828	Wall Lights
+T69	Target 6895 6906	Post Lights
+T70	Target 6973 6986	String Lights
+T71	Target 7053 7070	Tabletop Lighting
+T72	Target 7155 7172	Flameless Candles
+T73	Target 7257 7265	Lanterns
+T74	Target 7350 7361	Table Lamps
+T75	Target 7428 7435	Torches
+T76	Target 7502 7517	Umbrella Lights
+T77	Target 7567 7578	Wall Lights
+T78	Target 7640 7652	Night Lights
+T79	Target 7802 7812	Spotlights
+T80	Target 7874 7885	Step Lights
+T81	Target 7947 7967	Under-Cabinet Lights
+T82	Target 8225 8233	Calipers
+T83	Target 8293 8306	Caliper Gages
+T84	Target 8366 8385	Caliper Kits & Sets
+T85	Target 8445 8458	Dial Calipers
+T86	Target 8518 8534	Digital Calipers
+T87	Target 8594 8619	Joint Calipers & Dividers
+T88	Target 8679 8695	Vernier Calipers
+T89	Target 8746 8763	Carpentry Squares
+T90	Target 8918 8946	Horizontal & Vertical Lasers
+T91	Target 9125 9136	Line Lasers
+T92	Target 9214 9227	Rotary Lasers
+T93	Target 9423 9444	Laser Distance Meters
+T94	Target 9335 9353	Linear Measurement
+T95	Target 9614 9620	Rulers
+T96	Target 9690 9703	Tape Measures
+T97	Target 9773 9783	Tape Reels
+T98	Target 9834 9847	Marking Tools
+T99	Target 9912 9923	Chalk Lines
+T100	Target 9988 9996	Scribers
+T101	Target 10239 10250	Protractors
+T102	Target 10178 10188	Plumb Bobs
+T103	Target 10114 10127	Pipe Locators
+T104	Target 10047 10063	Measuring Wheels
+T105	Target 10301 10311	Saw Gauges
+T106	Target 10362 10380	Scanners & Testers
+T107	Target 10450 10468	Electrical Testers
+T108	Target 10557 10572	Battery Testers
+T109	Target 10661 10676	Circuit Testers
+T110	Target 10765 10775	EMF Meters
+T111	Target 10864 10877	Multi Testers
+T112	Target 10966 10983	Resistance Meters
+T113	Target 11090 11108	Capacitance Meters
+T114	Target 11215 11239	Ground Resistance Meters
+T115	Target 11346 11374	Insulation Resistance Meters
+T116	Target 11481 11491	LCR Meters
+T117	Target 11580 11595	Voltage Testers
+T118	Target 11665 11680	Moisture Meters
+T119	Target 11848 11860	Stud Finders
+T120	Target 11930 11953	Temperature Controllers
+T121	Target 12023 12045	Temperature Indicators
+T122	Target 12213 12228	Thermal Imagers
+T123	Target 12298 12310	Thermometers
+T124	Target 12393 12410	Dial Thermometers
+T125	Target 12493 12513	Digital Thermometers
+T126	Target 12596 12614	Glass Thermometers
+T127	Target 12697 12718	Infrared Thermometers
+T128	Target 12769 12786	Sound Measurement
+T129	Target 12812 12847	Painting Supplies & Wall Treatments
+T130	Target 12909 12914	Masks
+T131	Target 12976 12989	Paint Brushes
+T132	Target 13051 13064	Paint Rollers
+T133	Target 13126 13140	Paint Sprayers
+T134	Target 13311 13322	House Paint
+T135	Target 13202 13225	Paint, Stain & Solvents
+T136	Target 13408 13433	Paint Thinners & Solvents
+T137	Target 13615 13621	Primer
+T138	Target 13519 13529	Pool Paint
+T139	Target 13707 13718	Spray Paint
+T140	Target 13804 13811	Varnish
+T141	Target 13897 13907	Wood Stain
+T142	Target 14060 14068	Caulking
+T143	Target 14154 14168	Adhesive Caulk
+T144	Target 14254 14272	Fire Barrier Caulk
+T145	Target 14358 14380	High Temperature Caulk
+T146	Target 14466 14477	Latex Caulk
+T147	Target 14563 14573	Rope Caulk
+T148	Target 14659 14673	Silicone Caulk
+T149	Target 14759 14769	Tape Caulk
+T150	Target 14855 14866	Vinyl Caulk
+T151	Target 14943 14956	Caulking Guns
+T152	Target 15033 15045	Masking Tape
+T153	Target 15122 15137	Paint Coveralls
+T154	Target 15214 15226	Paint Gloves
+T155	Target 15303 15329	Paint Strippers & Removers
+T156	Target 15406 15418	Putty Knives
+T157	Target 15495 15504	Sandpaper
+T158	Target 15591 15596	Rolls
+T159	Target 15683 15697	Sanding Blocks
+T160	Target 15784 15790	Sheets
+T161	Target 15867 15885	Surface Protection
+T162	Target 15962 15980	Wallpaper Removers
+T163	Target 16057 16072	Wallpaper Tools
+T164	Target 16134 16145	Respirators
+T165	Target 16219 16235	PAPR Respirators
+T166	Target 16309 16325	SCBA Respirators
+T167	Target 16387 16398	Wall Repair
+T168	Target 16567 16573	Murals
+T169	Target 16658 16671	Wall Stickers
+T170	Target 16733 16742	Wallpaper
+T171	Target 16804 16821	Wallpaper Borders
+T172	Target 16847 16865	Power & Hand Tools
+T173	Target 16986 16990	Axes
+T174	Target 16910 16925	Gardening Tools
+T175	Target 17051 17063	Bonsai Tools
+T176	Target 17137 17151	Bonsai Cutters
+T177	Target 17225 17245	Bonsai Training Wire
+T178	Target 17319 17334	Bonsai Tweezers
+T179	Target 17395 17408	Bulb Planters
+T180	Target 17469 17490	Cultivators & Tillers
+T181	Target 17663 17675	Garden Twine
+T182	Target 17762 17772	Twist Ties
+T183	Target 17833 17844	Hand Edgers
+T184	Target 17905 17909	Hoes
+T185	Target 17970 17977	Loppers
+T186	Target 18038 18046	Machetes
+T187	Target 18107 18127	Manual Lawn Aerators
+T188	Target 18188 18202	Manual Weeders
+T189	Target 18263 18268	Picks
+T190	Target 18329 18339	Pitchforks
+T191	Target 18400 18417	Post Hole Diggers
+T192	Target 18478 18483	Rakes
+T193	Target 18544 18548	Saws

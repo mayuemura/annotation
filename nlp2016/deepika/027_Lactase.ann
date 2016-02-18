@@ -1,0 +1,11 @@
+T1	Target 0 7	Lactase
+T2	Target 49 51	It
+T3	Target 135 142	Lactase
+T4	Target 269 276	lactase
+T5	Target 364 371	Lactase
+T6	Target 197 199	it
+T7	Effect 200 219	breaks down lactose
+T8	Effect 163 195	complete digestion of whole milk
+T9	Version 394 409	food supplement
+T10	MeansOfUse 418 471	added to milk to produce "lactose-free" milk products
+T11	User 280 311	person consuming dairy products

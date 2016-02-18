@@ -1,0 +1,11 @@
+T1	Target 0 9	Tableware
+T2	MeansOfUse 36 85	used for setting a table, serving food and dining
+T3	ComposedOf 17 23	dishes
+T4	ComposedOf 27 35	dishware
+T5	Target 87 89	It
+T6	ComposedOf 99 106	cutlery
+T7	ComposedOf 116 125	glassware
+T8	ComposedOf 127 141	serving dishes
+T9	MeansOfUse 169 209	practical as well as decorative purposes
+T10	Target 433 442	tableware
+T11	Target 564 573	tableware

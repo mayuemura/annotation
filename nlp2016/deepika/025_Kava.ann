@@ -1,0 +1,18 @@
+T1	Target 0 4	Kava
+T2	Target 8 17	kava-kava
+T3	Target 153 164	kava(-kava)
+T4	Target 211 215	kava
+T5	Target 224 232	okinaawa
+T6	Target 248 251	ava
+T7	Target 261 267	yaqona
+T8	Target 276 281	sakau
+T9	Target 297 302	malok
+T10	Target 306 312	malogu
+T12	Target 350 355	plant
+T13	Target 425 429	Kava
+T14	Target 580 584	Kava
+T15	Effect 588 596	sedating
+T16	MeansOfUse 614 665	consumed to relax without disrupting mental clarity
+T11	Effect 389 423	sedative and anesthetic properties
+T17	MeansOfUse 360 383	used to produce a drink
+R1	CONDITION Arg1:T17 Arg2:T11	

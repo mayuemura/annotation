@@ -1,0 +1,11 @@
+T1	Target 0 7	Oregano
+T2	Target 81 83	It
+T3	Target 175 182	Oregano
+T4	Target 264 271	Oregano
+T5	Target 458 460	It
+T6	Target 481 494	wild marjoram
+T7	PartOf 31 39	Origanum
+T8	ComposedOf 41 79	a genus of the mint family (Lamiaceae)
+T9	Effect 198 202	herb
+T10	Version 309 322	mildly acidic
+T11	Version 333 350	strongly alkaline

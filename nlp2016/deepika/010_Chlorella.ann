@@ -1,0 +1,9 @@
+T1	Target 0 9	Chlorella
+T2	Target 90 92	It
+T3	Target 179 188	Chlorella
+T4	Target 297 299	it
+T5	Target 422 431	Chlorella
+T6	Effect 300 318	multiplies rapidly
+T7	Effect 281 295	photosynthesis
+R1	CAUSALITY Arg1:T7 Arg2:T6	
+T8	PartOf 70 88	phylum Chlorophyta

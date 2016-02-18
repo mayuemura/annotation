@@ -1,0 +1,8 @@
+T1	Target 0 10	Probiotics
+T2	Target 99 108	probiotic
+T3	Target 221 225	term
+T4	Effect 51 88	provide health benefits when consumed
+T5	CertaintyOfEffect 39 47	believed
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
+T6	Effect 472 557	modify the flora in our bodies and to replace the harmful microbes by useful microbes
+T7	Target 612 622	probiotics

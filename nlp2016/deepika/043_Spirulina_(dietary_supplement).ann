@@ -1,0 +1,16 @@
+T1	Target 0 9	Spirulina
+T2	MeansOfUse 61 97	consumed by humans and other animals
+T3	Version 122 143	Arthrospira platensis
+T4	Version 148 166	Arthrospira maxima
+T5	MeansOfUse 215 233	dietary supplement
+T6	MeansOfUse 247 257	whole food
+T7	Version 284 290	tablet
+T8	Version 292 297	flake
+T9	Version 302 313	powder form
+T10	Target 315 317	It
+T11	MeansOfUse 336 358	fodder|feed supplement
+T12	User 366 410	aquaculture, aquarium and poultry industries
+T13	Target 168 179	Arthrospira
+T14	ComposedOf 15 48	cyanobacterium (blue-green algae)
+#1	AnnotatorNotes T3	?
+#2	AnnotatorNotes T4	?

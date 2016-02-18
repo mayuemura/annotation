@@ -1,0 +1,19 @@
+T1	Target 2 14	multivitamin
+T2	MeansOfUse 49 67	dietary supplement
+T3	ComposedOf 73 81	vitamins
+T4	ComposedOf 83 99	dietary minerals
+T5	ComposedOf 111 131	nutritional elements
+T6	Version 180 187	tablets
+T7	Version 189 197	capsules
+T8	Version 199 208	pastilles
+T9	Version 210 217	powders
+T10	Version 219 226	liquids
+T11	Version 232 255	injectable formulations
+T12	Target 362 375	multivitamins
+T13	Target 501 513	Multivitamin
+T14	MeansOfUse 548 584	in combination with dietary minerals
+T15	Target 588 600	multivitamin
+T16	Target 601 619	mineral supplement
+T17	ComposedOf 679 758	3 or more vitamins and minerals that does not include herbs, hormones, or drugs
+T18	Location 631 651	in the United States
+T19	Effect 892 941	does not present a risk of adverse health effects

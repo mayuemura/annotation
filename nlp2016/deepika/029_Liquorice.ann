@@ -1,0 +1,14 @@
+T1	Target 0 9	Liquorice
+T2	Target 106 115	liquorice
+T3	Target 14 22	licorice
+T4	Target 327 336	liquorice
+T5	ComposedOf 26 56	the root of Glycyrrhiza glabra
+T7	Target 429 438	liquorice
+T8	Effect 439 490	lends a natural sweetness and a distinctive flavour
+T9	Effect 495 583	makes it easier to inhale the smoke by creating bronchodilators, which open up the lungs
+R1	CAUSALITY Arg1:T8 Arg2:T9	
+T6	MeansOfUse 350 378	flavouring agent for tobacco
+T10	Version 393 418	American blend cigarettes
+R2	CONDITION Arg1:T6 Arg2:T8	
+T11	Target 585 594	Liquorice
+T12	MeansOfUse 621 642	candies or sweeteners

@@ -1,0 +1,31 @@
+T1	Target 2 13	nasal strip
+T2	Target 15 43	external nasal dilator strip
+T3	Target 47 66	nasal dilator strip
+T4	ComposedOf 80 134	adhesive bandage with embedded plastic ribs or splints
+T5	MeansOfUse 143 206	applied across the bridge of the nose and sides of the nostrils
+T6	Effect 211 244	assist in keeping the airway open
+R1	CONDITION Arg1:T5 Arg2:T6	
+T7	Target 246 250	They
+T8	Effect 267 288	make breathing easier
+T10	MeansOfUse 328 352	during athletic exertion
+T11	User 321 327	humans
+T12	Effect 370 387	reduce congestion
+T13	Effect 394 409	prevent snoring
+R3	CAUSALITY Arg1:T12 Arg2:T13	
+R4	CONDITION Arg1:T11 Arg2:T8	
+T14	Effect 463 484	performance-enhancing
+T15	CertaintyOfEffect 411 445	Various studies have not indicated
+R5	EFFECT_MODIFIER Arg1:T15 Arg2:T14	
+T16	Target 451 455	they
+T17	Target 493 497	They
+T19	Target 566 570	they
+T20	Effect 586 677	reduce airway resistance and lower the risk of exercise-induced pulmonary hemorrhage (EIPH)
+T21	Effect 684 725	reduce fatigue and aid post-race recovery
+T9	CertaintyOfEffect 255 266	believed to
+R2	EFFECT_MODIFIER Arg1:T9 Arg2:T8	
+T22	CertaintyOfEffect 575 585	thought to
+R6	EFFECT_MODIFIER Arg1:T22 Arg2:T20	
+R7	EFFECT_MODIFIER Arg1:T22 Arg2:T21	
+T18	User 538 544	horses
+R8	CONDITION Arg1:T18 Arg2:T20	
+R9	CONDITION Arg1:T18 Arg2:T21	

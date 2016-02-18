@@ -1,0 +1,16 @@
+T1	Target 0 8	Orlistat
+T2	Effect 50 54	drug
+T3	MeansOfUse 67 80	treat obesity
+T4	Target 82 84	It
+T5	Target 290 293	Its
+T6	Target 434 436	It
+T7	Target 540 548	Orlistat
+T8	Version 141 148	Xenical
+T9	Version 221 225	Alli
+T10	Effect 314 367	preventing the absorption of fats from the human diet
+T11	Effect 371 399	acting as a lipase inhibitor
+T12	Effect 409 432	reducing caloric intake
+R1	CAUSALITY Arg1:T11 Arg2:T10	
+R2	CAUSALITY Arg1:T10 Arg2:T12	
+T13	MeansOfUse 457 538	in conjunction with a healthcare provider-supervised dieting|reduced-calorie diet
+T14	Target 24 43	tetrahydrolipstatin
