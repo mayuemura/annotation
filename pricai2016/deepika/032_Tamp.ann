@@ -1,0 +1,6 @@
+T1	Target 2 6	tamp
+T2	Effect 27 99	compact or flatten an aggregate or another powdered or granular material
+T3	Effect 114 154	make it resistant to further compression
+T4	Effect 158 188	simply to increase its density
+T5	DegreeOfEffect 101 110	typically
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T3	

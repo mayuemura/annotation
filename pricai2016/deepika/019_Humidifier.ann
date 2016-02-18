@@ -1,0 +1,17 @@
+T1	Target 2 12	humidifier
+T2	Effect 30 59	increases humidity (moisture)
+T3	Location 60 98	in a single room or an entire building
+T4	Version 113 137	point-of-use humidifiers
+T5	Effect 159 181	humidify a single room
+T6	Version 189 223	whole-house or furnace humidifiers
+T7	Effect 264 300	provide humidity to the entire house
+R1	CONDITION Arg1:T6 Arg2:T7	
+R2	CONDITION Arg1:T4 Arg2:T5	
+T8	Target 336 347	humidifiers
+T9	Effect 370 377	comfort
+T10	Location 302 321	Medical ventilators
+R3	CONDITION Arg1:T10 Arg2:T9	
+T11	DegreeOfEffect 352 361	increased
+R4	EFFECT_MODIFIER Arg1:T11 Arg2:T9	
+T12	Version 379 396	Large humidifiers
+T13	User 409 458	commercial, institutional, or industrial contexts

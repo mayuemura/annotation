@@ -1,0 +1,22 @@
+T1	Target 4 14	phonograph
+T2	MeansOfUse 44 98	for the mechanical recording and reproduction of sound
+T3	Target 103 106	its
+T4	Target 119 121	it
+T5	Target 139 149	gramophone
+T6	Effect 216 254	sound vibration waveforms are recorded
+T7	Effect 272 398	physical deviations of a spiral groove engraved, etched, incised, or impressed into the surface of a rotating cylinder or disc
+R1	CAUSALITY Arg1:T7 Arg2:T6	
+T8	Target 409 419	gramophone
+T12	Effect 579 587	vibrated
+T13	DegreeOfEffect 595 607	very faintly
+T14	Effect 608 638	reproducing the recorded sound
+T15	Version 649 669	acoustic phonographs
+T9	Effect 453 561	the surface is similarly rotated while a playback Stylus#Use in music recording and stylus traces the groove
+R2	CAUSALITY Arg1:T9 Arg2:T12	
+R3	EFFECT_MODIFIER Arg1:T13 Arg2:T14	
+R4	CAUSALITY Arg1:T12 Arg2:T14	
+T10	Effect 719 739	produced sound waves
+T16	Effect 751 877	coupled to the open air through a flaring acoustic horn, or directly to the listener's ears through stethoscope-type earphones
+R5	CONDITION Arg1:T15 Arg2:T10	
+R6	CAUSALITY Arg1:T10 Arg2:T16	
+R7	CONDITION Arg1:T15 Arg2:T16	

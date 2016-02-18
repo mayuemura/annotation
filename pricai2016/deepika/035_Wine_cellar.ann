@@ -1,0 +1,23 @@
+T1	Target 2 13	wine cellar
+T2	MeansOfUse 32 122	for wine in bottles or barrels, or more rarely in carboys, amphorae, or plastic containers
+T3	Effect 19 31	storage room
+T4	Target 137 148	wine cellar
+T5	Effect 176 215	temperature and humidity are maintained
+T6	Effect 221 243	climate control system
+R1	CAUSALITY Arg1:T6 Arg2:T5	
+T7	Version 258 278	passive wine cellars
+T8	Effect 283 305	not climate-controlled
+T9	Effect 344 369	reduce temperature swings
+R2	CONDITION Arg1:T7 Arg2:T8	
+R3	CONDITION Arg1:T7 Arg2:T9	
+T10	MeansOfUse 315 340	usually built underground
+R4	CONDITION Arg1:T10 Arg2:T9	
+T12	Target 416 425	wine room
+T13	Target 441 452	wine cellar
+T14	Version 500 511	wine closet
+T11	Version 374 397	aboveground wine cellar
+T15	Version 634 649	buttery buttery
+T16	Effect 558 591	storage, care and service of wine
+R5	CONDITION Arg1:T15 Arg2:T16	
+T17	Time 592 618	in a great mediaeval house
+R6	CONDITION Arg1:T17 Arg2:T16	

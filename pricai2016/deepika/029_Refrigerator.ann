@@ -1,0 +1,21 @@
+T1	Target 2 14	refrigerator
+T2	Target 29 35	fridge
+T3	Effect 67 77	ubiquitous
+T4	ComposedOf 117 164	thermally insulated compartment and a heat pump
+T5	Effect 207 279	transfers heat from the inside of the fridge to its external environment
+T6	Effect 292 381	inside of the fridge is cooled to a temperature below the ambient temperature of the room
+R1	CAUSALITY Arg1:T5 Arg2:T6	
+T7	Effect 413 435	food storage technique
+T8	Location 436 458	in developed countries
+R2	CONDITION Arg1:T8 Arg2:T7	
+T9	Effect 482 522	lowers the reproduction rate of bacteria
+T10	Target 531 543	refrigerator
+T11	Effect 544 572	reduces the rate of spoilage
+R3	CAUSALITY Arg1:T9 Arg2:T11	
+T12	Target 576 588	refrigerator
+T13	Effect 589 660	maintains a temperature a few degrees above the freezing point of water
+T14	Effect 703 715	food storage
+T15	MeansOfUse 719 736	convert 3 to 5 °C
+T16	DegreeOfEffect 692 702	perishable
+R4	EFFECT_MODIFIER Arg1:T16 Arg2:T14	
+R5	CONDITION Arg1:T15 Arg2:T14	

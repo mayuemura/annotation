@@ -1,0 +1,21 @@
+T1	Target 0 6	Coffee
+T2	ComposedOf 39 59	roasted coffee beans
+T3	ComposedOf 75 123	seeds of epigynous berries from the Coffea plant
+T4	Target 278 284	coffee
+T5	Version 473 480	arabica
+T6	Effect 495 508	sophisticated
+T7	DegreeOfEffect 490 494	less
+T8	Effect 513 521	stronger
+T9	Effect 531 536	hardy
+T10	DegreeOfEffect 526 530	more
+R1	EFFECT_MODIFIER Arg1:T7 Arg2:T6	
+R2	EFFECT_MODIFIER Arg1:T10 Arg2:T9	
+T11	Version 537 544	robusta
+R3	CONDITION Arg1:T11 Arg2:T9	
+R4	CONDITION Arg1:T11 Arg2:T8	
+R5	CONDITION Arg1:T11 Arg2:T6	
+T12	Effect 464 472	regarded
+T13	DegreeOfEffect 457 463	highly
+R6	EFFECT_MODIFIER Arg1:T13 Arg2:T12	
+R7	CONDITION Arg1:T5 Arg2:T12	
+T14	Target 557 563	coffee

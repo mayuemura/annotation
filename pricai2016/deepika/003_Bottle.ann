@@ -1,0 +1,18 @@
+T1	Target 2 8	bottle
+T2	Target 193 200	Bottles
+T3	ComposedOf 219 224	glass
+T4	ComposedOf 226 230	clay
+T5	ComposedOf 232 239	plastic
+T6	ComposedOf 241 250	aluminium
+T7	ComposedOf 254 280	other impervious materials
+T9	Target 477 483	bottle
+T10	Target 566 572	bottle
+T11	Target 777 784	Bottles
+T12	MeansOfUse 789 856	often recycled according to the SPI recycling code for the material
+T13	Target 651 657	bottle
+T8	Effect 304 414	store liquids such as water, milk, soft drinks, beer, wine, cooking oil, medicine, shampoo, ink, and chemicals
+R1	CONDITION Arg1:T3 Arg2:T8	
+R2	CONDITION Arg1:T4 Arg2:T8	
+R3	CONDITION Arg1:T5 Arg2:T8	
+R4	CONDITION Arg1:T6 Arg2:T8	
+R5	CONDITION Arg1:T7 Arg2:T8	

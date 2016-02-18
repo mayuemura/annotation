@@ -1,0 +1,6 @@
+T1	Target 3 18	washing machine
+T2	Target 20 35	laundry machine
+T3	Target 37 51	clothes washer
+T4	Target 56 62	washer
+T5	Effect 85 130	wash laundry, such as clothing and bed sheets
+T6	Effect 176 319	use water as opposed to dry cleaning (which uses alternative cleaning fluids, and is performed by specialist businesses) or ultrasonic cleaners

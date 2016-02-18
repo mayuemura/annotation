@@ -1,0 +1,10 @@
+T1	Target 3 19	espresso machine
+T2	Effect 20 32	brews coffee
+T3	Effect 36 80	forcing pressurized water near boiling point
+T4	MeansOfUse 137 192	to produce a thick, concentrated coffee called espresso
+R1	CAUSALITY Arg1:T3 Arg2:T2	
+R2	CONDITION Arg1:T4 Arg2:T2	
+T5	Target 204 211	machine
+T6	Target 424 441	espresso machines
+T7	ComposedOf 601 610	grouphead
+T8	ComposedOf 617 628	portafilter

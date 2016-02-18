@@ -1,0 +1,34 @@
+T1	Target 2 8	window
+T2	Effect 61 132	allows the passage of light and, if not closed or sealed, air and sound
+T3	Effect 15 55	opening in a wall, door, roof or vehicle
+R1	CAUSALITY Arg1:T3 Arg2:T2	
+T4	Version 134 148	Modern windows
+T5	Target 251 258	Windows
+T6	Target 288 295	Windows
+T7	Effect 309 359	latch or similar mechanism to lock the window shut
+T8	Version 379 393	eyebrow window
+T9	Version 395 408	fixed windows
+T10	Version 410 421	single-hung
+T11	Version 426 450	double-hung sash windows
+T12	Version 452 483	horizontal sliding sash windows
+T13	Version 485 501	casement windows
+T14	Version 503 517	awning windows
+T15	Version 519 533	hopper windows
+T16	Version 535 539	tilt
+T17	Version 544 576	slide windows (often door-sized)
+T18	Version 578 599	tilt and turn windows
+T19	Version 601 616	transom windows
+T20	Version 618 635	sidelight windows
+T21	Version 637 665	jalousie or louvered windows
+T22	Version 667 685	clerestory windows
+T23	Version 687 696	skylights
+T24	Version 698 710	roof windows
+T25	Version 712 725	roof lanterns
+T26	Version 727 738	bay windows
+T27	Version 740 753	oriel windows
+T28	Version 755 786	thermal, or Diocletian, windows
+T29	Version 788 803	picture windows
+T30	Version 805 827	emergency exit windows
+T31	Version 829 850	stained glass windows
+T32	Version 852 866	French windows
+T33	Version 872 904	double- and triple paned windows

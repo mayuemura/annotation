@@ -1,0 +1,17 @@
+T1	Target 2 16	microwave oven
+T2	Target 44 53	microwave
+T3	Effect 83 103	heats and cooks food
+T4	Effect 107 173	exposing it to electromagnetic radiation in the microwave spectrum
+R1	CAUSALITY Arg1:T4 Arg2:T3	
+T5	Effect 180 252	induces polar molecules in the food to rotate and produce thermal energy
+R2	CAUSALITY Arg1:T4 Arg2:T5	
+R3	CAUSALITY Arg1:T5 Arg2:T3	
+T6	Target 295 310	Microwave ovens
+T7	Effect 311 321	heat foods
+T8	Time 322 329	quickly
+T9	DegreeOfEffect 334 345	efficiently
+R4	EFFECT_MODIFIER Arg1:T9 Arg2:T7	
+R5	CONDITION Arg1:T8 Arg2:T7	
+T10	Effect 468 505	food is more evenly heated throughout
+T11	Version 653 674	modern microwave oven
+T13	Target 765 767	it

@@ -1,0 +1,17 @@
+T1	Target 2 20	chemical substance
+T2	Target 111 113	It
+T3	Target 221 240	Chemical substances
+T4	Target 303 322	Chemical substances
+T5	Target 402 420	chemical substance
+T7	ComposedOf 248 265	chemical elements
+T8	ComposedOf 267 285	chemical compounds
+T9	ComposedOf 287 291	ions
+T10	ComposedOf 295 301	alloys
+T6	Effect 50 109	constant chemical composition and characteristic properties
+T11	Effect 453 468	same properties
+T12	Effect 477 509	same ratio of hydrogen to oxygen
+T13	Target 518 520	it
+T14	Target 442 444	it
+T15	MeansOfUse 524 569	isolated from a river or made in a laboratory
+R1	CONDITION Arg1:T15 Arg2:T12	
+R2	CONDITION Arg1:T15 Arg2:T11	

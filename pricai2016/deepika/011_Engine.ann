@@ -1,0 +1,31 @@
+T1	Target 3 9	engine
+T2	Target 13 18	motor
+T3	MeansOfUse 41 100	to convert one form of energy into Motion mechanical energy
+T4	Version 102 114	Heat engines
+T5	Version 126 153	internal combustion engines
+T6	Version 158 185	external combustion engines
+T7	Version 195 208	steam engines
+T8	Effect 211 237	burn a fuel to create heat
+T9	Effect 250 265	creates a force
+R1	CAUSALITY Arg1:T8 Arg2:T9	
+R2	CONDITION Arg1:T4 Arg2:T8	
+R3	CONDITION Arg1:T5 Arg2:T8	
+R4	CONDITION Arg1:T6 Arg2:T8	
+R5	CONDITION Arg1:T7 Arg2:T8	
+T10	Version 267 282	Electric motors
+T11	Effect 283 339	convert electrical energy into machine mechanical motion
+R6	CONDITION Arg1:T10 Arg2:T11	
+T12	Version 341 357	pneumatic motors
+T13	Effect 358 376	use compressed air
+R7	CONDITION Arg1:T12 Arg2:T13	
+T14	Version 396 412	clockwork motors
+T15	Effect 429 447	use elastic energy
+R8	CONDITION Arg1:T14 Arg2:T15	
+T16	Version 472 488	molecular motors
+T17	Effect 515 551	use chemical energy to create forces
+T18	Time 556 566	eventually
+T19	Effect 567 573	motion
+R9	CONDITION Arg1:T18 Arg2:T19	
+T20	Location 449 470	In biological systems
+R10	CONDITION Arg1:T20 Arg2:T17	
+R11	CONDITION Arg1:T16 Arg2:T17	

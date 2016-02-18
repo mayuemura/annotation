@@ -1,0 +1,22 @@
+T1	Target 2 15	kitchen stove
+T2	Target 34 39	stove
+T3	Target 81 86	range
+T4	Target 88 94	cooker
+T5	Target 99 103	oven
+T6	MeansOfUse 136 167	for the purpose of cooking food
+T7	Target 169 183	Kitchen stoves
+T8	MeansOfUse 275 285	for baking
+T9	Target 319 325	stoves
+T10	Effect 364 409	source of more efficient and reliable heating
+T11	MeansOfUse 457 468	for cooking
+T12	Version 500 514	kitchen stoves
+R1	CONDITION Arg1:T12 Arg2:T10	
+R2	CONDITION Arg1:T11 Arg2:T10	
+T14	Version 660 679	stand-alone cookers
+T13	Target 649 655	cooker
+T15	Target 794 807	kitchen stove
+T16	Target 695 701	Cooker
+T17	Target 706 711	stove
+T18	MeansOfUse 722 742	used interchangeably
+T19	Version 747 765	fuel-burning stove
+T20	Target 689 693	them

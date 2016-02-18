@@ -1,0 +1,7 @@
+T1	Target 2 8	handle
+T2	PartOf 44 84	object that can be moved or used by hand
+T3	Target 113 119	handle
+T4	Target 230 237	Handles
+T5	Effect 289 345	enabling the user to exploit the tools to maximum effect
+T6	MeansOfUse 238 247	for tools
+R1	CONDITION Arg1:T6 Arg2:T5	

@@ -1,0 +1,13 @@
+T1	Target 0 9	Panelling
+T2	Target 14 22	paneling
+T3	ComposedOf 81 111	rigid or semi-rigid components
+T4	Effect 41 63	millwork wall covering
+T5	Target 113 118	These
+T6	Effect 137 154	interlocking wood
+T7	ComposedOf 169 176	plastic
+T8	ComposedOf 180 195	other materials
+T9	Time 123 136	traditionally
+T10	Target 197 206	Panelling
+T11	Effect 311 348	insulate the room from the cold stone
+T12	Target 381 390	panelling
+T13	MeansOfUse 414 433	decorative purposes

@@ -1,0 +1,14 @@
+T1	Target 2 11	compactor
+T2	Effect 46 143	reduce the size of material such as waste material or bio mass through Soil compaction|compaction
+T3	Version 147 162	trash compactor
+T4	User 182 198	home or business
+T5	Effect 202 228	reduce the volume of trash
+R1	CONDITION Arg1:T3 Arg2:T5	
+R2	CONDITION Arg1:T4 Arg2:T5	
+T6	Version 232 255	baler-wrapper compactor
+T7	MeansOfUse 270 306	for making compact and wrapped bales
+T8	Effect 319 336	improve logistics
+R3	CONDITION Arg1:T7 Arg2:T8	
+R4	CONDITION Arg1:T6 Arg2:T8	
+T9	Target 389 399	compactors
+T10	Version 505 540	waste compaction|landfill compactor

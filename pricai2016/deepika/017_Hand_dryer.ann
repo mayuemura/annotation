@@ -1,0 +1,6 @@
+T1	Target 0 11	Hand dryers
+T2	Effect 76 85	dry hands
+T3	Location 39 58	in public washrooms
+T4	Target 87 91	They
+T5	MeansOfUse 103 124	operate with a button
+T6	MeansOfUse 128 166	automatically using an infrared sensor

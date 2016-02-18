@@ -1,0 +1,18 @@
+T1	Target 2 11	blowdryer
+T2	Target 15 25	hair dryer
+T3	Target 185 195	Blowdryers
+T4	Effect 69 107	blow normal or hot air over  damp hair
+T5	Effect 121 183	accelerate the evaporation of water particles and dry the hair
+R1	CAUSALITY Arg1:T4 Arg2:T5	
+T6	Effect 196 249	allow better control over the shape and style of hair
+T7	Effect 254 343	accelerating and controlling the formation of temporary hydrogen bonds inside each strand
+R2	CAUSALITY Arg1:T7 Arg2:T6	
+T8	Effect 385 419	allowing for stronger hair shaping
+R3	CAUSALITY Arg1:T7 Arg2:T8	
+T9	Target 608 618	blowdryers
+T10	Effect 627 653	have volume and discipline
+T12	Time 732 745	during drying
+T13	Effect 749 775	add tension, hold and lift
+T11	MeansOfUse 676 731	improved by the use of styling products and hairbrushes
+R4	CONDITION Arg1:T11 Arg2:T13	
+R5	CONDITION Arg1:T12 Arg2:T13	

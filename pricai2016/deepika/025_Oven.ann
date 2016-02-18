@@ -1,0 +1,11 @@
+T1	Target 3 7	oven
+T2	Effect 13 32	thermally insulated
+T3	MeansOfUse 46 94	for the heating, baking or drying of a substance
+T4	MeansOfUse 119 130	for cooking
+T5	Version 132 137	Kilns
+T6	Version 142 150	furnaces
+T7	Target 171 176	ovens
+T8	Effect 155 170	special-purpose
+T9	MeansOfUse 178 210	used in pottery and metalworking
+R1	CONDITION Arg1:T6 Arg2:T8	
+R2	CONDITION Arg1:T5 Arg2:T8	

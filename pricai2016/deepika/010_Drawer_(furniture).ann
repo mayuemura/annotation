@@ -1,0 +1,5 @@
+T1	Target 2 8	drawer
+T2	Effect 40 70	fits into a piece of furniture
+T3	Target 90 92	it
+T4	Effect 93 144	can be drawn out horizontally to reach its contents
+R1	CAUSALITY Arg1:T2 Arg2:T4	

@@ -1,0 +1,11 @@
+T1	Target 2 15	coffee filter
+T2	Effect 21 43	coffee-brewing utensil
+T3	ComposedOf 61 77	disposable paper
+T4	Target 92 94	it
+T5	Effect 98 165	trap the coffee grounds and allow the liquid coffee to flow through
+T6	Version 167 180	Paper filters
+T7	Effect 181 221	remove oily components called diterpenes
+T8	Version 329 356	Metal or nylon mesh filters
+T9	Effect 357 387	do not remove these components
+R1	CONDITION Arg1:T8 Arg2:T9	
+R2	CONDITION Arg1:T6 Arg2:T7	

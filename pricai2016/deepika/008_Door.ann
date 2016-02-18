@@ -1,0 +1,20 @@
+T1	Target 2 6	door
+T3	Effect 12 28	moving structure
+T4	User 123 142	building or vehicle
+T2	MeansOfUse 34 80	to block off, and allow access to, an entrance
+T5	Location 81 111	to or within an enclosed space
+R1	CONDITION Arg1:T5 Arg2:T3	
+R2	CONDITION Arg1:T4 Arg2:T3	
+R3	CONDITION Arg1:T2 Arg2:T3	
+T6	Version 183 188	gates
+T7	Target 201 206	doors
+T8	Effect 234 261	faces the inside of a space
+T9	Effect 288 319	faces the outside of that space
+T10	Target 364 368	door
+T11	Target 497 501	door
+T12	Target 503 508	Doors
+T13	Effect 542 558	swings on hinges
+T14	Effect 567 600	slides or spins inside of a space
+T15	ComposedOf 531 536	panel
+R4	CONDITION Arg1:T15 Arg2:T13	
+R5	CONDITION Arg1:T15 Arg2:T14	

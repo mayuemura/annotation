@@ -1,0 +1,8 @@
+T1	Target 0 16	Building materia
+T2	MeansOfUse 48 73	for construction purposes
+T3	ComposedOf 120 124	clay
+T4	ComposedOf 126 131	rocks
+T5	ComposedOf 133 137	sand
+T6	ComposedOf 143 147	wood
+T7	ComposedOf 154 170	twigs and leaves
+T8	Target 342 360	building materials

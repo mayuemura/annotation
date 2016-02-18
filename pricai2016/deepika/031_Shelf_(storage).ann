@@ -1,0 +1,22 @@
+T1	Target 2 7	shelf
+T2	MeansOfUse 44 89	used in a home, business, store, or elsewhere
+T3	Effect 93 166	hold items of value that are being displayed, stored, or offered for sale
+T4	Target 168 170	It
+T5	Target 268 270	It
+T6	Target 315 320	shelf
+T7	Target 340 347	counter
+T8	Target 349 354	ledge
+T9	Target 356 362	mantel
+T10	Target 367 371	rack
+T11	Version 449 463	console tables
+T12	Effect 427 434	mounted
+T13	DegreeOfEffect 418 426	possibly
+R1	EFFECT_MODIFIER Arg1:T13 Arg2:T12	
+R2	CONDITION Arg1:T11 Arg2:T12	
+T14	MeansOfUse 389 416	to be placed against a wall
+T15	Target 506 511	shelf
+T16	MeansOfUse 512 563	can be attached to a wall or other vertical surface
+T17	MeansOfUse 568 592	suspended from a ceiling
+T18	MeansOfUse 599 633	part of a free-standing frame unit
+T19	MeansOfUse 648 676	part of a piece of furniture
+T20	MeansOfUse 687 762	cabinet cabinet, bookcase, entertainment center, some headboards, and so on
