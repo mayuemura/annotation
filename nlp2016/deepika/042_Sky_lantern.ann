@@ -15,5 +15,5 @@ T14	Version 549 571	fire balloon munitions
 T16	Effect 608 650	the flame heats the air inside the lantern
 T17	Effect 657 722	lowering its density and causing the lantern to rise into the air
 R2	CAUSALITY Arg1:T16 Arg2:T17	
-T15	MeansOfUse 603 606	lit
+T15	Time 598 606	When lit
 R1	CONDITION Arg1:T15 Arg2:T16	

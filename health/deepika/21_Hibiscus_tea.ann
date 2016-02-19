@@ -4,4 +4,3 @@ T4	Target 149 151	It
 T5	MeansOfUse 155 181	consumed both hot and cold
 T3	Effect 18 24	herbal
 R1	CONDITION Arg1:T2 Arg2:T3	
-#1	AnnotatorNotes T3	Effect?

@@ -1,0 +1,5 @@
+A particle accelerator is a machine that uses electromagnetic fields to propel charged particles to nearly light speed and to contain them in well-defined perticle beams.
+Large accelerators are best known for their use in particle physics as colliders (e.g. the Large Hadron LHC at CERN, Relativistic Heavy Ion RHIC at Brookhaven National Laboratory, and Tevatron at Fermilab).
+Other kinds of particle accelerators are used in a large variety of applications, including particle therapy for oncological purposes, and as synchrotron light sources for the study of condensed matter physics.
+There are currently more than 30,000 accelerators in operation around the world.
+There are two basic classes of accelerators: electrostatic and oscillating field accelerators.

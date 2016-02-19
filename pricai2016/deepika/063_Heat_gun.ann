@@ -1,0 +1,8 @@
+T1	Target 2 10	heat gun
+T2	Effect 31 117	emit a stream of hot air, usually at temperatures between 100°C and 550°C (200-1000°F)
+T3	Version 129 142	hotter models
+T4	Effect 143 172	running around 760°C (1400°F)
+T5	MeansOfUse 180 199	can be held by hand
+R1	CONDITION Arg1:T3 Arg2:T4	
+R2	CONDITION Arg1:T5 Arg2:T4	
+T6	Target 201 210	Heat guns

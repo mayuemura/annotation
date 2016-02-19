@@ -1,0 +1,5 @@
+T1	Target 2 14	food steamer
+T2	Target 18 30	steam cooker
+T3	Effect 68 113	cook or prepare various foods with steam heat
+T4	Effect 126 226	holding the food in a sealed vessel that limits the escape of air or liquids below a preset pressure
+R1	CAUSALITY Arg1:T4 Arg2:T3	

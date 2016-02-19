@@ -1,0 +1,10 @@
+T1	Target 2 9	caliper
+T2	Target 25 33	calliper
+T3	Target 62 80	a pair of calipers
+T4	Effect 102 162	measure the distance between two opposite sides of an object
+T5	Target 166 173	caliper
+T6	ComposedOf 196 248	compass compass with inward or outward-facing points
+T7	MeansOfUse 250 355	The tips of the caliper are adjusted to fit across the points to be measured, the caliper is then removed
+T8	MeansOfUse 360 446	the distance read by measuring between the tips with a measuring tool, such as a ruler
+T9	Target 448 450	It
+T10	User 483 564	mechanical engineering, metalworking, forestry, woodworking, science and medicine

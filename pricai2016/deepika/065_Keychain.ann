@@ -1,0 +1,21 @@
+T1	Target 2 10	keychain
+T2	Target 14 23	key chain
+T3	ComposedOf 60 65	metal
+T4	ComposedOf 69 76	plastic
+T5	Effect 83 117	connects a small item to a keyring
+T6	Target 135 143	keychain
+T7	Effect 144 221	allows an item to be used more easily than if connected directly to a keyring
+T8	Target 228 237	keychains
+T9	Effect 238 282	allow one or both ends the ability to rotate
+T10	Effect 284 326	keeping the keychain from becoming twisted
+T11	Time 328 356	while the item is being used
+R1	CAUSALITY Arg1:T9 Arg2:T10	
+R2	CONDITION Arg1:T11 Arg2:T9	
+T12	Target 360 368	keychain
+T13	Effect 369 451	can also be a connecting link between a keyring and the belt belt of an individual
+T14	Target 453 455	It
+T15	User 479 527	personnel whose job demands frequent use of keys
+T16	User 539 553	security guard
+T17	User 555 569	prison officer
+T18	User 571 578	janitor
+T19	User 583 603	retail store manager

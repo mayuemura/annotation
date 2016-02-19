@@ -1,0 +1,22 @@
+T1	Target 2 13	black light
+T2	Target 37 47	UV-A light
+T3	Target 49 61	Wood's light
+T4	Target 73 90	ultraviolet light
+T5	Effect 113 181	emits short wave (UV-A) ultraviolet light and not much visible light
+T6	Target 187 191	lamp
+T7	ComposedOf 198 220	violet filter material
+T8	Effect 299 346	blocks most visible light and allows through UV
+T9	Effect 351 381	the lamp has a dim violet glow
+R1	CAUSALITY Arg1:T8 Arg2:T9	
+T10	Time 382 396	when operating
+R2	CONDITION Arg1:T10 Arg2:T9	
+T12	Version 398 415	Black light bulbs
+T13	Version 555 566	black light
+T14	Effect 568 626	produces ultraviolet but does not have the filter material
+T15	Effect 634 697	produces more visible light and has a blue color when operating
+T16	Version 631 633	it
+R3	CONDITION Arg1:T13 Arg2:T14	
+R4	CAUSALITY Arg1:T14 Arg2:T15	
+R5	CONDITION Arg1:T16 Arg2:T14	
+T11	MeansOfUse 229 258;259 291	on the bulb1 or in a separate glass filter in the lamp housing
+R6	CONDITION Arg1:T11 Arg2:T8	

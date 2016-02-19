@@ -1,0 +1,32 @@
+T1	Target 70 90	electrical connector
+T2	MeansOfUse 123 208	for joining electrical circuits as an interface interface using a mechanical assembly
+T3	Target 210 220	Connectors
+T4	ComposedOf 232 250	plugs (male-ended)
+T5	ComposedOf 255 275	jacks (female-ended)
+T6	Target 281 291	connection
+T7	MeansOfUse 337 376	require a tool for assembly and removal
+T10	DegreeOfEffect 299 308	temporary
+T8	Effect 381 447	serve as a permanent electrical joint between two wires or devices
+R1	EFFECT_MODIFIER Arg1:T10 Arg2:T8	
+R2	CONDITION Arg1:T7 Arg2:T8	
+T9	MeansOfUse 449 523	An adapter can be used to effectively bring together dissimilar connectors
+T11	Target 578 588	Connectors
+T12	Effect 593 642	join two lengths of flexible copper wire or cable
+T13	CertaintyOfEffect 589 592	may
+R3	EFFECT_MODIFIER Arg1:T13 Arg2:T12	
+T14	Effect 647 705	connect a wire or cable to an electrical Terminal terminal
+R4	EFFECT_MODIFIER Arg1:T13 Arg2:T14	
+T15	MeansOfUse 706 718	In computing
+T16	Version 723 743	electrical connector
+T17	Version 767 785	physical interface
+T18	Version 839 851	Cable glands
+T19	Version 862 878	cable connectors
+T20	Effect 890 952	connect wires to devices mechanically rather than electrically
+T21	Effect 961 1014	distinct from quick-disconnects performing the latter
+T22	Location 879 888	in the US
+R5	CONDITION Arg1:T19 Arg2:T20	
+R6	CONDITION Arg1:T19 Arg2:T21	
+R7	CONDITION Arg1:T18 Arg2:T20	
+R8	CONDITION Arg1:T18 Arg2:T21	
+R9	CONDITION Arg1:T22 Arg2:T20	
+R10	CONDITION Arg1:T22 Arg2:T21	

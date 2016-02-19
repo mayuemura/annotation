@@ -1,0 +1,17 @@
+T1	Target 0 12	Masking tape
+T2	Target 28 39	sticky tape
+T3	Effect 54 72	pressure-sensitive
+T4	ComposedOf 88 115	thin and easy-to-tear paper
+T5	ComposedOf 124 167	easily released pressure-sensitive adhesive
+R1	CONDITION Arg1:T5 Arg2:T3	
+R2	CONDITION Arg1:T4 Arg2:T3	
+T6	Target 169 171	It
+T7	Target 209 211	It
+T8	Version 190 207	variety of widths
+T9	MeansOfUse 215 301	used mainly in painting, to Masking (in art)|mask off areas that should not be painted
+T10	Target 338 341	its
+T11	Effect 360 444	allows the tape to be easily removed without leaving residue or damaging the surface
+T12	Version 524 573	1–100 scale based on the strength of the adhesive
+T13	Target 473 477	tape
+T14	ComposedOf 307 315	adhesive
+R3	CONDITION Arg1:T14 Arg2:T11	

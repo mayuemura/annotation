@@ -7,7 +7,7 @@ T6	Effect 211 244	assist in keeping the airway open
 R1	CONDITION Arg1:T5 Arg2:T6	
 T7	Target 246 250	They
 T8	Effect 267 288	make breathing easier
-T10	MeansOfUse 328 352	during athletic exertion
+T10	Time 328 352	during athletic exertion
 T11	User 321 327	humans
 T12	Effect 370 387	reduce congestion
 T13	Effect 394 409	prevent snoring
@@ -29,3 +29,5 @@ R7	EFFECT_MODIFIER Arg1:T22 Arg2:T21
 T18	User 538 544	horses
 R8	CONDITION Arg1:T18 Arg2:T20	
 R9	CONDITION Arg1:T18 Arg2:T21	
+#1	AnnotatorNotes T10	Time
+R10	CONDITION Arg1:T10 Arg2:T8	

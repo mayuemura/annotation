@@ -1,0 +1,23 @@
+T1	Target 2 12	disco ball
+T2	Target 30 41	mirror ball
+T3	Target 45 57	glitter ball
+T4	ComposedOf 72 88	spherical object
+T5	Effect 94 142	reflects light directed at it in many directions
+T6	Effect 144 171	producing a complex display
+R1	CAUSALITY Arg1:T5 Arg2:T6	
+T7	Target 173 176	Its
+T8	ComposedOf 197 228	hundreds or thousands of facets
+T9	ComposedOf 258 281	the same shape and size
+T10	ComposedOf 299 317	a mirrored surface
+T11	Target 327 329	it
+T12	Location 346 383	above the heads of the people present
+T13	Effect 502 634	stationary viewers experience beams of light flashing over them, and see myriad spots of light spinning around the walls of the room
+T14	MeansOfUse 385 461	suspended from a device that causes it to rotate steadily on a vertical axis
+T15	MeansOfUse 467 492	illuminated by spotlights
+R2	CONDITION Arg1:T14 Arg2:T13	
+R3	CONDITION Arg1:T15 Arg2:T13	
+R4	CONDITION Arg1:T12 Arg2:T13	
+T16	Target 667 678	disco balls
+T17	Location 706 716	nightclubs
+T18	Target 731 735	They
+T19	Location 815 829	ballroom dance

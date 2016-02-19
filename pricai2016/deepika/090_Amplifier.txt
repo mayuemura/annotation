@@ -1,0 +1,5 @@
+An amplifier, electronic amplifier or (informally) amp is an electronic device that can increase the power of a signal.
+It does this by taking energy from a power supply and controlling the output to match the input signal shape but with a larger amplitude.
+In this sense, an amplifier modulates the output of the power supply to make the output signal stronger than the input signal.
+An amplifier is effectively the opposite of an attenuator attenuator: while an amplifier provides gain gain, an attenuator provides loss.
+An amplifier can either be a separate piece of equipment or an electrical circuit within another device.

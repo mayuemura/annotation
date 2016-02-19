@@ -1,0 +1,15 @@
+T1	Target 2 12	respirator
+T2	Effect 37 108	protect the wearer from inhaling harmful dusts, fumes, vapors, or gases
+T3	Target 110 121	Respirators
+T4	User 174 182	military
+T5	User 184 200	private industry
+T6	User 206 216	the public
+T7	Target 218 229	Respirators
+T8	Version 252 292	inexpensive single-use, disposable masks
+T9	Version 301 351	robust reusable models with replaceable cartridges
+T10	Version 384 412	the air-purifying respirator
+T11	Effect 419 470	forces contaminated air through a filtering element
+T12	Version 476 503	the air-supplied respirator
+T13	Effect 516 558	alternate supply of fresh air is delivered
+R1	CONDITION Arg1:T12 Arg2:T13	
+R2	CONDITION Arg1:T10 Arg2:T11	

@@ -1,6 +1,4 @@
 T1	Target 0 14	Air fresheners
-T2	MeansOfUse 37 50	used in homes
-T3	MeansOfUse 74 121	used in restrooms that typically emit fragrance
 T4	Target 170 183	air freshener
 T5	Target 216 230	air fresheners
 T6	Version 239 245	sprays
@@ -13,7 +11,7 @@ T12	Target 294 308	air fresheners
 T13	Effect 348 383	provoke allergy and asthma symptoms
 T14	CertaintyOfEffect 289 293	Some
 R1	EFFECT_MODIFIER Arg1:T14 Arg2:T13	
-#1	AnnotatorNotes T3	Location? (only "restrooms that typically emit fragrance")
-#2	AnnotatorNotes T2	Location? (only "homes")
 T15	Target 430 444	Air freshening
 T16	Target 487 501	air freshening
+T2	Location 45 50	homes
+T3	Location 82 91	restrooms

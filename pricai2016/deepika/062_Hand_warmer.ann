@@ -1,0 +1,14 @@
+T1	Target 0 12	Hand warmers
+T2	MeansOfUse 62 78	held in the hand
+T3	Effect 83 124	produce heat on demand to warm cold hands
+R1	CONDITION Arg1:T2 Arg2:T3	
+T4	Target 126 130	They
+T5	MeansOfUse 144 196	used in outdoor activities such as hiking and skiing
+T6	Effect 200 221	keep extremities warm
+T7	Effect 226 251	assist insulated clothing
+R2	CONDITION Arg1:T5 Arg2:T6	
+R3	CONDITION Arg1:T5 Arg2:T7	
+T8	Target 268 275	warmers
+T9	Effect 293 342	provide soothing heat for muscular or joint aches
+T10	Target 390 402	hand warmers
+T11	Effect 407 482	last from 30 minutes (recrystallisation) up to 24 hours (platinum catalyst)

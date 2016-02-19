@@ -1,0 +1,7 @@
+T1	Target 2 12	nightlight
+T2	Effect 68 78;79 90	comfort or convenience
+T3	Location 94 134	dark areas or areas that may become dark
+T4	Time 138 176	certain times, such as in an emergency
+R1	CONDITION Arg1:T3 Arg2:T2	
+R2	CONDITION Arg1:T4 Arg2:T2	
+T5	Version 251 260	tealights

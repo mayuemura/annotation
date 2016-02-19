@@ -1,0 +1,4 @@
+T1	Target 2 17	cosmetic primer
+T2	MeansOfUse 39 70	applied before another cosmetic
+T3	Effect 74 153	improve coverage and lengthen the amount of time the cosmetic lasts on the face
+R1	CONDITION Arg1:T2 Arg2:T3	

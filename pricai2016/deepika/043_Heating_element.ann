@@ -1,0 +1,5 @@
+T1	Target 2 17	heating element
+T2	Effect 18 98	converts electricity into heat through the process of resistive or Joule heating
+T3	Effect 100 177	Electric current passing through the element encounters electrical resistance
+T4	Effect 192 214	heating of the element
+R1	CAUSALITY Arg1:T3 Arg2:T4	

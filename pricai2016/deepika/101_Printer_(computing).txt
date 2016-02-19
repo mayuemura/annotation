@@ -1,0 +1,5 @@
+In computing, a printer is a peripheral which makes a persistent human readable representation of graphics or text on paper or similar physical media
+The two most common printer mechanisms are black and white laser printers used for common documents, and color inkjet printers which can produce high quality photograph output.
+The world's first computer printer was a 19th-century mechanically driven apparatus invented by Charles Babbage for his difference engine.
+This system used a series of metal rods with characters printed on them and stuck a roll of paper against the rods to print the characters.
+The first commercial printers generally used mechanisms from electric typewriters and Teletype machines, which operated in a similar fashion.

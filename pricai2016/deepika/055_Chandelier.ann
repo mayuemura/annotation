@@ -1,0 +1,14 @@
+T1	Target 108 118	chandelier
+T3	Target 196 207	Chandeliers
+T2	Effect 153 163	decorative
+T4	Effect 218 224	ornate
+T5	ComposedOf 243 276	lamp (electrical component)|lamps
+T6	Version 278 297	Crystal chandeliers
+T7	ComposedOf 316 348	complex arrays of crystal prisms
+T8	Effect 352 401	illuminate a room with refraction|refracted light
+R1	CONDITION Arg1:T6 Arg2:T8	
+R2	CONDITION Arg1:T7 Arg2:T8	
+T9	Target 403 414	Chandeliers
+T10	Location 436 444	hallways
+T11	Location 446 457	living room
+T12	Location 474 483	bathrooms

@@ -1,0 +1,9 @@
+T1	Target 0 7	Loppers
+T2	MeansOfUse 36 111	for pruning twigs and small branches, like secateurs with very long handles
+T3	Target 113 117	They
+T5	Target 170 174	They
+T6	MeansOfUse 187 321	operated with two hands, and with handles typically between 30 centimetres (12 in) & 91 centimetres (36 in) long to give good leverage
+T7	MeansOfUse 333 467	telescopic handles which can be extended to a length of two metres, in order to increase leverage and to reach high branches on a tree
+T8	Target 469 476	Loppers
+T9	MeansOfUse 493 571	for the pruning of tree branches with diameters less than 5 centimetres (2 in)
+T4	Effect 149 163	garden cutting

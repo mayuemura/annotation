@@ -1,0 +1,15 @@
+T1	Target 2 9	lantern
+T2	Effect 67 83	illuminate areas
+T3	Effect 15 23	portable
+T4	Target 85 93	Lanterns
+T5	MeansOfUse 111 124	for signaling
+T6	MeansOfUse 126 136	as torches
+T7	MeansOfUse 141 165	as general light sources
+T8	MeansOfUse 166 174	outdoors
+T9	Version 176 191	Low light level
+T10	Effect 215 225	decoration
+R1	CONDITION Arg1:T9 Arg2:T10	
+T11	Target 237 244	lantern
+T12	Version 421 449	lens section of a lighthouse
+T13	Version 388 416	the housing for the top lamp
+T14	Version 350 383	glass pane enclosed street lights

@@ -1,0 +1,13 @@
+T1	Target 0 8	Caulking
+T2	Target 57 64	sealant
+T5	Target 157 165	caulking
+T6	MeansOfUse 169 300	used to make the seams in wooden boats or ships watertight, by driving fibrous materials into the wedge-shaped seams between boards
+T7	Effect 345 385	join sections of cast iron sewerage pipe
+T8	Target 387 395	Caulking
+T9	MeansOfUse 443 515	to make riveted iron or steel ships and boilers watertight or steamtight
+T10	Effect 550 591	application of flexible sealing compounds
+T11	Location 595 642	close up gaps in buildings and other structures
+T12	MeansOfUse 643 711	against water, air, dust, insects, or as a component in firestopping
+R1	CONDITION Arg1:T12 Arg2:T10	
+R2	CONDITION Arg1:T11 Arg2:T10	
+T3	MeansOfUse 69 136	seal joints or seams in various structures and some types of piping

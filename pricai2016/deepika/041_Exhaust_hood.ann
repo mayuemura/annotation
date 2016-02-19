@@ -1,0 +1,24 @@
+T1	Target 3 15	exhaust hood
+T2	Target 17 31	extractor hood
+T3	Target 36 46	range hood
+T4	ComposedOf 72 86	mechanical fan
+T5	MeansOfUse 92 139	hangs above the stove or cooktop in the kitchen
+T6	Target 141 143	It
+T7	Effect 144 239	removes airborne grease, combustion products, fumes, smoke, odors, heat, and steam from the air
+T8	Effect 243 279	evacuation of the air and filtration
+R1	CAUSALITY Arg1:T8 Arg2:T7	
+T9	Target 304 317	exhaust hoods
+T10	MeansOfUse 333 377	in combination with fire suppression devices
+T11	Effect 386 462	fumes from a grease fire are properly vented and the fire is put out quickly
+R2	CONDITION Arg1:T10 Arg2:T11	
+T12	User 281 303	In commercial kitchens
+R3	CONDITION Arg1:T12 Arg2:T11	
+T13	MeansOfUse 498 554	combined with a fresh air fan that draws in exterior air
+T14	Effect 556 593	circulating it with the cooking fumes
+T15	Effect 609 630	drawn out by the hood
+R4	CAUSALITY Arg1:T14 Arg2:T15	
+R5	CONDITION Arg1:T13 Arg2:T14	
+T16	Version 464 485	Commercial vent hoods
+R6	CONDITION Arg1:T16 Arg2:T14	
+T17	Target 640 653	exhaust hoods
+T18	Effect 675 727	removes grease (the grease trap) and other particles

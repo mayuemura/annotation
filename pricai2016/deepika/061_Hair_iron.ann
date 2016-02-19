@@ -1,0 +1,32 @@
+T1	Target 2 11	hair iron
+T2	Target 15 24	hair tong
+T3	Effect 43 86	change the structure of the hair using heat
+T4	Version 119 132	curling irons
+T5	Effect 142 161	make the hair curly
+T6	Version 163 182	straightening irons
+T7	Version 200 213	straighteners
+T8	Version 217 227	flat irons
+T9	Effect 237 256	straighten the hair
+T10	Version 262 276	crimping irons
+T11	Effect 286 331	create crimps of the desired size in the hair
+R1	CONDITION Arg1:T4 Arg2:T5	
+R2	CONDITION Arg1:T6 Arg2:T9	
+R3	CONDITION Arg1:T7 Arg2:T9	
+R4	CONDITION Arg1:T8 Arg2:T9	
+R5	CONDITION Arg1:T10 Arg2:T11	
+T12	Version 368 390	cordless curling irons
+T13	Version 394 404	flat irons
+T14	Effect 415 425	use butane
+T15	Version 436 446	flat irons
+T16	Effect 447 491	use batteries that can last up to 30 minutes
+T17	MeansOfUse 492 509	for straightening
+R6	CONDITION Arg1:T13 Arg2:T14	
+R7	CONDITION Arg1:T12 Arg2:T14	
+R8	CONDITION Arg1:T15 Arg2:T16	
+R9	CONDITION Arg1:T17 Arg2:T16	
+T18	MeansOfUse 511 518	Overuse
+T19	Target 522 533	these tools
+T20	Effect 538 558	cause damage to hair
+T21	DegreeOfEffect 534 537	can
+R10	EFFECT_MODIFIER Arg1:T21 Arg2:T20	
+R11	CONDITION Arg1:T18 Arg2:T20	

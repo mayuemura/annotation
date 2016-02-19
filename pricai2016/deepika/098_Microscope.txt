@@ -1,0 +1,5 @@
+A microscope is an instrument used to see objects that are too small for the naked eye.
+The science of investigating small objects using such an instrument is called microscopy.
+Microscopic means invisible to the eye unless aided by a microscope.
+There are many types of microscopes.
+The most common (and the first to be invented) is the optical microscope, which uses light to image the sample.

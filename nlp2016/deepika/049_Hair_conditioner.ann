@@ -6,5 +6,6 @@ T5	Target 190 206	Hair conditioner
 T6	Target 260 277	Hair conditioners
 T7	ComposedOf 119 133	viscous liquid
 T8	MeansOfUse 142 188	applied to the hair and massaged into the hair
-T9	MeansOfUse 223 258	after washing the hair with shampoo
+T9	Time 223 258	after washing the hair with shampoo
 T10	ComposedOf 290 322	moisturizers, oils and sunscreen
+R1	CONDITION Arg1:T9 Arg2:T3	

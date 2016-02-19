@@ -1,0 +1,11 @@
+T1	Target 11 26	ice cream maker
+T2	Effect 48 82	make small quantities of ice cream
+T3	MeansOfUse 87 107	personal consumption
+T4	Target 109 125	Ice cream makers
+T5	Effect 130 149	prepare the mixture
+T6	Effect 153 187	employing the hand-cranking method
+T7	Effect 194 221	employing an electric motor
+R1	CAUSALITY Arg1:T7 Arg2:T5	
+R2	CAUSALITY Arg1:T6 Arg2:T5	
+T8	Target 360 375	ice cream maker
+T9	Effect 398 485	freeze the mixture while churning it so as to aerate the mixture and avoid ice crystals

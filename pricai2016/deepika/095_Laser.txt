@@ -1,0 +1,5 @@
+A laser is a device that emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation.
+The term "laser" originated as an acronym for "light amplification by stimulated emission of radiation".
+The first laser was built in 1960 by Theodore H. Maiman at Hughes Laboratories, based on theoretical work by Charles Hard Townes and Arthur Leonard Schawlow.
+A laser differs from other sources of light in that it emits light coherence coherently.
+Spatial coherence allows a laser to be focused to a tight spot, enabling applications such as laser cutting and lithography.

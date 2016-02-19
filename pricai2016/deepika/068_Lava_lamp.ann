@@ -1,0 +1,10 @@
+T1	Target 2 11	lava lamp
+T2	Target 16 26	Astro lamp
+T3	Effect 33 43	decorative
+T4	Time 139 146	in 1963
+T5	Target 152 156	lamp
+T6	ComposedOf 166 249	blobs of coloured wax inside a glass vessel filled with clear or translucent liquid
+T7	Effect 251 366	the wax rises and falls as its density changes due to heating from an incandescent light bulb underneath the vessel
+T8	Target 446 451	lamps
+T9	Version 470 499	variety of styles and colours
+R1	CONDITION Arg1:T6 Arg2:T7	

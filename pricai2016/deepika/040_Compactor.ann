@@ -12,3 +12,12 @@ R3	CONDITION Arg1:T7 Arg2:T8
 R4	CONDITION Arg1:T6 Arg2:T8	
 T9	Target 389 399	compactors
 T10	Version 505 540	waste compaction|landfill compactor
+T11	MeansOfUse 549 614	to drive over waste deposited by waste collection vehicles (WCVs)
+T12	Target 949 959	compactors
+T13	MeansOfUse 964 1035	used in scrap metal processing, the most familiar being the car crusher
+T14	Version 1071 1085	"pancake" type
+T15	Effect 1095 1173	scrap automobile is flattened by a huge descending hydraulically powered plate
+T16	Effect 1233 1313	automobile is compressed from several directions until it resembles a large cube
+T17	Version 1182 1221	Baler#Industrial packaging|baling press
+R5	CONDITION Arg1:T14 Arg2:T15	
+R6	CONDITION Arg1:T17 Arg2:T16	

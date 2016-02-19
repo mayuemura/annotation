@@ -1,0 +1,17 @@
+T1	Target 2 12	power cord
+T2	Target 14 23	line cord
+T3	Target 28 39	mains cable
+T4	Effect 68 168	connects an electrical appliance to the mains electricity supply via a wall socket or extension cord
+T5	DegreeOfEffect 56 67	temporarily
+R1	EFFECT_MODIFIER Arg1:T5 Arg2:T4	
+T6	Target 393 404	power cable
+T7	Target 406 416	mains lead
+T8	Target 418 422	flex
+T9	Target 426 437	kettle lead
+T10	Effect 235 381	connect to a single-phase alternating current power source at the local line voltage&mdash;(generally 100 to 240 volts, depending on the location)
+T11	Version 455 464	lamp cord
+T12	Version 482 490	zip cord
+T13	Effect 497 509	light-weight
+T14	Effect 511 521	ungrounded
+T15	MeansOfUse 554 604	used for small loads such as a table or floor lamp
+T16	Effect 523 539	single-insulated

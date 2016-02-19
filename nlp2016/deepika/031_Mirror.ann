@@ -3,11 +3,15 @@ T2	Effect 38 52	reflects light
 T4	Target 409 415	mirror
 T5	Version 423 435	plane mirror
 T6	Version 470 484	Curved mirrors
-T7	MeansOfUse 494 541	used, to produce magnified or diminished images
-T8	MeansOfUse 545 556	focus light
-T9	MeansOfUse 560 594	simply distort the reflected image
+T8	Effect 545 556	focus light
 T10	Target 596 603	Mirrors
 T11	MeansOfUse 608 663	commonly used for personal grooming or admiring oneself
 T12	MeansOfUse 736 746	decoration
 T13	MeansOfUse 752 764	architecture
 T3	Effect 142 227	preserves many or most of the detailed physical characteristics of the original light
+#2	AnnotatorNotes T8	Effect?
+T7	Effect 503 541	produce magnified or diminished images
+T9	Effect 567 594	distort the reflected image
+R1	CONDITION Arg1:T6 Arg2:T7	
+R2	CONDITION Arg1:T6 Arg2:T8	
+R3	CONDITION Arg1:T6 Arg2:T9	

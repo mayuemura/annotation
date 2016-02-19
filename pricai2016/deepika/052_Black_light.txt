@@ -1,0 +1,5 @@
+A black light, also referred to as a UV-A light, Wood's light, or simply ultraviolet light,  is a lamp lamp that emits short wave (UV-A) ultraviolet light and not much visible light.
+The lamp has a violet filter material, either on the bulb1 or in a separate
+glass filter in the lamp housing, which blocks most visible light and allows through UV, so the lamp has a dim violet glow when operating.
+Black light bulbs which have this filter have a lighting industry designation that includes the letters "BLB".
+A second type of bulb, which is also called a black light, produces ultraviolet but does not have the filter material, so it produces more visible light and has a blue color when operating.
