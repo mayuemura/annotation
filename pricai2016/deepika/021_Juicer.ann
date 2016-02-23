@@ -1,11 +1,9 @@
 T1	Target 2 8	juicer
-T2	Effect 14 18	tool
-T3	MeansOfUse 19 144	for separating juice from fruits, herbs, leafy greens and other types of vegetables from its pulp in a process called juicing
+T2	MeansOfUse 14 18	tool
 T4	Target 170 177	juicers
 T5	Effect 178 246	concentrate the nutrition naturally present in fruits and vegetables
 T6	Effect 253 337	allows the body to more easily absorb the nutrition than digesting the solid produce
 R1	CAUSALITY Arg1:T5 Arg2:T6	
-R2	CONDITION Arg1:T3 Arg2:T2	
 T7	Target 350 357	juicers
 T8	Effect 363 406	makes it easier to consume more raw produce
 T9	Target 413 420	juicers
@@ -20,3 +18,4 @@ R5	CONDITION Arg1:T11 Arg2:T14
 R6	CONDITION Arg1:T10 Arg2:T12	
 R7	CONDITION Arg1:T10 Arg2:T13	
 R8	CONDITION Arg1:T10 Arg2:T14	
+T3	Effect 23 144	separating juice from fruits, herbs, leafy greens and other types of vegetables from its pulp in a process called juicing

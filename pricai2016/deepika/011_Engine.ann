@@ -1,6 +1,5 @@
 T1	Target 3 9	engine
 T2	Target 13 18	motor
-T3	MeansOfUse 41 100	to convert one form of energy into Motion mechanical energy
 T4	Version 102 114	Heat engines
 T5	Version 126 153	internal combustion engines
 T6	Version 158 185	external combustion engines
@@ -29,3 +28,4 @@ R9	CONDITION Arg1:T18 Arg2:T19
 T20	Location 449 470	In biological systems
 R10	CONDITION Arg1:T20 Arg2:T17	
 R11	CONDITION Arg1:T16 Arg2:T17	
+T3	Effect 44 100	convert one form of energy into Motion mechanical energy

@@ -1,0 +1,8 @@
+T1	Target 2 7	ruler
+T2	Target 28 32	rule
+T3	Target 36 46	line gauge
+T4	Effect 140 157	measure distances
+T5	Effect 164 183	rule straight lines
+T6	MeansOfUse 65 136	used in geometry, technical drawing, printing, engineering and building
+T7	Target 189 194	ruler
+T8	Effect 256 273	measure distances

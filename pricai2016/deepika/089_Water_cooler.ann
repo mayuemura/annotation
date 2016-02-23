@@ -1,0 +1,11 @@
+T1	Target 2 14	water cooler
+T2	Target 18 33	water dispenser
+T3	Effect 51 76	cools and dispenses water
+T4	Target 78 82	They
+T5	Version 126 162	bottleless and bottled water coolers
+T6	Version 164 188	Bottleless water coolers
+T7	Version 228 249	bottled water coolers
+T9	MeansOfUse 193 220	hooked up to a water supply
+T8	MeansOfUse 250 323	require delivery (or self-pick-up) of water in large bottles from vendors
+T10	Target 324 336	Water cooler
+T11	Effect 378 396	keeping water cool

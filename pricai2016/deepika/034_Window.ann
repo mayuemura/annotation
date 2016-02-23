@@ -32,3 +32,5 @@ T30	Version 805 827	emergency exit windows
 T31	Version 829 850	stained glass windows
 T32	Version 852 866	French windows
 T33	Version 872 904	double- and triple paned windows
+T34	Effect 161 175	glazing glazed
+R2	CONDITION Arg1:T4 Arg2:T34	

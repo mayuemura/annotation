@@ -3,3 +3,4 @@ T2	Effect 18 98	converts electricity into heat through the process of resistive 
 T3	Effect 100 177	Electric current passing through the element encounters electrical resistance
 T4	Effect 192 214	heating of the element
 R1	CAUSALITY Arg1:T3 Arg2:T4	
+T5	Effect 258 302	independent of the direction of current flow

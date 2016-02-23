@@ -1,0 +1,16 @@
+T1	Target 2 22	particle accelerator
+T2	Effect 41 169	uses electromagnetic fields to propel charged particles to nearly light speed and to contain them in well-defined perticle beams
+T3	Version 171 189	Large accelerators
+T4	User 222 238	particle physics
+T5	Version 242 251	colliders
+T6	Version 262 278	Large Hadron LHC
+T7	Version 288 315	Relativistic Heavy Ion RHIC
+T8	Version 355 363	Tevatron
+T9	Target 393 414	particle accelerators
+T10	Effect 491 511	oncological purposes
+T11	MeansOfUse 470 486	particle therapy
+R1	CONDITION Arg1:T11 Arg2:T10	
+T12	MeansOfUse 517 587	as synchrotron light sources for the study of condensed matter physics
+T13	Target 626 638	accelerators
+T14	Version 715 763	electrostatic and oscillating field accelerators
+T15	Target 701 713	accelerators

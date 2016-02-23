@@ -1,6 +1,5 @@
 T1	Target 2 9	blender
 T2	Target 30 40	liquidiser
-T3	MeansOfUse 104 156	to mix, purée, or emulsify food and other substances
 T4	Version 160 178	stationary blender
 T5	Target 193 200	blender
 T6	Effect 320 329	crush ice
@@ -8,3 +7,5 @@ T7	Version 335 358	newer immersion blender
 T8	MeansOfUse 454 484	can be used with any container
 T9	Version 295 310	powerful models
 R1	CONDITION Arg1:T9 Arg2:T6	
+T10	MeansOfUse 66 98	kitchen and laboratory appliance
+T3	Effect 107 156	mix, purée, or emulsify food and other substances

@@ -1,0 +1,18 @@
+T1	Target 2 11	telescope
+T2	Effect 34 75	aids in the observation of remote objects
+T3	Effect 79 139	collecting electromagnetic radiation (such as visible light)
+R1	CAUSALITY Arg1:T3 Arg2:T2	
+T5	Version 145 177	first known practical telescopes
+T6	Location 199 210	Netherlands
+T7	Time 218 247	beginning of the 17th century
+T8	ComposedOf 255 267	glass lenses
+T4	Effect 274 325	found use in terrestrial applications and astronomy
+R2	CONDITION Arg1:T5 Arg2:T4	
+R3	CONDITION Arg1:T8 Arg2:T4	
+R4	CONDITION Arg1:T7 Arg2:T4	
+R5	CONDITION Arg1:T6 Arg2:T4	
+T9	Version 353 373	reflecting telescope
+T10	ComposedOf 399 406	mirrors
+T11	Target 446 456	telescopes
+T12	Version 482 498	radio telescopes
+T13	Version 516 535	infrared telescopes

@@ -1,0 +1,8 @@
+T1	Target 2 12	fertilizer
+T2	Target 16 26	fertiliser
+T3	ComposedOf 55 94	material of natural or synthetic origin
+T4	MeansOfUse 140 193	applied to soils or to plant tissues (usually leaves)
+T5	Effect 197 281	supply one or more plant nutrition|plant nutrients essential to the growth of plants
+R1	CONDITION Arg1:T4 Arg2:T5	
+T6	Target 304 307	its
+T7	Effect 308 322	soil fertility

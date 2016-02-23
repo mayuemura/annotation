@@ -1,0 +1,20 @@
+T1	Target 16 23	printer
+T2	Effect 46 149	makes a persistent human readable representation of graphics or text on paper or similar physical media
+T3	Effect 29 39	peripheral
+T4	Target 170 177	printer
+T5	Version 193 223	black and white laser printers
+T6	MeansOfUse 224 249	used for common documents
+T7	Version 255 276	color inkjet printers
+T8	Effect 287 325	produce high quality photograph output
+R1	CONDITION Arg1:T7 Arg2:T8	
+T10	Effect 381 410	mechanically driven apparatus
+T11	Time 368 380	19th-century
+T12	Version 616 635	commercial printers
+T13	Effect 646 709	used mechanisms from electric typewriters and Teletype machines
+T14	Effect 478 604	used a series of metal rods with characters printed on them and stuck a roll of paper against the rods to print the characters
+T9	Version 331 361	world's first computer printer
+R2	CONDITION Arg1:T9 Arg2:T10	
+R3	CONDITION Arg1:T9 Arg2:T14	
+R4	CONDITION Arg1:T11 Arg2:T10	
+R5	CONDITION Arg1:T11 Arg2:T14	
+R6	CONDITION Arg1:T12 Arg2:T13	

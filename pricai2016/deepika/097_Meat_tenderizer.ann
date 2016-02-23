@@ -1,0 +1,7 @@
+T1	Target 2 17	meat tenderizer
+T2	Target 19 30	meat mallet
+T3	Target 35 47	meat pounder
+T4	Effect 79 102	tenderize slabs of meat
+T5	MeansOfUse 103 129	in preparation for cooking
+R1	CONDITION Arg1:T5 Arg2:T4	
+T6	Target 142 157	meat tenderizer

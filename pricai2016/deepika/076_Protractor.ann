@@ -1,6 +1,5 @@
 T1	Target 2 12	protractor
 T2	ComposedOf 58 86	transparent plastic or glass
-T3	MeansOfUse 88 108	for measuring angles
 T4	Effect 127 162	measure angles indegree degrees (°)
 T5	Target 115 126	protractors
 T6	Version 164 188	Radian-scale protractors
@@ -11,3 +10,4 @@ T9	Target 267 271	They
 T10	User 298 345	mechanical and engineering-related applications
 T11	User 385 401	geometry lessons
 T12	Location 405 412	schools
+T3	MeansOfUse 88 108	for measuring angles

@@ -2,7 +2,6 @@ T1	Target 2 12	dishwasher
 T2	MeansOfUse 36 75	for cleaning dishes and eating-utensils
 T3	Target 77 88	Dishwashers
 T4	User 102 134	in restaurants and private homes
-T5	Target 240 250	dishwasher
 T6	Effect 251 257	cleans
 T7	Effect 261 279	spraying hot water
 T8	MeansOfUse 291 383	between convert 55 and 75 °C, at the dishes, with lower temperatures used for delicate items
@@ -11,3 +10,8 @@ R2	CAUSALITY Arg1:T7 Arg2:T6
 T9	Effect 439 489	Water is pumped to one or more rotating spray arms
 T10	Effect 497 539	blast the dishes with the cleaning mixture
 R3	CAUSALITY Arg1:T9 Arg2:T10	
+T5	Version 229 250	mechanical dishwasher
+R4	CONDITION Arg1:T5 Arg2:T6	
+R5	CONDITION Arg1:T5 Arg2:T7	
+T11	Effect 385 437	A mix of water and detergent is circulated by a pump
+R6	CONDITION Arg1:T5 Arg2:T11	

@@ -1,5 +1,4 @@
 T1	Target 2 7	shelf
-T2	MeansOfUse 44 89	used in a home, business, store, or elsewhere
 T3	Effect 93 166	hold items of value that are being displayed, stored, or offered for sale
 T4	Target 168 170	It
 T5	Target 268 270	It
@@ -20,3 +19,6 @@ T17	MeansOfUse 568 592	suspended from a ceiling
 T18	MeansOfUse 599 633	part of a free-standing frame unit
 T19	MeansOfUse 648 676	part of a piece of furniture
 T20	MeansOfUse 687 762	cabinet cabinet, bookcase, entertainment center, some headboards, and so on
+T2	Location 54 58	home
+T21	Location 60 68	business
+T22	Location 70 75	store

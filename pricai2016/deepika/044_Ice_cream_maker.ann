@@ -9,3 +9,4 @@ R1	CAUSALITY Arg1:T7 Arg2:T5
 R2	CAUSALITY Arg1:T6 Arg2:T5	
 T8	Target 360 375	ice cream maker
 T9	Effect 398 485	freeze the mixture while churning it so as to aerate the mixture and avoid ice crystals
+T10	MeansOfUse 223 355	The resulting preparation is often chilled through either pre-cooling the machine or by employing a machine that freezes the mixture

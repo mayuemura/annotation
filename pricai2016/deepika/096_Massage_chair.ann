@@ -1,0 +1,8 @@
+T1	Target 2 15	massage chair
+T2	MeansOfUse 36 48	for massages
+T4	Effect 77 150	allow easy access to the head, shoulders, and back of a massage recipient
+T3	Version 50 76	Traditional massage chairs
+R1	CONDITION Arg1:T3 Arg2:T4	
+T5	Version 158 180	robotic massage chairs
+T6	Effect 181 237	use electronic vibrators and motors to provide a massage
+R2	CONDITION Arg1:T5 Arg2:T6	

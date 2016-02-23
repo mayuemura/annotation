@@ -1,5 +1,4 @@
 T1	Target 2 13	heating pad
-T2	MeansOfUse 28 84	for warming of parts of the body in order to manage pain
 T3	Effect 86 163	Localized application of heat causes the blood vessels in that area to dilate
 T4	Effect 165 207	enhancing perfusion to the targeted tissue
 R1	CAUSALITY Arg1:T3 Arg2:T4	
@@ -7,3 +6,4 @@ T5	Version 239 249	electrical
 T6	Version 251 259	chemical
 T7	Version 264 281	hot water bottles
 T8	Target 218 230	heating pads
+T2	MeansOfUse 28 84	for warming of parts of the body in order to manage pain

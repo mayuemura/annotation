@@ -1,0 +1,15 @@
+T1	Target 2 10	tea cosy
+T2	Target 30 38	tea cozy
+T3	Target 43 53	tea warmer
+T4	ComposedOf 101 106	cloth
+T5	MeansOfUse 59 77	cover for a teapot
+T6	Target 108 110	It
+T7	Effect 111 129	insulates a teapot
+T8	Effect 131 156	keeping the contents warm
+R1	CAUSALITY Arg1:T7 Arg2:T8	
+T9	Target 158 163	Their
+T10	MeansOfUse 223 246	keeping hot liquids hot
+T11	Target 248 258	Tea cosies
+T12	MeansOfUse 268 313	padded inserts that can be removed and washed
+T13	Target 320 330	tea cosies
+T14	Target 477 485	tea cosy

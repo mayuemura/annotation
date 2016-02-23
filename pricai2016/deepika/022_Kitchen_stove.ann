@@ -20,3 +20,5 @@ T17	Target 706 711	stove
 T18	MeansOfUse 722 742	used interchangeably
 T19	Version 747 765	fuel-burning stove
 T20	Target 689 693	them
+T21	Effect 184 239	rely on the application of heat for the cooking process
+R3	CONDITION Arg1:T8 Arg2:T21	

@@ -1,0 +1,15 @@
+T1	Target 3 12	amplifier
+T2	Target 14 34	electronic amplifier
+T3	Target 51 54	amp
+T4	MeansOfUse 61 78	electronic device
+T5	Effect 88 118	increase the power of a signal
+T6	Target 120 122	It
+T7	Effect 136 256	taking energy from a power supply and controlling the output to match the input signal shape but with a larger amplitude
+T8	Target 276 285	amplifier
+T9	Effect 286 326	modulates the output of the power supply
+T10	Effect 330 383	make the output signal stronger than the input signal
+R1	CAUSALITY Arg1:T9 Arg2:T10	
+T11	Target 388 397	amplifier
+T12	Target 464 473	amplifier
+T13	Effect 474 492	provides gain gain
+T15	Target 526 535	amplifier

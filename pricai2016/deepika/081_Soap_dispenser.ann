@@ -1,0 +1,9 @@
+T1	Target 2 16	soap dispenser
+T2	Time 35 78	when manipulated or triggered appropriately
+T3	Effect 80 133	yields soap (usually in small, single-use quantities)
+R1	CONDITION Arg1:T2 Arg2:T3	
+T4	Target 135 137	It
+T5	MeansOfUse 138 211	can be manually operated by means of a handle handle, or can be automatic
+T6	Target 213 228	Soap dispensers
+T7	Location 248 264	public restrooms
+R2	CONDITION Arg1:T7 Arg2:T3	

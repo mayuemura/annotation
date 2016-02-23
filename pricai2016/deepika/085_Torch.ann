@@ -1,0 +1,7 @@
+T1	Target 2 7	torch
+T2	ComposedOf 13 44	stick with combustible material
+T3	MeansOfUse 66 100	ignited and used as a light source
+T4	Target 102 109	Torches
+T7	Target 269 274	torch
+T8	Target 302 333	battery operated portable light
+T5	MeansOfUse 159 240	used in processions, symbolic and religious events, and in juggling entertainment

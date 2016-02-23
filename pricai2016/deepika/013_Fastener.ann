@@ -1,7 +1,6 @@
 T1	Target 2 10	fastener
 T2	Effect 47 105	mechanically joins or affixes two or more objects together
 T3	Target 107 116	Fasteners
-T4	MeansOfUse 134 191	to close a container such as a bag, a box, or an envelope
 T5	MeansOfUse 205 274	involve keeping together the sides of an opening of flexible material
 T6	MeansOfUse 276 306	attaching a lid to a container
 T7	Version 368 378	bread clip
@@ -9,3 +8,5 @@ T8	Target 380 389	Fasteners
 T9	MeansOfUse 446 487	may be fastened and unfastened repeatedly
 T10	Target 631 640	fasteners
 T11	Target 730 739	fasteners
+T4	Effect 137 191	close a container such as a bag, a box, or an envelope
+T12	Effect 422 431	temporary

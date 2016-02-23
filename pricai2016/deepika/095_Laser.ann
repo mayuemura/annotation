@@ -1,0 +1,12 @@
+T1	Target 2 7	laser
+T2	Effect 25 141	emits light through a process of optical amplification based on the stimulated emission of electromagnetic radiation
+T3	Target 153 158	laser
+T4	Target 190 245	light amplification by stimulated emission of radiation
+T5	Target 258 263	laser
+T6	Target 408 413	laser
+T7	Target 458 460	it
+T8	Effect 461 493	emits light coherence coherently
+T10	Effect 559 618	enabling applications such as laser cutting and lithography
+T9	Effect 513 557	allows a laser to be focused to a tight spot
+R1	CAUSALITY Arg1:T8 Arg2:T9	
+R2	CAUSALITY Arg1:T9 Arg2:T10	

@@ -1,5 +1,4 @@
 T1	Target 4 14	phonograph
-T2	MeansOfUse 44 98	for the mechanical recording and reproduction of sound
 T3	Target 103 106	its
 T4	Target 119 121	it
 T5	Target 139 149	gramophone
@@ -20,3 +19,4 @@ T16	Effect 751 877	coupled to the open air through a flaring acoustic horn, or d
 R5	CONDITION Arg1:T15 Arg2:T10	
 R6	CAUSALITY Arg1:T10 Arg2:T16	
 R7	CONDITION Arg1:T15 Arg2:T16	
+T2	Effect 52 98	mechanical recording and reproduction of sound

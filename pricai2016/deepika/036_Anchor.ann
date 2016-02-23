@@ -1,16 +1,17 @@
 T1	Target 3 9	anchor
 T2	ComposedOf 40 45	metal
-T3	MeansOfUse 52 101	to connect a vessel to the bed of a body of water
 T4	Effect 105 159	prevent the craft from drifting due to wind or current
-R1	CONDITION Arg1:T3 Arg2:T4	
 T5	Target 248 255	Anchors
 T6	Version 270 279	temporary
 T7	Version 283 292	permanent
 T8	Version 294 311	Permanent anchors
-T9	MeansOfUse 316 370	used in the creation of a mooring (watercraft) mooring
 T10	MeansOfUse 396 458	specialist service is normally needed to move or maintain them
 T11	MeansOfUse 380 392	rarely moved
 T12	Version 486 503	temporary anchors
 T13	Version 553 563	sea anchor
 T14	Effect 617 642	control a drifting vessel
 R2	CONDITION Arg1:T13 Arg2:T14	
+T3	Effect 55 101	connect a vessel to the bed of a body of water
+R1	CAUSALITY Arg1:T3 Arg2:T4	
+T9	Effect 328 370	creation of a mooring (watercraft) mooring
+R3	CONDITION Arg1:T8 Arg2:T9	

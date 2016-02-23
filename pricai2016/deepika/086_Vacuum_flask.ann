@@ -1,0 +1,18 @@
+T1	Target 2 14	vacuum flask
+T2	Target 32 43	Dewar flask
+T3	Target 45 57	Dewar bottle
+T4	Target 61 68	Thermos
+T5	Effect 76 86	insulating
+T6	Effect 115 211	lengthens the time over which its contents remain hotter or cooler than the flask's surroundings
+T7	DegreeOfEffect 107 114	greatly
+R1	EFFECT_MODIFIER Arg1:T7 Arg2:T6	
+T8	MeansOfUse 87 101	storage vessel
+T10	Target 254 266	vacuum flask
+T9	Effect 448 497	reduces heat transfer by conduction or convection
+T11	DegreeOfEffect 434 447	significantly
+R2	EFFECT_MODIFIER Arg1:T11 Arg2:T9	
+T12	Target 499 512	Vacuum flasks
+T13	MeansOfUse 517 534	used domestically
+T16	User 619 627	industry
+T14	Effect 538 593	keep beverages hot or cold for extended periods of time
+R3	CONDITION Arg1:T16 Arg2:T14	

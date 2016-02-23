@@ -1,0 +1,9 @@
+T1	Target 2 8	peeler
+T2	Target 10 23	potato peeler
+T3	Target 27 43	vegetable peeler
+T4	MeansOfUse 50 62	kitchen tool
+T5	ComposedOf 79 98	slotted metal blade
+T6	Effect 136 254	remove the outer skin or peel of certain vegetables, often potatoes and carrots, and fruits such as apples, pears, etc
+T9	Target 310 316	peeler
+T7	Effect 440 498	prevents the blade from cutting too far into the vegetable
+T8	Effect 389 417	sharpened on the inside edge

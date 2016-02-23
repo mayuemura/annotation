@@ -1,0 +1,13 @@
+T1	Target 0 26	Genetically modified crops
+T2	Target 28 32	GMCs
+T3	Target 34 42	GM crops
+T4	Target 47 60	biotech crops
+T5	User 81 92	agriculture
+T6	Effect 315 381	resistance to certain pests, diseases, or environmental conditions
+T7	Effect 383 404	reduction of spoilage
+T8	Effect 409 475	resistance to chemical treatments (e.g. resistance to a herbicide)
+T9	Effect 480 522	improving the nutrient profile of the crop
+T10	Effect 559 660	production of Plant manufactured pharmaceutical agents, biofuels, and other industrially useful goods
+T11	Effect 677 691	bioremediation
+T12	Target 741 749	GM crops
+T13	Effect 196 282	introduce a new trait trait to the plant which does not occur naturally in the species

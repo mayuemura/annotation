@@ -10,4 +10,5 @@ T9	Time 123 136	traditionally
 T10	Target 197 206	Panelling
 T11	Effect 311 348	insulate the room from the cold stone
 T12	Target 381 390	panelling
-T13	MeansOfUse 414 433	decorative purposes
+T14	Effect 237 288	make rooms in Rock stone buildings more comfortable
+T13	Effect 414 424	decorative

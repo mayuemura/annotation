@@ -10,17 +10,14 @@ T9	ComposedOf 166 174	melamine
 T10	ComposedOf 180 191	molded pulp
 T11	Target 193 198	Trays
 T13	Effect 258 268	disposable
-T17	Effect 300 318	used in cafeterias
-T20	Effect 347 361	used in a home
-T23	Effect 389 410	used in luxury hotels
 T12	Version 218 247	inexpensive molded pulp trays
 R1	CONDITION Arg1:T12 Arg2:T13	
 T14	Version 273 299	inexpensive melamine trays
-R2	CONDITION Arg1:T14 Arg2:T17	
 T15	Version 323 346	mid-priced wooden trays
-R3	CONDITION Arg1:T15 Arg2:T20	
 T16	Version 366 388	expensive silver trays
-R4	CONDITION Arg1:T16 Arg2:T23	
 T18	Effect 432 484	aised galleries, handles, and short feet for support
 T19	Target 486 491	Trays
 T21	Effect 527 563	stop things from sliding off of them
+T17	Location 308 318	cafeterias
+T20	Location 357 361	home
+T22	Location 397 410	luxury hotels

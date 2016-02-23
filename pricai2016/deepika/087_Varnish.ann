@@ -1,0 +1,21 @@
+T1	Target 0 7	Varnish
+T4	MeansOfUse 66 127	primarily used in wood finishing but also for other materials
+T5	Effect 13 24	transparent
+T6	Effect 26 30	hard
+T7	Effect 32 42	protective
+T8	Target 129 136	Varnish
+T2	ComposedOf 173 183	drying oil
+T3	ComposedOf 187 192	resin
+T9	ComposedOf 200 207	thinner
+T10	ComposedOf 211 218	solvent
+T11	Target 220 227	Varnish
+T12	Effect 279 313	produce satin or semi-gloss sheens
+T13	MeansOfUse 321 350	addition of "flatting" agents
+R1	CONDITION Arg1:T13 Arg2:T12	
+T14	Effect 249 255	glossy
+T15	Target 352 359	Varnish
+T16	Effect 387 398	transparent
+T17	Target 533 542	Varnishes
+T18	MeansOfUse 552 592	applied over wood stains as a final step
+T19	Effect 596 635	achieve a film for gloss and protection
+R2	CONDITION Arg1:T18 Arg2:T19	

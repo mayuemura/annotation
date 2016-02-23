@@ -5,3 +5,4 @@ T4	Target 230 237	Handles
 T5	Effect 289 345	enabling the user to exploit the tools to maximum effect
 T6	MeansOfUse 238 247	for tools
 R1	CONDITION Arg1:T6 Arg2:T5	
+T7	Effect 120 157	involves substantial ergonomic issues

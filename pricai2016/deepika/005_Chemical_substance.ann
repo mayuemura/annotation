@@ -15,3 +15,5 @@ T14	Target 442 444	it
 T15	MeansOfUse 524 569	isolated from a river or made in a laboratory
 R1	CONDITION Arg1:T15 Arg2:T12	
 R2	CONDITION Arg1:T15 Arg2:T11	
+T16	Version 341 345	pure
+T17	Version 370 378	mixtures

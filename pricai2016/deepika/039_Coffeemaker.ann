@@ -2,3 +2,5 @@ T1	Target 0 12	Coffeemakers
 T2	Target 16 31	coffee machines
 T3	Effect 63 74	brew coffee
 T4	Target 116 128	coffeemakers
+T5	MeansOfUse 205 358	coffee grounds are placed in a paper or metal filter inside a funnel, which is set over a glass or ceramic coffee pot, a cooking pot in the kettle family
+T6	MeansOfUse 360 404	Cold water is poured into a separate chamber

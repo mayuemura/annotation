@@ -1,0 +1,28 @@
+T1	Target 0 9	Wallpaper
+T2	Effect 176 209	one aspect of interior decoration
+T4	Target 211 213	It
+T5	MeansOfUse 225 283	sold in rolls and is put onto a wall using wallpaper paste
+T6	Target 285 295	Wallpapers
+T7	Version 315 327	lining paper
+T8	Effect 367 416	help cover uneven surfaces and minor wall defects
+T9	Effect 422 445	giving a better surface
+R1	CAUSALITY Arg1:T8 Arg2:T9	
+T11	MeansOfUse 341 363	can be painted or used
+R2	CONDITION Arg1:T11 Arg2:T8	
+R3	CONDITION Arg1:T7 Arg2:T8	
+R4	CONDITION Arg1:T7 Arg2:T9	
+T12	Version 448 456	textured
+T13	Target 620 629	Wallpaper
+T14	Target 755 764	Wallpaper
+T15	MeansOfUse 798 823	hung vertically on a wall
+T10	Version 338 340	it
+R5	CONDITION Arg1:T10 Arg2:T8	
+R6	CONDITION Arg1:T10 Arg2:T9	
+T3	Effect 40 77	cover and decorate the interior walls
+T16	Location 81 86	homes
+T17	Location 88 95	offices
+T18	Location 97 102	cafes
+T19	Location 104 124	government buildings
+T20	Location 126 133	museums
+T21	Location 135 147	post offices
+T22	Location 159 168	buildings

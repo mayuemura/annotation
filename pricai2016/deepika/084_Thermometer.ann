@@ -1,0 +1,28 @@
+T1	Target 2 13	thermometer
+T2	Effect 31 77	measures temperature or a temperature gradient
+T3	Target 81 92	thermometer
+T4	Effect 205 249	some physical change occurs with temperature
+T6	Target 450 462	thermometers
+T7	ComposedOf 125 145	a temperature sensor
+R1	CONDITION Arg1:T7 Arg2:T4	
+T5	ComposedOf 259 269	some means
+T8	Effect 273 327	converting this physical change into a numerical value
+R2	CONDITION Arg1:T5 Arg2:T8	
+T9	Target 472 476	They
+T10	Effect 489 544	thermal expansion of solids or liquids with temperature
+T11	Effect 549 580	the change in pressure of a gas
+T12	Time 581 602	on heating or cooling
+R3	CONDITION Arg1:T12 Arg2:T11	
+T13	Version 604 631	Radiation-type thermometers
+T14	Effect 632 680	measure the infrared energy emitted by an object
+T15	Effect 682 733	allowing measurement of temperature without contact
+R4	CAUSALITY Arg1:T14 Arg2:T15	
+R5	CONDITION Arg1:T13 Arg2:T14	
+T16	Target 734 746	Thermometers
+T17	User 766 774	industry
+T18	Effect 778 808	control and regulate processes
+T19	MeansOfUse 810 833	in the study of weather
+T22	Target 902 913	thermometer
+T23	Target 1049 1061	thermometers
+T20	User 838 846	medicine
+T21	User 852 871	scientific research

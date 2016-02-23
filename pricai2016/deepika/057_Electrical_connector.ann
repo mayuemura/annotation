@@ -1,5 +1,4 @@
 T1	Target 70 90	electrical connector
-T2	MeansOfUse 123 208	for joining electrical circuits as an interface interface using a mechanical assembly
 T3	Target 210 220	Connectors
 T4	ComposedOf 232 250	plugs (male-ended)
 T5	ComposedOf 255 275	jacks (female-ended)
@@ -30,3 +29,4 @@ R7	CONDITION Arg1:T18 Arg2:T20
 R8	CONDITION Arg1:T18 Arg2:T21	
 R9	CONDITION Arg1:T22 Arg2:T20	
 R10	CONDITION Arg1:T22 Arg2:T21	
+T2	Effect 127 208	joining electrical circuits as an interface interface using a mechanical assembly

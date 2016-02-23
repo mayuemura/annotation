@@ -6,3 +6,5 @@ T5	ComposedOf 133 137	sand
 T6	ComposedOf 143 147	wood
 T7	ComposedOf 154 170	twigs and leaves
 T8	Target 342 360	building materials
+T9	Effect 190 209	construct buildings
+T10	User 465 558	specific specialty trades, such as carpentry, Building insulation, plumbing, and roofing work

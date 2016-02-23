@@ -1,0 +1,19 @@
+T1	Target 2 14	tea strainer
+T2	MeansOfUse 45 71	placed over or in a teacup
+T3	Effect 75 97	catch loose tea leaves
+R1	CONDITION Arg1:T2 Arg2:T3	
+T4	Target 338 350	tea strainer
+T5	Target 352 361	Strainers
+T6	MeansOfUse 370 397	fit into the top of the cup
+T7	Effect 401 417	catch the leaves
+T8	Time 418 438	as the tea is poured
+R2	CONDITION Arg1:T8 Arg2:T7	
+R3	CONDITION Arg1:T6 Arg2:T7	
+T9	Version 445 465	deeper tea strainers
+T10	Effect 486 509	brew single cups of tea
+T11	Target 561 569	strainer
+R4	CONDITION Arg1:T9 Arg2:T10	
+T12	MeansOfUse 588 616	set in a cup to brew the tea
+T13	MeansOfUse 627 699	removed, along with the spent tea leaves, when the tea is ready to drink
+R5	CONDITION Arg1:T12 Arg2:T10	
+R6	CONDITION Arg1:T13 Arg2:T10	

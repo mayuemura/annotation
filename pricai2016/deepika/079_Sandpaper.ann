@@ -1,0 +1,15 @@
+T1	Target 0 9	Sandpaper
+T2	Target 13 23	glasspaper
+T3	ComposedOf 94 141	sheets of paper or cloth with abrasive material
+T4	Effect 68 76	abrasive
+R1	CONDITION Arg1:T3 Arg2:T4	
+T5	Target 310 319	Sandpaper
+T6	Effect 371 417	remove small amounts of material from surfaces
+T7	Effect 429 499	make them smoother (for example, in house painting and wood finishing)
+T8	Effect 504 550	remove a layer of material (such as old paint)
+T9	Effect 568 635	make the surface rougher (for example, as a preparation for gluing)
+R2	CAUSALITY Arg1:T6 Arg2:T7	
+R3	CAUSALITY Arg1:T6 Arg2:T8	
+R4	CAUSALITY Arg1:T6 Arg2:T9	
+T10	Version 738 761	"aluminium oxide paper"
+T11	Version 820 843	"silicon carbide" paper

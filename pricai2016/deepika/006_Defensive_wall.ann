@@ -1,17 +1,22 @@
 T1	Target 2 16	defensive wall
-T2	Effect 22 35	fortification
-T3	MeansOfUse 41 110	to protect a city, town or other settlement from potential aggressors
-T4	MeansOfUse 155 177	to enclose settlements
 T5	Time 112 138	In ancient to modern times
 T6	Target 215 225	city walls
 T7	Target 229 239	town walls
-T8	MeansOfUse 436 485	to enclose regions or mark territorial boundaries
 T9	Target 524 529	walls
 T10	Effect 570 643	representing the status and independence of the communities they embraced
 T11	Effect 539 567	important symbolic functions
 T12	Target 662 667	walls
-T13	Effect 380 421	extended far beyond the borders of a city
-R1	CONDITION Arg1:T8 Arg2:T13	
 T14	Version 686 704	masonry structures
 T15	Version 715 746	brick and timber-built variants
-R2	CONDITION Arg1:T3 Arg2:T2	
+T2	MeansOfUse 22 35	fortification
+T3	Effect 44 110	protect a city, town or other settlement from potential aggressors
+R2	CONDITION Arg1:T2 Arg2:T3	
+T4	Effect 158 177	enclose settlements
+T16	Version 285 304	Great Wall of China
+T17	Version 306 320	Walls of Benin
+T18	Version 322 336	Hadrian's Wall
+T19	Version 346 372	metaphorical Atlantic Wall
+T8	Effect 439 485	enclose regions or mark territorial boundaries
+T13	MeansOfUse 380 421	extended far beyond the borders of a city
+R1	CONDITION Arg1:T13 Arg2:T8	
+T20	Effect 500 509	defensive

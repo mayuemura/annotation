@@ -1,0 +1,11 @@
+T1	Target 2 13	water clock
+T2	Target 18 27	clepsydra
+T3	Effect 54 70	time is measured
+T4	Effect 74 191	the regulated flow of liquid into (inflow type) or out from (outflow type) a vessel where the amount is then measured
+R1	CAUSALITY Arg1:T4 Arg2:T3	
+T5	Target 193 205	Water clocks
+T7	Target 384 388	they
+T8	Version 476 495	bowl-shaped outflow
+T9	Target 522 533	water clock
+T10	Target 698 710	water clocks
+T6	Effect 256 270	time-measuring
